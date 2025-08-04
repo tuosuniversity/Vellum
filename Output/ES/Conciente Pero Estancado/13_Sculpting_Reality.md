@@ -4,7 +4,7 @@ Aquí tienes los 3 artículos de blog, diseñados como avances para el libro "Co
 
 ## Artículo 1
 
-### **Título SEO: El Poder Oculto de Tu Atención: ¿Cómo Moldea Tu Realidad Interna?**
+### **El Poder Oculto de Tu Atención: ¿Cómo Moldea Tu Realidad Interna?**
 
 ¿Alguna vez te has detenido a pensar en el increíble poder que reside en el simple acto de prestar atención? En un mundo lleno de distracciones constantes, nuestra atención a menudo se dispersa, saltando de una cosa a otra sin rumbo fijo. Pero, ¿y si te dijera que tu atención no es un mero receptor pasivo de información, sino una fuerza activa y poderosa que tiene la capacidad de esculpir tu propia realidad interna?
 
@@ -24,7 +24,7 @@ Pero, ¿cómo podemos aprender a dominar esta herramienta tan fundamental? ¿Có
 
 ## Artículo 2
 
-### **Título SEO: De la Filosofía Antigua a la Mente Moderna: Las Raíces Históricas de Esculpir Tu Realidad**
+### **De la Filosofía Antigua a la Mente Moderna: Las Raíces Históricas de Esculpir Tu Realidad**
 
 La idea de que podemos influir activamente en nuestro mundo interior, modelando nuestros pensamientos, emociones y, en última instancia, nuestra experiencia de la realidad, no es un concepto nuevo. De hecho, es una verdad profunda que ha resonado a través de las eras, explorada por filósofos, sabios y pensadores mucho antes de que existieran términos como "física cuántica" o "neurociencia". El marco de Consciencia Cuántica se asienta sobre cimientos que se extienden miles de años atrás, ofreciendo una nueva lente a una sabiduría ancestral.
 
@@ -42,7 +42,7 @@ No te pierdas cómo estas antiguas verdades se entrelazan con descubrimientos mo
 
 ## Artículo 3
 
-### **Título SEO: Consciencia Cuántica: Desvelando el Marco de Tres Fases para Transformar Tu Mundo Interior**
+### **Consciencia Cuántica: Desvelando el Marco de Tres Fases para Transformar Tu Mundo Interior**
 
 ¿Te has sentido alguna vez atrapado en patrones recurrentes de pensamiento o emoción, deseando tener una forma de salir de ellos? La historia de Sarah, la diseñadora gráfica, resuena con muchos de nosotros: el deseo de superar la inseguridad, el miedo al juicio o la procrastinación. El marco de Consciencia Cuántica ofrece una hoja de ruta clara y accionable para precisamente eso: convertirte en el arquitecto activo de tu paisaje interno.
 

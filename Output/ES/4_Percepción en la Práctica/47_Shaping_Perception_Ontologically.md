@@ -4,7 +4,7 @@
 
 ## Artículo 1: Céntrate en un concepto científico central explicado en el capítulo. Simplifícalo para una audiencia general y explica su relevancia para la consciencia. Termina con una pregunta sobre cómo este concepto se puede aplicar en la vida diaria.
 
-### Título SEO: Más Allá de lo que Ves: Cómo Tu Mente Moldea la Realidad y la Consciencia Cuántica
+### Más Allá de lo que Ves: Cómo Tu Mente Moldea la Realidad y la Consciencia Cuántica
 
 ¿Alguna vez has pensado que lo que percibes como "realidad" no es solo algo que existe fuera de ti, sino algo que tu propia mente construye activamente? Puede sonar a ciencia ficción, pero la neurociencia moderna y la filosofía de la mente están revelando una verdad revolucionaria: **no somos observadores pasivos del mundo, sino arquitectos activos de nuestra propia experiencia.**
 
@@ -26,7 +26,7 @@ El marco de Consciencia Cuántica te invita a ir más allá de la observación p
 
 ## Artículo 2: Explora los orígenes históricos o filosóficos de una de las ideas clave del marco. Proporciona contexto y antecedentes sin revelar la metodología completa.
 
-### Título SEO: De Aristóteles a la IA: La Fascinante Evolución de la Ontología y Su Impacto en la Consciencia
+### De Aristóteles a la IA: La Fascinante Evolución de la Ontología y Su Impacto en la Consciencia
 
 ¿Qué es la realidad? Esta pregunta, que parece tan sencilla, ha intrigado a los pensadores durante milenios. En el corazón de nuestro marco de Consciencia Cuántica se encuentra el concepto de **ontología**, una palabra que puede sonar compleja, pero que encierra la clave para comprender cómo interactuamos y, de hecho, cómo podemos moldear nuestra experiencia del mundo.
 
@@ -46,7 +46,7 @@ Esta base histórica y filosófica es el cimiento sobre el que nuestro marco de 
 
 ## Artículo 3: Presenta una visión general de alto nivel de la estructura del marco. Explica lo que un lector aprenderá sin revelar los pasos o técnicas accionables.
 
-### Título SEO: Desbloquea Tu Realidad: Una Mirada al Marco de Manipulación Ontológica de la Consciencia Cuántica
+### Desbloquea Tu Realidad: Una Mirada al Marco de Manipulación Ontológica de la Consciencia Cuántica
 
 Imagina por un momento que la realidad que experimentas cada día no es una prisión fija, sino una obra de arte en constante evolución, y tú tienes la brocha. Esta es la premisa central del marco de **Manipulación Ontológica** que presentamos en el libro sobre Consciencia Cuántica. Un enfoque revolucionario que te empodera para pasar de ser un observador pasivo de tu vida a un **arquitecto consciente de tu propia experiencia**.
 

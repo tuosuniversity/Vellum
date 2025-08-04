@@ -4,7 +4,7 @@
 
 ### **Artículo 1: Concepto Científico Central**
 
-#### **Título SEO: La Falsa Arquitectura de Tu Mente: ¿Quién Escribe Realmente Tus Guiones de Vida?**
+#### **La Falsa Arquitectura de Tu Mente: ¿Quién Escribe Realmente Tus Guiones de Vida?**
 
 **Una pregunta fundamental para tu consciencia:** ¿son tus pensamientos, tus emociones y tus acciones verdaderamente tuyos, o son ecos de algo más? En un mundo que valora la autenticidad y la libertad individual, resulta sorprendente descubrir que una gran parte de lo que consideramos nuestro "verdadero yo" podría ser, en realidad, una construcción externa. En el innovador marco de Consciencia Cuántica, a esto lo llamamos **Guiones Heredados**, y comprenderlos es el primer paso para una verdadera auto-originación.
 
@@ -29,7 +29,7 @@ El Marco de Consciencia Cuántica se sumerge profundamente en esta distinción, 
 
 ### **Artículo 2: Orígenes Históricos y Filosóficos**
 
-#### **Título SEO: ¿Naces o Te Haces? La Fascinante Historia Detrás de Tus Creencias Más Profundas y Guiones de Vida**
+#### **¿Naces o Te Haces? La Fascinante Historia Detrás de Tus Creencias Más Profundas y Guiones de Vida**
 
 Desde los albores de la filosofía, la humanidad se ha preguntado: ¿Cuánto de lo que somos es innato y cuánto es moldeado por el mundo que nos rodea? Esta pregunta, central para la comprensión de la consciencia, resuena profundamente en el concepto de **Guiones Heredados** que exploramos en el marco de Consciencia Cuántica. Lo que hoy llamamos "Guiones Heredados" tiene raíces profundas en siglos de pensamiento psicológico y filosófico sobre el condicionamiento humano y la construcción de la identidad.
 
@@ -47,7 +47,7 @@ Comprender los orígenes históricos y filosóficos de los Guiones Heredados no 
 
 ### **Artículo 3: Visión General de la Estructura del Marco**
 
-#### **Título SEO: Transforma Tu Realidad: Una Introducción al Marco de Mindfulness Cuántico para la Auto-Originación**
+#### **Transforma Tu Realidad: Una Introducción al Marco de Mindfulness Cuántico para la Auto-Originación**
 
 ¿Alguna vez has sentido que estás viviendo la vida de otra persona? ¿O que tus reacciones automáticas te impiden alcanzar tu verdadero potencial? Estas sensaciones son indicadores clave de que podrías estar operando bajo la influencia de **Guiones Heredados**: patrones de pensamiento, emoción y comportamiento que no son tuyos, sino que fueron absorbidos de fuentes externas. Pero no tienes que permanecer atrapado en ellos. El **Marco de Mindfulness Cuántico** es una poderosa brújula para navegar fuera de esta programación y hacia tu **auto-originación auténtica**.
 
