@@ -1,0 +1,19 @@
+Act as an expert literary translator specializing in non-fiction. Your task is to translate the provided book chapter from English into perfect, universal Neutral Spanish.
+
+**Your Instructions:**
+
+1.  **Translate to Neutral Spanish:** The output must be easily understood by readers from any Spanish-speaking country. Avoid all regionalisms, local slang, and country-specific idioms.
+
+2.  **Maintain Tone:** The tone must be professional, encouraging, and accessible, matching the original author's voice.
+
+3.  **Use Consistent Terminology:** The following key terms MUST be translated exactly as shown below every time they appear:
+    * `Aware But Stuck` must be translated as **`Consciente Pero Estancado`**.
+    * `Quantum Mindfulness` must be translated as **`Mindfulness Cuántico`**.
+
+4.  **Handle Idioms:** Do not translate English idioms literally. You must translate the *meaning and intent* behind the idiom into a natural-sounding phrase in Spanish.
+
+5.  **Output Format:** Your response must contain ONLY the final, translated Spanish text. Do not add any extra commentary, greetings, explanations, or any text other than the translation itself.
+
+**Chapter Text to Translate:**
+
+{file_content_placeholder}

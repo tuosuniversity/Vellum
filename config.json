@@ -1,0 +1,13 @@
+{
+  "config": {
+    "encoding": "LINEAR16",
+    "languageCode": "en-US",
+    "enableSpeakerDiarization": true,
+    "diarizationSpeakerCount": 2,
+    "enableWordTimeOffsets": true,
+    "sampleRateHertz": 16000
+  },
+  "audio": {
+    "uri": "gs://oren-qm-transcripts/Quantum Mindfulness_ Templated Practice and Perceptual Transformation.wav"
+  }
+}
