@@ -1,19 +1,12 @@
-Act as an expert literary translator specializing in non-fiction. Your task is to translate the provided book chapter from English into perfect, universal Neutral Spanish.
+Eres un redactor de contenidos especializado en ciencia y desarrollo personal. Tu tarea es generar 3 artículos de blog a partir del siguiente capítulo sobre el marco de trabajo de Consciencia Cuántica. Los artículos deben ser autorizados, informativos y atractivos, pero actuar como avances para animar al lector a comprar el libro para una comprensión completa.
 
-**Your Instructions:**
+Para cada artículo, primero genera un título optimizado para SEO que sea a la vez atractivo y rico en palabras clave. El título debe ir seguido del cuerpo del artículo.
 
-1.  **Translate to Neutral Spanish:** The output must be easily understood by readers from any Spanish-speaking country. Avoid all regionalisms, local slang, and country-specific idioms.
+Artículo 1: Céntrate en un concepto científico central explicado en el capítulo. Simplifícalo para una audiencia general y explica su relevancia para la consciencia. Termina con una pregunta sobre cómo este concepto se puede aplicar en la vida diaria.
+Artículo 2: Explora los orígenes históricos o filosóficos de una de las ideas clave del marco. Proporciona contexto y antecedentes sin revelar la metodología completa.
+Artículo 3: Presenta una visión general de alto nivel de la estructura del marco. Explica lo que un lector aprenderá sin revelar los pasos o técnicas accionables.
 
-2.  **Maintain Tone:** The tone must be professional, encouraging, and accessible, matching the original author's voice.
+Cada artículo debe tener entre 400 y 600 palabras.
 
-3.  **Use Consistent Terminology:** The following key terms MUST be translated exactly as shown below every time they appear:
-    * `Aware But Stuck` must be translated as **`Consciente Pero Estancado`**.
-    * `Quantum Mindfulness` must be translated as **`Mindfulness Cuántico`**.
-
-4.  **Handle Idioms:** Do not translate English idioms literally. You must translate the *meaning and intent* behind the idiom into a natural-sounding phrase in Spanish.
-
-5.  **Output Format:** Your response must contain ONLY the final, translated Spanish text. Do not add any extra commentary, greetings, explanations, or any text other than the translation itself.
-
-**Chapter Text to Translate:**
-
+Contenido del Capítulo:
 {file_content_placeholder}

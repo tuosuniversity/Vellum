@@ -15,8 +15,8 @@ PROJECT_ID = "arched-curve-464100-c9"  # Ensure this is your correct Google Clou
 LOCATION = "us-central1"               # Ensure this is the correct region for your model
 MODEL_NAME = "gemini-2.5-flash"        # Recommended for larger contexts, or "gemini-pro" for smaller.
 
-INPUT_ROOT_FOLDER = "Instructionals"  # TODO: SET THIS, e.g., "input_documents"
-OUTPUT_ROOT_FOLDER = "ES-Instructionals"    # TODO: SET THIS, e.g., "processed_documents"
+INPUT_ROOT_FOLDER = "Input/ES"  # TODO: SET THIS, e.g., "input_documents"
+OUTPUT_ROOT_FOLDER = "Output/ES"    # TODO: SET THIS, e.g., "processed_documents"
 PROMPT_FILENAME = "prompt.txt"                         # File containing your main instructions template
 FILE_CONTENT_PLACEHOLDER = "{file_content_placeholder}" # Placeholder in prompt.txt for file content
 
