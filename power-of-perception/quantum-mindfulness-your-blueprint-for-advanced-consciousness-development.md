@@ -1,8 +1,24 @@
 ---
-title: Quantum Mindfulness: Your Blueprint for Advanced Consciousness Development
-categories: ["Core Concepts", "Advanced Practices", "Mindfulness Approaches"]
-tags: ["Quantum Mindfulness", "Consciousness Development", "Psychodynamic Dimensions", "Cognitive Superposition", "Psychodynamic Collapse", "Active Mastery", "Perceptual Freedom", "Inner World", "Self-discovery"]
-post_excerpt: "Ready to move beyond basic mindfulness? Explore the Quantum Mindfulness framework, a sophisticated approach that teaches you to not just observe your inner world, but to actively understand and shape its underlying psychodynamic architecture. Discover how conscious attention can transform potential mental states into actualized experiences, leading to profound personal growth and perceptual freedom."
+title: 'Quantum Mindfulness: Your Blueprint for Advanced Consciousness Development'
+categories:
+- Core Concepts
+- Advanced Practices
+- Mindfulness Approaches
+tags:
+- Quantum Mindfulness
+- Consciousness Development
+- Psychodynamic Dimensions
+- Cognitive Superposition
+- Psychodynamic Collapse
+- Active Mastery
+- Perceptual Freedom
+- Inner World
+- Self-discovery
+post_excerpt: Ready to move beyond basic mindfulness? Explore the Quantum Mindfulness
+  framework, a sophisticated approach that teaches you to not just observe your inner
+  world, but to actively understand and shape its underlying psychodynamic architecture.
+  Discover how conscious attention can transform potential mental states into actualized
+  experiences, leading to profound personal growth and perceptual freedom.
 ---
 ### Quantum Mindfulness: Your Blueprint for Advanced Consciousness Development
 

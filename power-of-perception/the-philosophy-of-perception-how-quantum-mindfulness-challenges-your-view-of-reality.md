@@ -1,20 +1,24 @@
 ---
-title: The Philosophy of Perception: How Quantum Mindfulness Challenges Your View of Reality
+title: 'The Philosophy of Perception: How Quantum Mindfulness Challenges Your View
+  of Reality'
 categories:
-  - Perception
-  - Core Concepts
-  - Framework Principles
+- Perception
+- Core Concepts
+- Framework Principles
 tags:
-  - Quantum Mindfulness
-  - Perceptual Primacy
-  - Consciousness
-  - Reality Construction
-  - Observer Effect
-  - Psychodynamic Dimensions
-  - Cognitive Appraisal
-  - Personal Development
-post_excerpt: >
-  This post explores Quantum Mindfulness's revolutionary concept of Perceptual Primacy, which posits that consciousness actively constructs, rather than passively receives, reality. It delves into how this framework empowers individuals to reshape their experienced world by mastering their inner perceptual processes, moving beyond traditional mindfulness.
+- Quantum Mindfulness
+- Perceptual Primacy
+- Consciousness
+- Reality Construction
+- Observer Effect
+- Psychodynamic Dimensions
+- Cognitive Appraisal
+- Personal Development
+post_excerpt: This post explores Quantum Mindfulness's revolutionary concept of Perceptual
+  Primacy, which posits that consciousness actively constructs, rather than passively
+  receives, reality. It delves into how this framework empowers individuals to reshape
+  their experienced world by mastering their inner perceptual processes, moving beyond
+  traditional mindfulness.
 ---
 ### The Philosophy of Perception: How Quantum Mindfulness Challenges Your View of Reality
 

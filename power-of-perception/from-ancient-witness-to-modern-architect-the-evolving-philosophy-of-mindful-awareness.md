@@ -1,10 +1,25 @@
 ---
-title: From Ancient Witness to Modern Architect: The Evolving Philosophy of Mindful Awareness
-categories: ["Mindfulness Approaches", "Core Concepts", "Framework Principles"]
-tags: ["Quantum Mindfulness", "Classical Mindfulness", "Observer-Participant Dynamic", "Consciousness", "Perception", "Cognitive Agency", "Psychodynamic Wave Collapse", "Mental States"]
-post_excerpt: Explore the profound shift from traditional "witness consciousness" to the active "Observer-Participant" dynamic within the Quantum Mindfulness framework. This article delves into how conscious attention actively shapes reality, empowering individuals to move beyond passive observation and become intentional co-creators of their inner experience.
+title: 'From Ancient Witness to Modern Architect: The Evolving Philosophy of Mindful
+  Awareness'
+categories:
+- Mindfulness Approaches
+- Core Concepts
+- Framework Principles
+tags:
+- Quantum Mindfulness
+- Classical Mindfulness
+- Observer-Participant Dynamic
+- Consciousness
+- Perception
+- Cognitive Agency
+- Psychodynamic Wave Collapse
+- Mental States
+post_excerpt: Explore the profound shift from traditional "witness consciousness"
+  to the active "Observer-Participant" dynamic within the Quantum Mindfulness framework.
+  This article delves into how conscious attention actively shapes reality, empowering
+  individuals to move beyond passive observation and become intentional co-creators
+  of their inner experience.
 ---
-
 ### From Ancient Witness to Modern Architect: The Evolving Philosophy of Mindful Awareness
 
 For centuries, across diverse contemplative traditions, the pursuit of inner peace and profound wisdom has been inextricably linked to the cultivation of a detached, non-judgmental observation of one's inner world. This time-honored approach forms the very bedrock of what we commonly refer to as Classical Mindfulness. It invites us to assume the role of the "pure observer," a silent witness (`qm:WitnessConsciousness`) to the ceaseless ebb and flow of thoughts, emotions, and sensations, without becoming entangled in their often-turbulent content. This practice has long been celebrated as a powerful tool for fostering emotional regulation, alleviating stress, and nurturing a deep sense of tranquil presence.
