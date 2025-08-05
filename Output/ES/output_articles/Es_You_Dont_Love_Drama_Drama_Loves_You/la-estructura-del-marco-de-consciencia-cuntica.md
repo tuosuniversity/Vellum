@@ -1,0 +1,8 @@
+### La Estructura del Marco de Consciencia Cuántica
+El corazón del marco de Consciencia Cuántica reside en su comprensión de las **Dimensiones Psicodinámicas**. Estas son las fuerzas invisibles pero poderosas que operan dentro de nosotros, influyendo en cómo pensamos, sentimos y nos relacionamos con el mundo. La Dimensión Psicoprotectora, por ejemplo, es una de las diez dimensiones clave, y su función es fundamental para nuestra capacidad de establecer y mantener límites.
+
+El libro "Consciencia Cuántica" te guiará a través de una exploración de estas dimensiones, mostrando cómo interactúan y se influyen mutuamente. No se trata solo de entender una parte aislada de tu mente, sino de ver el tapiz completo de tu ser psicológico. A través de este marco, aprenderás a:
+
+*   **Identificar tus patrones internos:** Comprenderás cómo tus dimensiones operan actualmente, a menudo de forma inconsciente, y cómo esto afecta tus relaciones y tu bienestar.
+*   **Reconocer desequilibrios:** El marco te enseñará a detectar cuándo una dimensión está hiperactiva o infraactiva, y cómo esos desequilibrios pueden manifestarse en tu vida diaria (por ejemplo, una Dimensión Psicoprotectora excesivamente rígida que conduce al aislamiento, o una infraactiva que resulta en agotamiento).
+*   **Fomentar la armonía:** El objetivo es lograr un equilibrio dinámico entre estas dimensiones. Por ejemplo, entenderás la interacción crucial entre tu Dimensión Psicoprotectora (que busca la protección y la distinción) y tu Dimensión Psicoempática (que busca la conexión y la compasión). El marco te mostrará cómo estas aparentemente opuestas pueden trabajar en armonía para crear "límites permeables" que permiten una conexión profunda sin perder tu sentido de ti mismo.

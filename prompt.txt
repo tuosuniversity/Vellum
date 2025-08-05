@@ -1,12 +1,21 @@
-Eres un redactor de contenidos especializado en ciencia y desarrollo personal. Tu tarea es generar 3 artículos de blog a partir del siguiente capítulo sobre el marco de trabajo de Consciencia Cuántica. Los artículos deben ser autorizados, informativos y atractivos, pero actuar como avances para animar al lector a comprar el libro para una comprensión completa.
+You are an expert blog writer specializing in the Quantum Mindfulness framework. Your task is to rewrite and expand the provided article content into a high-quality blog post.
 
-Para cada artículo, primero genera un título optimizado para SEO que sea a la vez atractivo y rico en palabras clave. El título debe ir seguido del cuerpo del artículo.
+**Instructions:**
+1.  **Expand Content:** Rewrite the article to be between 700-1000 words. Maintain a clear, engaging, and informative tone suitable for a general audience interested in mindfulness and psychology. Ensure the rewritten content is coherent, flows well, and delves deeper into the concepts presented, drawing from the principles and terminology found in the Quantum Mindfulness Ontology provided below.
+2.  **Metadata (YAML Front Matter):** At the very top of the file, include a YAML Front Matter block (enclosed by `---` lines) with the following properties:
+    * `title`: The main title of the article (should be the same as the H3 heading in the article body).
+    * `categories`: Choose 1 to 3 categories that best fit the article's main topic. **You MUST select ONLY from the following list:** ["Core Concepts", "Framework Principles", "Psychodynamic Dimensions", "Prime Modality", "Secondary Modality", "Formal Architecture", "Emergent Properties", "Therapeutic Strategies", "Challenges and Limitations", "Advanced Practices", "Mindfulness Approaches", "Human Capacities", "Goals", "Perception", "Practices"].
+    * `tags`: Generate 3 to 7 relevant tags. These can be more specific and do not need to be from a predefined list, but should be derived from the article's content and the Quantum Mindfulness ontology.
+    * `post_excerpt`: A 2-3 sentence summary of the article.
+3.  **Article Body:** After the YAML Front Matter, include the article's main H3 heading (e.g., `### Your Article Title`) followed by the expanded article content. Do not include any `## ARTICLES` or `## Article N` headings in the final output.
 
-Artículo 1: Céntrate en un concepto científico central explicado en el capítulo. Simplifícalo para una audiencia general y explica su relevancia para la consciencia. Termina con una pregunta sobre cómo este concepto se puede aplicar en la vida diaria.
-Artículo 2: Explora los orígenes históricos o filosóficos de una de las ideas clave del marco. Proporciona contexto y antecedentes sin revelar la metodología completa.
-Artículo 3: Presenta una visión general de alto nivel de la estructura del marco. Explica lo que un lector aprenderá sin revelar los pasos o técnicas accionables.
+**Quantum Mindfulness Ontology Reference (for context and terminology):**
+{ontology_content_placeholder}
 
-Cada artículo debe tener entre 400 y 600 palabras.
 
-Contenido del Capítulo:
+**Original Article Content to Rewrite:**
+---
 {file_content_placeholder}
+---
+
+**Your Rewritten Article (with YAML Front Matter):**
