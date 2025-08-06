@@ -4,14 +4,14 @@ from vertexai.generative_models import GenerativeModel, GenerationConfig
 
 # --- ENVIRONMENT SETUP INSTRUCTIONS ---
 # 1. Install the Google Cloud AI Platform SDK:
-#    pip install google-cloud-aiplatform
+#    pip install google-cloud-aiplatform
 #
 # 2. Authenticate your Codespace:
-#    In your Codespaces terminal, run:
-#    gcloud auth application-default login
+#    In your Codespaces terminal, run:
+#    gcloud auth application-default login
 #
 # 3. Set the project id as an environment variable in your Codespaces settings:
-#    GOOGLE_CLOUD_QUOTA_PROJECT = "arched-curve-464100-c9"
+#    GOOGLE_CLOUD_QUOTA_PROJECT = "arched-curve-464100-c9"
 # ------------------------------------
 
 # --- Configuration ---
@@ -20,8 +20,8 @@ LOCATION = "us-central1"
 MODEL_NAME = "gemini-2.5-flash"
 
 # File and folder paths
-ONTOLOGY_FILE_PATH = "quantum_mindfulness (2).md"
-OUTPUT_ARTICLE_FOLDER = "Texts/"
+ONTOLOGY_FILE_PATH = "quantum_mindfulness.md"
+OUTPUT_ARTICLE_FOLDER = "Texts-es/"
 
 print("[*] Script started.")
 print(f"[*] Using Project ID: {PROJECT_ID}, Location: {LOCATION}, Model: {MODEL_NAME}")
@@ -56,10 +56,24 @@ top_subclass_topics = [
 ]
 
 # Set the number of articles to generate for each topic
-articles_per_topic = 5
+articles_per_topic = 5  # Change this number to generate more or fewer articles per subclass
 
-# --- Define the Spanish Prompt Template ---
-SPANISH_PROMPT_TEMPLATE = f"""---
+try:
+    # Initialize Vertex AI
+    vertexai.init(project=PROJECT_ID, location=LOCATION)
+    model = GenerativeModel(MODEL_NAME)
+
+    # --- Read the Ontology File ---
+    ontology_content = ""
+    with open(ONTOLOGY_FILE_PATH, 'r', encoding='utf-8') as f:
+        ontology_content = f.read()
+
+    # --- Loop through each topic to generate multiple articles ---
+    for topic in top_subclass_topics:
+        for i in range(articles_per_topic):
+            print(f"\n[*] Generating article {i+1} for topic: {topic}")
+
+            final_prompt = f"""---
 Eres un escritor de blogs experto, especializado en el marco de la Mindfulness Cuántica. Tu tarea es generar una publicación de blog de alta calidad a partir de la ontología proporcionada, enfocándote en el siguiente tema: {{topic_name}}.
 
 **INSTRUCCIONES CRÍTICAS PARA EL FORMATO Y CONTENIDO DE SALIDA:**
@@ -98,49 +112,26 @@ Crea un artículo de blog completo en **español** basándote en esta ontología
 
 **Tu Artículo Generado (con YAML Front Matter):**
 """
-
-try:
-    # Initialize Vertex AI
-    vertexai.init(project=PROJECT_ID, location=LOCATION)
-    model = GenerativeModel(MODEL_NAME)
-
-    # --- Read the Ontology File ---
-    ontology_content = ""
-    with open(ONTOLOGY_FILE_PATH, 'r', encoding='utf-8') as f:
-        ontology_content = f.read()
-
-    # --- Loop through each topic to generate multiple articles ---
-    for topic in top_subclass_topics:
-        for i in range(articles_per_topic):
-            print(f"\n[*] Generating article {i+1} for topic: {topic}")
-
-            final_prompt = SPANISH_PROMPT_TEMPLATE.format(
-                topic_name=topic,
-                ontology_content=ontology_content
-            )
-
             # Generate content
             try:
-                # Use the provided generation configuration
-                generation_config = GenerationConfig(
-                    temperature=0.7,
-                    top_p=1.0,
-                    top_k=32.0,
-                    max_output_tokens=4096,
-                    stop_sequences=[]
-                )
-
                 response = model.generate_content(
                     contents=[{"role": "user", "parts": [{"text": final_prompt}]}],
-                    generation_config=generation_config
+                    generation_config=GenerationConfig(
+                        temperature=0.7,
+        top_p=1.0,
+        top_k=32.0,
+                        #max_output_tokens=2048,
+                        stop_sequences=[] # This prevents the model from stopping on "---"
+                    )
                 )
 
                 # --- Process and save the generated article ---
                 if response and response.candidates and response.candidates[0].content and response.candidates[0].content.parts:
                     generated_text = response.candidates[0].content.parts[0].text
-                    if generated_text:
+                    if generated_text: # Ensure the generated text is not empty
+                        # Create a clean filename from the topic name
                         safe_topic_name = topic.replace(" ", "_").replace("/", "_")
-                        output_filename = f"generated_qm_article_ES_{safe_topic_name}_{i+1}.md"
+                        output_filename = f"generated_qm_article_{safe_topic_name}_{i+1}.md"
                         output_filepath = os.path.join(OUTPUT_ARTICLE_FOLDER, output_filename)
 
                         generated_text = generated_text.strip()
