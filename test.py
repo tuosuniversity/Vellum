@@ -17,8 +17,8 @@ PROJECT_ID = "arched-curve-464100-c9"    # Ensure this is your correct Google Cl
 LOCATION = "us-central1"                # Ensure this is the correct region for your model
 MODEL_NAME = "gemini-2.5-flash"         # Recommended for larger contexts, or "gemini-pro" for smaller.
 
-INPUT_ROOT_FOLDER = "Output/EN/output_articles"  # Folder containing your original article markdown files (can have subfolders)
-OUTPUT_ROOT_FOLDER = "wordpress/"       # NEW: All rewritten articles will be flattened into this single root folder
+INPUT_ROOT_FOLDER = "Output/ES/output_articles"  # Folder containing your original article markdown files (can have subfolders)
+OUTPUT_ROOT_FOLDER = "wordpress-es/"       # NEW: All rewritten articles will be flattened into this single root folder
 PROMPT_FILENAME = "prompt.txt"                  # File containing your main instructions template
 ONTOLOGY_FILENAME = "quantum_mindfulness.md"    # File containing your ontology content
 FILE_CONTENT_PLACEHOLDER = "{file_content_placeholder}" # Placeholder in prompt.txt for file content
