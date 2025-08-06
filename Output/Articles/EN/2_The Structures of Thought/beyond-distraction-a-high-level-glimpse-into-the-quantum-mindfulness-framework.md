@@ -1,19 +1,24 @@
 ---
 title: Beyond Distraction - A High-Level Glimpse into the Quantum Mindfulness Framework
-post_excerpt: In an age of relentless digital noise, maintaining mental focus and pursuing our goals can feel like a constant struggle. The Quantum Mindfulness framework introduces Cognitive Anchoring, not just as a concept of concentration, but as a dynamic process to stabilize intentions, cut through distraction, and precisely direct your inner world. Discover how this framework empowers you to actively shape your consciousness and manifest your chosen reality.
-taxonomy:
-    category:
-        - Core Concepts
-        - Practices
-        - Framework Principles
-    post_tag:
-        - Cognitive Anchoring
-        - Quantum Mindfulness
-        - Psychodynamic Dimensions
-        - Intentionality
-        - Emotional Regulation
-        - Perception
-        - Mental Well-being
+post_excerpt: In an age of relentless digital noise, maintaining mental focus and
+  pursuing our goals can feel like a constant struggle. The Quantum Mindfulness framework
+  introduces Cognitive Anchoring, not just as a concept of concentration, but as a
+  dynamic process to stabilize intentions, cut through distraction, and precisely
+  direct your inner world. Discover how this framework empowers you to actively shape
+  your consciousness and manifest your chosen reality.
+taxonomy: null
+category:
+- Core Concepts
+- Practices
+- Framework Principles
+post_tag:
+- Cognitive Anchoring
+- Quantum Mindfulness
+- Psychodynamic Dimensions
+- Intentionality
+- Emotional Regulation
+- Perception
+- Mental Well-being
 ---
 ### Beyond Distraction: A High-Level Glimpse into the Quantum Mindfulness Framework
 

@@ -1,20 +1,25 @@
 ---
 title: Quantum Mindfulness - A Revolutionary Framework for Conscious Living
-post_excerpt: >
-Are you navigating life feeling perpetually stuck, despite constant effort? The Quantum Mindfulness framework offers a revolutionary perspective: your reality isn't fixed, but a dynamic construct shaped by your consciousness. Learn to dismantle unseen patterns, discern between influenceable and unchangeable aspects, and skillfully construct a life aligned with your deepest authentic self through active perceptual mastery.
-taxonomy:
-    category:
-        - Core Concepts
-        - Perception
-        - Framework Principles
-    post_tag:
-        - Quantum Mindfulness
-        - Personal Transformation
-        - Reality Construction
-        - Perceptual Freedom
-        - Inherited Scripts
-        - Psychodynamic Collapse
-        - Observer-Participant Dynamic
+post_excerpt: '>'
+? Are you navigating life feeling perpetually stuck, despite constant effort? The
+  Quantum Mindfulness framework offers a revolutionary perspective
+: your reality isn't fixed, but a dynamic construct shaped by your consciousness.
+  Learn to dismantle unseen patterns, discern between influenceable and unchangeable
+  aspects, and skillfully construct a life aligned with your deepest authentic self
+  through active perceptual mastery.
+taxonomy: null
+category:
+- Core Concepts
+- Perception
+- Framework Principles
+post_tag:
+- Quantum Mindfulness
+- Personal Transformation
+- Reality Construction
+- Perceptual Freedom
+- Inherited Scripts
+- Psychodynamic Collapse
+- Observer-Participant Dynamic
 ---
 ### Quantum Mindfulness: A Revolutionary Framework for Conscious Living
 

@@ -1,19 +1,23 @@
 ---
-title: Más Allá del Colapso - La Arquitectura de la Consciencia Cuántica y tu Poder de Transformación
-post_excerpt: "Más allá de la mera solidificación de pensamientos, el framework de Quantum Mindfulness revela la intrincada arquitectura de tu consciencia. Descubre cómo tu atención y voluntad pueden activar dimensiones psicodinámicas, transformándote de un observador pasivo a un co-creador activo de tu realidad interior."
-taxonomy:
-    category:
-        - Core Concepts
-        - Framework Principles
-        - Practices
-    post_tag:
-        - Quantum Mindfulness
-        - Psychodynamic Dimensions
-        - Conscious Creation
-        - Intentionality
-        - Cognitive Anchoring
-        - Inner Landscape
-        - Self-Mastery
+title: Más Allá del Colapso - La Arquitectura de la Consciencia Cuántica y tu Poder
+  de Transformación
+post_excerpt: Más allá de la mera solidificación de pensamientos, el framework de
+  Quantum Mindfulness revela la intrincada arquitectura de tu consciencia. Descubre
+  cómo tu atención y voluntad pueden activar dimensiones psicodinámicas, transformándote
+  de un observador pasivo a un co-creador activo de tu realidad interior.
+taxonomy: null
+category:
+- Core Concepts
+- Framework Principles
+- Practices
+post_tag:
+- Quantum Mindfulness
+- Psychodynamic Dimensions
+- Conscious Creation
+- Intentionality
+- Cognitive Anchoring
+- Inner Landscape
+- Self-Mastery
 ---
 ### Más Allá del Colapso: La Arquitectura de la Consciencia Cuántica y tu Poder de Transformación
 

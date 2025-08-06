@@ -1,22 +1,26 @@
 ---
 title: Desbloquea Tu Poder Interno - Una Visión General del Marco de Consciencia Cuántica
-post_excerpt: El marco de Consciencia Cuántica (o Quantum Mindfulness) ofrece un paradigma transformador para comprender y moldear activamente nuestra realidad. A través de prácticas como "La Detención" y el uso de Anclajes Físicos, este enfoque empodera al individuo para pasar de ser un receptor pasivo a un cocreador intencional de su experiencia, cultivando una profunda claridad mental y emocional.
-taxonomy:
-    category:
-        - Core Concepts
-        - Framework Principles
-        - Practices
-    post_tag:
-        - Quantum Mindfulness
-        - Conscious Attention
-        - Psychodynamic Wave Collapse
-        - Cognitive Superposition
-        - Psycho-Volitional Dimension
-        - Psycho-Meditative Dimension
-        - Embodied Mindfulness
-        - Perceptual Freedom
-        - Intentional Collapse
-        - Cognitive Anchoring
+post_excerpt: El marco de Consciencia Cuántica (o Quantum Mindfulness) ofrece un paradigma
+  transformador para comprender y moldear activamente nuestra realidad. A través de
+  prácticas como "La Detención" y el uso de Anclajes Físicos, este enfoque empodera
+  al individuo para pasar de ser un receptor pasivo a un cocreador intencional de
+  su experiencia, cultivando una profunda claridad mental y emocional.
+taxonomy: null
+category:
+- Core Concepts
+- Framework Principles
+- Practices
+post_tag:
+- Quantum Mindfulness
+- Conscious Attention
+- Psychodynamic Wave Collapse
+- Cognitive Superposition
+- Psycho-Volitional Dimension
+- Psycho-Meditative Dimension
+- Embodied Mindfulness
+- Perceptual Freedom
+- Intentional Collapse
+- Cognitive Anchoring
 ---
 ### Desbloquea Tu Poder Interno: Una Visión General del Marco de Consciencia Cuántica
 

@@ -1,22 +1,27 @@
 ---
-title: From Meditation to the Lab - The Scientific Journey of Mindfulness Programs (MBSR, MBCT)
-post_excerpt: Explore the fascinating evolution of mindfulness from ancient contemplative traditions to modern scientific interventions. This post delves into the origins and impact of standardized programs like MBSR and MBCT, highlighting their pivotal role in legitimizing mindfulness within healthcare and paving the way for advanced frameworks like Quantum Mindfulness.
-taxonomy:
-    category:
-        - Mindfulness Approaches
-        - Therapeutic Strategies
-        - Practices
-    post_tag:
-        - Mindfulness
-        - MBSR
-        - MBCT
-        - Jon Kabat-Zinn
-        - Cognitive Behavioral Therapy
-        - Psychodynamic Collapse
-        - Perception
-        - Conscious Attention
-        - Quantum Mindfulness
-        - Observer-Participant Dynamic
+title: From Meditation to the Lab - The Scientific Journey of Mindfulness Programs
+  (MBSR, MBCT)
+post_excerpt: Explore the fascinating evolution of mindfulness from ancient contemplative
+  traditions to modern scientific interventions. This post delves into the origins
+  and impact of standardized programs like MBSR and MBCT, highlighting their pivotal
+  role in legitimizing mindfulness within healthcare and paving the way for advanced
+  frameworks like Quantum Mindfulness.
+taxonomy: null
+category:
+- Mindfulness Approaches
+- Therapeutic Strategies
+- Practices
+post_tag:
+- Mindfulness
+- MBSR
+- MBCT
+- Jon Kabat-Zinn
+- Cognitive Behavioral Therapy
+- Psychodynamic Collapse
+- Perception
+- Conscious Attention
+- Quantum Mindfulness
+- Observer-Participant Dynamic
 ---
 ### From Meditation to the Lab - The Scientific Journey of Mindfulness Programs (MBSR, MBCT)
 

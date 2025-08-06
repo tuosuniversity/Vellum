@@ -1,23 +1,28 @@
 ---
-title: Your Inner Blueprint - A High-Level Look at the Quantum Mindfulness Framework for Personal Growth
-post_excerpt: The Quantum Mindfulness framework offers a revolutionary perspective on how conscious attention actively shapes our subjective reality. Discover how understanding "Psychodynamic Wave Collapse" and engaging as a "Quantum Observer" can lead to profound "Perceptual Freedom" and empower you to become a conscious architect of your inner world.
-taxonomy:
-    category:
-        - Perception
-        - Core Concepts
-        - Mindfulness Approaches
-    post_tag:
-        - Quantum Mindfulness
-        - Personal Growth
-        - Consciousness
-        - Observer Effect
-        - Psychodynamic Dimensions
-        - Cognitive Superposition
-        - Perceptual Freedom
-        - Active Mastery
-        - Subjective Reality
-        - Conscious Observation
-        - Internal Map
+title: Your Inner Blueprint - A High-Level Look at the Quantum Mindfulness Framework
+  for Personal Growth
+post_excerpt: The Quantum Mindfulness framework offers a revolutionary perspective
+  on how conscious attention actively shapes our subjective reality. Discover how
+  understanding "Psychodynamic Wave Collapse" and engaging as a "Quantum Observer"
+  can lead to profound "Perceptual Freedom" and empower you to become a conscious
+  architect of your inner world.
+taxonomy: null
+category:
+- Perception
+- Core Concepts
+- Mindfulness Approaches
+post_tag:
+- Quantum Mindfulness
+- Personal Growth
+- Consciousness
+- Observer Effect
+- Psychodynamic Dimensions
+- Cognitive Superposition
+- Perceptual Freedom
+- Active Mastery
+- Subjective Reality
+- Conscious Observation
+- Internal Map
 ---
 ### Your Inner Blueprint: A High-Level Look at the Quantum Mindfulness Framework for Personal Growth
 

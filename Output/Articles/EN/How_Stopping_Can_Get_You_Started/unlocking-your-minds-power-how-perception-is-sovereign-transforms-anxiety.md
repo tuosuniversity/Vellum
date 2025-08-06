@@ -1,20 +1,24 @@
 ---
 title: Unlocking Your Mind's Power - How "Perception is Sovereign" Transforms Anxiety
-post_excerpt: Anxiety often feels like an uncontrollable force, but Quantum Mindfulness offers a radical new perspective. This post explores the core principle of "Perception is Sovereign," revealing how your mind actively shapes your reality and provides the tools to transform anxious states from fixed problems into malleable experiences, empowering you to become the architect of your inner world.
-taxonomy:
-    category:
-        - Perception
-        - Core Concepts
-        - Therapeutic Strategies
-    post_tag:
-        - Quantum Mindfulness
-        - Anxiety
-        - Cognitive Reframing
-        - Perception
-        - Observer-Participant Dynamic
-        - Mental Well-being
-        - Emotional Regulation
-        - Conscious Creation
+post_excerpt: Anxiety often feels like an uncontrollable force, but Quantum Mindfulness
+  offers a radical new perspective. This post explores the core principle of "Perception
+  is Sovereign," revealing how your mind actively shapes your reality and provides
+  the tools to transform anxious states from fixed problems into malleable experiences,
+  empowering you to become the architect of your inner world.
+taxonomy: null
+category:
+- Perception
+- Core Concepts
+- Therapeutic Strategies
+post_tag:
+- Quantum Mindfulness
+- Anxiety
+- Cognitive Reframing
+- Perception
+- Observer-Participant Dynamic
+- Mental Well-being
+- Emotional Regulation
+- Conscious Creation
 ---
 ### Unlocking Your Mind's Power: How "Perception is Sovereign" Transforms Anxiety
 

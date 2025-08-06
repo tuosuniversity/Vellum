@@ -1,20 +1,25 @@
 ---
-title: Cortafuegos Ontológicos - Descubre los Límites Fundamentales de la Consciencia y la Realidad
-post_excerpt: "Explora el concepto de los Cortafuegos Ontológicos dentro del marco de la Consciencia Cuántica, revelando los límites inherentes a nuestra percepción y comprensión de la realidad. Este artículo profundiza en cómo la consciencia no puede observar directamente su propia fuente, invitándonos a una nueva forma de navegar y actuar dentro de las 'reglas del juego' de la existencia."
-taxonomy:
-    category:
-        - Core Concepts
-        - Framework Principles
-        - Perception
-    post_tag:
-        - Cortafuegos Ontológicos
-        - Consciencia
-        - Realidad
-        - Dimensión Psico-Volitiva
-        - Mindfulness Cuántico
-        - Percepción
-        - Epistemología
-        - Límites de la Consciencia
+title: Cortafuegos Ontológicos - Descubre los Límites Fundamentales de la Consciencia
+  y la Realidad
+post_excerpt: Explora el concepto de los Cortafuegos Ontológicos dentro del marco
+  de la Consciencia Cuántica, revelando los límites inherentes a nuestra percepción
+  y comprensión de la realidad. Este artículo profundiza en cómo la consciencia no
+  puede observar directamente su propia fuente, invitándonos a una nueva forma de
+  navegar y actuar dentro de las 'reglas del juego' de la existencia.
+taxonomy: null
+category:
+- Core Concepts
+- Framework Principles
+- Perception
+post_tag:
+- Cortafuegos Ontológicos
+- Consciencia
+- Realidad
+- Dimensión Psico-Volitiva
+- Mindfulness Cuántico
+- Percepción
+- Epistemología
+- Límites de la Consciencia
 ---
 ### Cortafuegos Ontológicos: Descubre los Límites Fundamentales de la Consciencia y la Realidad
 

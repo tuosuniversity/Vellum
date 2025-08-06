@@ -1,23 +1,28 @@
 ---
 title: Beyond Meditation - Navigating Life with the Quantum Mindfulness Framework
-post_excerpt: The Quantum Mindfulness framework moves beyond traditional meditation, offering a dynamic approach to understanding and actively shaping your inner world. It provides tools to navigate the interplay between "doing" and "being" modes, cultivate cognitive agency, and consciously architect a life aligned with your deepest intentions. This deep dive explores how to transform internal conflict into empowered awareness and foster genuine well-being.
-taxonomy:
-    category:
-        - Framework Principles
-        - Mindfulness Approaches
-        - Practices
-    post_tag:
-        - Quantum Mindfulness
-        - Psychodynamic Dimensions
-        - Conscious Awareness
-        - Cognitive Superposition
-        - Observer-Participant Dynamic
-        - Flow State
-        - Perceptual Freedom
-        - Self-Regulation
-        - Volitional Awareness
-        - Mindful Living
-        - Cognitive Agency
+post_excerpt: The Quantum Mindfulness framework moves beyond traditional meditation,
+  offering a dynamic approach to understanding and actively shaping your inner world.
+  It provides tools to navigate the interplay between "doing" and "being" modes, cultivate
+  cognitive agency, and consciously architect a life aligned with your deepest intentions.
+  This deep dive explores how to transform internal conflict into empowered awareness
+  and foster genuine well-being.
+taxonomy: null
+category:
+- Framework Principles
+- Mindfulness Approaches
+- Practices
+post_tag:
+- Quantum Mindfulness
+- Psychodynamic Dimensions
+- Conscious Awareness
+- Cognitive Superposition
+- Observer-Participant Dynamic
+- Flow State
+- Perceptual Freedom
+- Self-Regulation
+- Volitional Awareness
+- Mindful Living
+- Cognitive Agency
 ---
 ### Beyond Meditation: Navigating Life with the Quantum Mindfulness Framework
 

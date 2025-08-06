@@ -1,21 +1,27 @@
 ---
-title: Beyond "Letting Go" - The Ancient Roots of Active Mental Redirection in Quantum Mindfulness
-post_excerpt: This post explores the Quantum Mindfulness framework's "Pattern Release & Re-Initiation Protocol," which emphasizes active mental redirection over passive observation. It delves into the historical and philosophical parallels with Stoicism, CBT, and Eastern contemplative traditions, revealing a timeless wisdom of conscious self-mastery. Discover how this modern approach empowers you to actively shape your inner world, moving beyond mere "letting go" to intentional mental cultivation.
-taxonomy:
-    category:
-        - Mindfulness Approaches
-        - Practices
-    post_tag:
-        - Quantum Mindfulness
-        - Active Mental Redirection
-        - Pattern Release Re-Initiation Protocol
-        - Stoicism
-        - CBT
-        - Conscious Observation
-        - Psychodynamic Dimensions
-        - Mental Agency
-        - Perceptual Freedom
-        - Self-Mastery
+title: Beyond "Letting Go" - The Ancient Roots of Active Mental Redirection in Quantum
+  Mindfulness
+post_excerpt: This post explores the Quantum Mindfulness framework's "Pattern Release
+  & Re-Initiation Protocol," which emphasizes active mental redirection over passive
+  observation. It delves into the historical and philosophical parallels with Stoicism,
+  CBT, and Eastern contemplative traditions, revealing a timeless wisdom of conscious
+  self-mastery. Discover how this modern approach empowers you to actively shape your
+  inner world, moving beyond mere "letting go" to intentional mental cultivation.
+taxonomy: null
+category:
+- Mindfulness Approaches
+- Practices
+post_tag:
+- Quantum Mindfulness
+- Active Mental Redirection
+- Pattern Release Re-Initiation Protocol
+- Stoicism
+- CBT
+- Conscious Observation
+- Psychodynamic Dimensions
+- Mental Agency
+- Perceptual Freedom
+- Self-Mastery
 ---
 ### Beyond "Letting Go": The Ancient Roots of Active Mental Redirection in Quantum Mindfulness
 

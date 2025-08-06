@@ -1,19 +1,23 @@
 ---
 title: Beyond Matter - A Quantum Lens on Consciousness and the Mind
-post_excerpt: Explore the revolutionary Quantum Mindfulness framework, which applies principles from quantum physics to understand and actively shape our subjective reality. Discover how consciousness is not merely a product of the brain, but an active participant in creating our experience, moving beyond traditional mind-body debates.
-taxonomy:
-    category:
-        - Core Concepts
-        - Framework Principles
-        - Perception
-    post_tag:
-        - Quantum Mindfulness
-        - consciousness
-        - psychodynamic dimensions
-        - perceptual freedom
-        - mind-body connection
-        - wave function collapse
-        - active mastery
+post_excerpt: Explore the revolutionary Quantum Mindfulness framework, which applies
+  principles from quantum physics to understand and actively shape our subjective
+  reality. Discover how consciousness is not merely a product of the brain, but an
+  active participant in creating our experience, moving beyond traditional mind-body
+  debates.
+taxonomy: null
+category:
+- Core Concepts
+- Framework Principles
+- Perception
+post_tag:
+- Quantum Mindfulness
+- consciousness
+- psychodynamic dimensions
+- perceptual freedom
+- mind-body connection
+- wave function collapse
+- active mastery
 ---
 ### Beyond Matter: A Quantum Lens on Consciousness and the Mind
 

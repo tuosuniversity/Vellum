@@ -1,21 +1,25 @@
 ---
-title: De la Física Cuántica a la Psicología Personal - Los Orígenes de la Teoría del Observador-Participante
-post_excerpt: "Explore the profound origins of the Quantum Mindfulness framework, tracing its roots from quantum physics to ancient philosophy. Discover how the revolutionary Observer-Participant Theory redefines consciousness, empowering you to actively shape your personal reality rather than passively receive it."
-taxonomy:
-    category:
-        - Core Concepts
-        - Framework Principles
-        - Perception
-    post_tag:
-        - Quantum Mindfulness
-        - Observer Effect
-        - Consciousness
-        - Psychodynamic Collapse
-        - Perception
-        - Reality Construction
-        - Cognitive Superposition
-        - Active Mastery
-        - Psycho-Volitional Dimension
+title: De la Física Cuántica a la Psicología Personal - Los Orígenes de la Teoría
+  del Observador-Participante
+post_excerpt: Explore the profound origins of the Quantum Mindfulness framework, tracing
+  its roots from quantum physics to ancient philosophy. Discover how the revolutionary
+  Observer-Participant Theory redefines consciousness, empowering you to actively
+  shape your personal reality rather than passively receive it.
+taxonomy: null
+category:
+- Core Concepts
+- Framework Principles
+- Perception
+post_tag:
+- Quantum Mindfulness
+- Observer Effect
+- Consciousness
+- Psychodynamic Collapse
+- Perception
+- Reality Construction
+- Cognitive Superposition
+- Active Mastery
+- Psycho-Volitional Dimension
 ---
 ### De la Física Cuántica a la Psicología Personal: Los Orígenes de la Teoría del Observador-Participante
 

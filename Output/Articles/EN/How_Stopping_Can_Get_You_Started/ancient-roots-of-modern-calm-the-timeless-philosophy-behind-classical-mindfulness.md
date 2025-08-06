@@ -1,22 +1,27 @@
 ---
 title: Ancient Roots of Modern Calm - The Timeless Philosophy Behind Classical Mindfulness
-post_excerpt: Explore the profound historical and philosophical underpinnings of classical mindfulness, a cornerstone of the Quantum Mindfulness framework. Discover how principles like sustained attention and non-judgmental observation, refined over millennia, offer timeless wisdom for navigating modern stress and cultivating inner calm. This deep dive reveals how ancient practices inform our contemporary understanding of consciousness and personal transformation.
-taxonomy:
-    category:
-        - Mindfulness Approaches
-        - Framework Principles
-        - Practices
-    post_tag:
-        - Classical Mindfulness
-        - Contemplation
-        - Psychodynamic Dimensions
-        - Conscious Observation
-        - Cognitive Appraisal
-        - Perception
-        - Stillness Engineering
-        - Ancient Wisdom
-        - Mental Well-being
-        - Personal Transformation
+post_excerpt: Explore the profound historical and philosophical underpinnings of classical
+  mindfulness, a cornerstone of the Quantum Mindfulness framework. Discover how principles
+  like sustained attention and non-judgmental observation, refined over millennia,
+  offer timeless wisdom for navigating modern stress and cultivating inner calm. This
+  deep dive reveals how ancient practices inform our contemporary understanding of
+  consciousness and personal transformation.
+taxonomy: null
+category:
+- Mindfulness Approaches
+- Framework Principles
+- Practices
+post_tag:
+- Classical Mindfulness
+- Contemplation
+- Psychodynamic Dimensions
+- Conscious Observation
+- Cognitive Appraisal
+- Perception
+- Stillness Engineering
+- Ancient Wisdom
+- Mental Well-being
+- Personal Transformation
 ---
 ### Ancient Roots of Modern Calm: The Timeless Philosophy Behind Classical Mindfulness
 

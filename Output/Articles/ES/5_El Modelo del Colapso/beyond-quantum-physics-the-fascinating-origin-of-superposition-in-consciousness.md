@@ -1,21 +1,27 @@
 ---
 title: Beyond Quantum Physics - The Fascinating Origin of Superposition in Consciousness
-post_excerpt: The concept of superposition, traditionally associated with quantum physics, offers a profound lens through which to understand the dynamic nature of human consciousness. Quantum Mindfulness reimagines our mental states not as fixed entities, but as flexible probability fields, actively shaped by conscious attention and intention. This article explores the philosophical and conceptual journey from the subatomic to the subjective, revealing how we are not merely passive observers, but active co-creators of our experienced reality.
-taxonomy:
-    category:
-        - Core Concepts
-        - Perception
-        - Mindfulness Approaches
-    post_tag:
-        - Quantum Mindfulness
-        - Cognitive Superposition
-        - Psychodynamic Collapse
-        - Observer-Participant Dynamic
-        - Consciousness
-        - Mental States
-        - Perception
-        - Attention
-        - Reality Construction
+post_excerpt: The concept of superposition, traditionally associated with quantum
+  physics, offers a profound lens through which to understand the dynamic nature of
+  human consciousness. Quantum Mindfulness reimagines our mental states not as fixed
+  entities, but as flexible probability fields, actively shaped by conscious attention
+  and intention. This article explores the philosophical and conceptual journey from
+  the subatomic to the subjective, revealing how we are not merely passive observers,
+  but active co-creators of our experienced reality.
+taxonomy: null
+category:
+- Core Concepts
+- Perception
+- Mindfulness Approaches
+post_tag:
+- Quantum Mindfulness
+- Cognitive Superposition
+- Psychodynamic Collapse
+- Observer-Participant Dynamic
+- Consciousness
+- Mental States
+- Perception
+- Attention
+- Reality Construction
 ---
 ### Beyond Quantum Physics: The Fascinating Origin of Superposition in Consciousness
 

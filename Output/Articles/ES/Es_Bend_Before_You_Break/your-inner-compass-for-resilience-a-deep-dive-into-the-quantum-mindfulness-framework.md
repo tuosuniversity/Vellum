@@ -1,22 +1,27 @@
 ---
-title: Your Inner Compass for Resilience - A Deep Dive into the Quantum Mindfulness Framework
-post_excerpt: In a world of constant change, resilience is paramount. This article explores the Quantum Mindfulness framework, revealing resilience not as a fixed trait but a dynamic interplay of fundamental psychological dimensions. Discover how to cultivate core capacities and advanced consciousness regulation tools to navigate challenges and thrive.
-taxonomy:
-    category:
-        - Psychodynamic Dimensions
-        - Advanced Practices
-        - Framework Principles
-    post_tag:
-        - resilience
-        - quantum mindfulness
-        - psychodynamic dimensions
-        - cognitive regulation
-        - self-mastery
-        - emotional intelligence
-        - perceptual freedom
-        - conscious reality construction
-        - mindfulness practices
-        - psychodynamic wave collapse
+title: Your Inner Compass for Resilience - A Deep Dive into the Quantum Mindfulness
+  Framework
+post_excerpt: In a world of constant change, resilience is paramount. This article
+  explores the Quantum Mindfulness framework, revealing resilience not as a fixed
+  trait but a dynamic interplay of fundamental psychological dimensions. Discover
+  how to cultivate core capacities and advanced consciousness regulation tools to
+  navigate challenges and thrive.
+taxonomy: null
+category:
+- Psychodynamic Dimensions
+- Advanced Practices
+- Framework Principles
+post_tag:
+- resilience
+- quantum mindfulness
+- psychodynamic dimensions
+- cognitive regulation
+- self-mastery
+- emotional intelligence
+- perceptual freedom
+- conscious reality construction
+- mindfulness practices
+- psychodynamic wave collapse
 ---
 ### Your Inner Compass for Resilience: A Deep Dive into the Quantum Mindfulness Framework
 

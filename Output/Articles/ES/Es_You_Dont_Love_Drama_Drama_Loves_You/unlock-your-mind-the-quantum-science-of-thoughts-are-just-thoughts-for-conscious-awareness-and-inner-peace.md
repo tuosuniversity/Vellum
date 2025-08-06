@@ -1,22 +1,26 @@
 ---
-title: Unlock Your Mind - The Quantum Science of 'Thoughts are Just Thoughts' for Conscious Awareness and Inner Peace
-post_excerpt: "Discover how the Quantum Mindfulness framework transforms our relationship with thoughts. Learn to view thoughts not as immutable facts, but as dynamic, probabilistic potentials, and consciously engage with them to achieve profound inner peace and perceptual freedom."
-taxonomy:
-    category:
-        - Mindfulness Approaches
-        - Perception
-        - Core Concepts
-    post_tag:
-        - Quantum Mindfulness
-        - Cognitive Superposition
-        - Psychodynamic Collapse
-        - Observer-Participant Dynamic
-        - Conscious Attention
-        - Mental Agency
-        - Perceptual Freedom
-        - Inner Peace
-        - Psychodynamic Dimensions
-        - Self-Mastery
+title: Unlock Your Mind - The Quantum Science of 'Thoughts are Just Thoughts' for
+  Conscious Awareness and Inner Peace
+post_excerpt: Discover how the Quantum Mindfulness framework transforms our relationship
+  with thoughts. Learn to view thoughts not as immutable facts, but as dynamic, probabilistic
+  potentials, and consciously engage with them to achieve profound inner peace and
+  perceptual freedom.
+taxonomy: null
+category:
+- Mindfulness Approaches
+- Perception
+- Core Concepts
+post_tag:
+- Quantum Mindfulness
+- Cognitive Superposition
+- Psychodynamic Collapse
+- Observer-Participant Dynamic
+- Conscious Attention
+- Mental Agency
+- Perceptual Freedom
+- Inner Peace
+- Psychodynamic Dimensions
+- Self-Mastery
 ---
 ### Unlock Your Mind: The Quantum Science of 'Thoughts are Just Thoughts' for Conscious Awareness and Inner Peace
 

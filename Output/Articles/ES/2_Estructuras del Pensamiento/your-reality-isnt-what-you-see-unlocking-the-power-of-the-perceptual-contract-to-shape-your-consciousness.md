@@ -1,23 +1,28 @@
 ---
-title: Your Reality Isn't What You See - Unlocking the Power of the Perceptual Contract to Shape Your Consciousness
-post_excerpt: This post explores the Quantum Mindfulness concept of the "Perceptual Contract," revealing how our minds actively construct reality rather than passively receive it. Discover how deeply ingrained biases and prior experiences shape our perceptions, and learn how conscious awareness and active engagement can empower you to renegotiate this contract for greater freedom and well-being.
-taxonomy:
-    category:
-        - Perception
-        - Core Concepts
-        - Practices
-    post_tag:
-        - Perceptual Contract
-        - Quantum Mindfulness
-        - Reality Construction
-        - Conscious Awareness
-        - Cognitive Superposition
-        - Psychodynamic Collapse
-        - Observer-Participant Dynamic
-        - Mindfulness
-        - Self-mastery
-        - Cognitive Appraisal
-        - Perceptual Freedom
+title: Your Reality Isn't What You See - Unlocking the Power of the Perceptual Contract
+  to Shape Your Consciousness
+post_excerpt: This post explores the Quantum Mindfulness concept of the "Perceptual
+  Contract," revealing how our minds actively construct reality rather than passively
+  receive it. Discover how deeply ingrained biases and prior experiences shape our
+  perceptions, and learn how conscious awareness and active engagement can empower
+  you to renegotiate this contract for greater freedom and well-being.
+taxonomy: null
+category:
+- Perception
+- Core Concepts
+- Practices
+post_tag:
+- Perceptual Contract
+- Quantum Mindfulness
+- Reality Construction
+- Conscious Awareness
+- Cognitive Superposition
+- Psychodynamic Collapse
+- Observer-Participant Dynamic
+- Mindfulness
+- Self-mastery
+- Cognitive Appraisal
+- Perceptual Freedom
 ---
 ### Your Reality Isn't What You See: Unlocking the Power of the Perceptual Contract to Shape Your Consciousness
 

@@ -1,21 +1,24 @@
 ---
 title: Beyond Autopilot - The Neuroscience of Rewiring Your Conscious Movement
-post_excerpt: "Discover how the Quantum Mindfulness framework, rooted in neuroplasticity, empowers you to break free from automatic reactions. Learn to leverage 'dynamic awareness' and 'intentional collapse' to reprogram deeply ingrained behavioral patterns and actively co-create your experienced reality."
-taxonomy:
-    category:
-        - Mindfulness Approaches
-        - Therapeutic Strategies
-        - Practices
-    post_tag:
-        - neuroplasticity
-        - conscious movement
-        - habit formation
-        - behavior change
-        - self-mastery
-        - Quantum Mindfulness
-        - psychodynamic dimensions
-        - perceptual freedom
-        - cognitive agency
+post_excerpt: Discover how the Quantum Mindfulness framework, rooted in neuroplasticity,
+  empowers you to break free from automatic reactions. Learn to leverage 'dynamic
+  awareness' and 'intentional collapse' to reprogram deeply ingrained behavioral patterns
+  and actively co-create your experienced reality.
+taxonomy: null
+category:
+- Mindfulness Approaches
+- Therapeutic Strategies
+- Practices
+post_tag:
+- neuroplasticity
+- conscious movement
+- habit formation
+- behavior change
+- self-mastery
+- Quantum Mindfulness
+- psychodynamic dimensions
+- perceptual freedom
+- cognitive agency
 ---
 ### Beyond Autopilot: The Neuroscience of Rewiring Your Conscious Movement
 

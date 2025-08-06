@@ -1,19 +1,23 @@
 ---
-title: Consciencia Cuántica - Descubre la Arquitectura Interna de tu Mente para un Bienestar Integral
-post_excerpt: Explore the Quantum Mindfulness framework, a revolutionary map of your mind's internal architecture. This post delves into the ten Psychodynamic Dimensions, highlighting how their dynamic interplay shapes your experience and offers a path to profound self-mastery and holistic well-being.
-taxonomy:
-    category:
-        - Psychodynamic Dimensions
-        - Core Concepts
-        - Framework Principles
-    post_tag:
-        - Quantum Mindfulness
-        - Psychodynamic Dimensions
-        - Self-regulation
-        - Emotional Intelligence
-        - Inner Harmony
-        - Consciousness Framework
-        - Personal Growth
+title: Consciencia Cuántica - Descubre la Arquitectura Interna de tu Mente para un
+  Bienestar Integral
+post_excerpt: Explore the Quantum Mindfulness framework, a revolutionary map of your
+  mind's internal architecture. This post delves into the ten Psychodynamic Dimensions,
+  highlighting how their dynamic interplay shapes your experience and offers a path
+  to profound self-mastery and holistic well-being.
+taxonomy: null
+category:
+- Psychodynamic Dimensions
+- Core Concepts
+- Framework Principles
+post_tag:
+- Quantum Mindfulness
+- Psychodynamic Dimensions
+- Self-regulation
+- Emotional Intelligence
+- Inner Harmony
+- Consciousness Framework
+- Personal Growth
 ---
 ### Consciencia Cuántica: Descubre la Arquitectura Interna de tu Mente para un Bienestar Integral
 

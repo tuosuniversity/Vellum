@@ -1,21 +1,27 @@
 ---
-title: El Marco de Conciencia Cuántica - Un Puente Revolucionario entre Ciencia, Psicología y Espiritualidad
-post_excerpt: El marco de Conciencia Cuántica ofrece un enfoque interdisciplinary revolucionario, unificando ciencia, psicología y espiritualidad para una comprensión integral de la mente. Redefine la conciencia como una fuerza activa y participativa, y las dificultades psicológicas como "configuraciones desalineadas" que pueden ser comprendidas y reajustadas. Este modelo invita a los individuos a explorar su arquitectura interna para lograr una mayor claridad y propósito.
-taxonomy:
-    category:
-        - Core Concepts
-        - Framework Principles
-        - Mindfulness Approaches
-    post_tag:
-        - Quantum Mindfulness
-        - Consciousness
-        - Psychodynamic Dimensions
-        - Perception
-        - Inner Work
-        - Self-Transformation
-        - Cognitive Science
-        - Contemplation
-        - Active Mastery
+title: El Marco de Conciencia Cuántica - Un Puente Revolucionario entre Ciencia, Psicología
+  y Espiritualidad
+post_excerpt: El marco de Conciencia Cuántica ofrece un enfoque interdisciplinary
+  revolucionario, unificando ciencia, psicología y espiritualidad para una comprensión
+  integral de la mente. Redefine la conciencia como una fuerza activa y participativa,
+  y las dificultades psicológicas como "configuraciones desalineadas" que pueden ser
+  comprendidas y reajustadas. Este modelo invita a los individuos a explorar su arquitectura
+  interna para lograr una mayor claridad y propósito.
+taxonomy: null
+category:
+- Core Concepts
+- Framework Principles
+- Mindfulness Approaches
+post_tag:
+- Quantum Mindfulness
+- Consciousness
+- Psychodynamic Dimensions
+- Perception
+- Inner Work
+- Self-Transformation
+- Cognitive Science
+- Contemplation
+- Active Mastery
 ---
 ### El Marco de Conciencia Cuántica: Un Puente Revolucionario entre Ciencia, Psicología y Espiritualidad
 

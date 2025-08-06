@@ -1,20 +1,25 @@
 ---
-title: Maestría Perceptual - Un Vistazo al Marco Integral de Consciencia Cuántica para la Transformación Personal
-post_excerpt: In an increasingly complex world, mastering your perception is key to navigating reality with purpose. This post introduces the Quantum Mindfulness framework, revealing how your perception actively shapes your experience, rather than merely receiving it. Discover the psychodynamic architecture of your mind and unlock true perceptual freedom.
-taxonomy:
-    category:
-        - Perception
-        - Psychodynamic Dimensions
-        - Goals
-    post_tag:
-        - Quantum Mindfulness
-        - Perceptual Mastery
-        - Active Perception
-        - Inner Landscape
-        - Psychodynamic Dimensions
-        - Cognitive Superposition
-        - Self-transformation
-        - Conscious Reality Construction
+title: Maestría Perceptual - Un Vistazo al Marco Integral de Consciencia Cuántica
+  para la Transformación Personal
+post_excerpt: In an increasingly complex world, mastering your perception is key to
+  navigating reality with purpose. This post introduces the Quantum Mindfulness framework,
+  revealing how your perception actively shapes your experience, rather than merely
+  receiving it. Discover the psychodynamic architecture of your mind and unlock true
+  perceptual freedom.
+taxonomy: null
+category:
+- Perception
+- Psychodynamic Dimensions
+- Goals
+post_tag:
+- Quantum Mindfulness
+- Perceptual Mastery
+- Active Perception
+- Inner Landscape
+- Psychodynamic Dimensions
+- Cognitive Superposition
+- Self-transformation
+- Conscious Reality Construction
 ---
 ### Maestría Perceptual: Un Vistazo al Marco Integral de Consciencia Cuántica para la Transformación Personal
 

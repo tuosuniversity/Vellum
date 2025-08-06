@@ -1,20 +1,24 @@
 ---
-title: Master Your Inner World - The Science of Measure, Limit, and Restraint in Quantum Mindfulness
-post_excerpt: Explore the vital role of the Psycho-Protective Dimension (Pd5) in the Quantum Mindfulness framework. Discover how the principles of measure, limit, and restraint are not restrictive, but foundational for building a resilient inner world, fostering self-integrity, and achieving unparalleled psychological clarity.
-taxonomy:
-    category:
-        - Core Concepts
-        - Framework Principles
-        - Practices
-    post_tag:
-        - Quantum Mindfulness
-        - Psycho-Protective Dimension
-        - Self-Regulation
-        - Emotional Intelligence
-        - Psychological Boundaries
-        - Personal Growth
-        - Conscious Awareness
-        - Inner Harmony
+title: Master Your Inner World - The Science of Measure, Limit, and Restraint in Quantum
+  Mindfulness
+post_excerpt: Explore the vital role of the Psycho-Protective Dimension (Pd5) in the
+  Quantum Mindfulness framework. Discover how the principles of measure, limit, and
+  restraint are not restrictive, but foundational for building a resilient inner world,
+  fostering self-integrity, and achieving unparalleled psychological clarity.
+taxonomy: null
+category:
+- Core Concepts
+- Framework Principles
+- Practices
+post_tag:
+- Quantum Mindfulness
+- Psycho-Protective Dimension
+- Self-Regulation
+- Emotional Intelligence
+- Psychological Boundaries
+- Personal Growth
+- Conscious Awareness
+- Inner Harmony
 ---
 ### Master Your Inner World: The Science of Measure, Limit, and Restraint in Quantum Mindfulness
 

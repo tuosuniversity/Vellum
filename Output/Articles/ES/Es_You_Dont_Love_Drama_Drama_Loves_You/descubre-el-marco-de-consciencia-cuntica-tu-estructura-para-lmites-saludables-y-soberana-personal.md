@@ -1,20 +1,24 @@
 ---
-title: Descubre el Marco de Consciencia Cuántica - Tu Estructura para Límites Saludables y Soberanía Personal
-post_excerpt: El marco de Consciencia Cuántica ofrece una estructura integral para cultivar límites saludables y soberanía personal, yendo más allá de las técnicas superficiales. Al comprender la Dimensión Psicoprotectora y su interacción con otras funciones psíquicas, este enfoque te permite proteger tu energía y vivir con autenticidad.
-taxonomy:
-    category:
-        - Psychodynamic Dimensions
-        - Framework Principles
-        - Practices
-    post_tag:
-        - Quantum Mindfulness
-        - Psycho-Protective Dimension
-        - Healthy Boundaries
-        - Personal Sovereignty
-        - Self-Integrity
-        - Emotional Well-being
-        - Active Mastery
-        - Consciousness Refinement
+title: Descubre el Marco de Consciencia Cuántica - Tu Estructura para Límites Saludables
+  y Soberanía Personal
+post_excerpt: El marco de Consciencia Cuántica ofrece una estructura integral para
+  cultivar límites saludables y soberanía personal, yendo más allá de las técnicas
+  superficiales. Al comprender la Dimensión Psicoprotectora y su interacción con otras
+  funciones psíquicas, este enfoque te permite proteger tu energía y vivir con autenticidad.
+taxonomy: null
+category:
+- Psychodynamic Dimensions
+- Framework Principles
+- Practices
+post_tag:
+- Quantum Mindfulness
+- Psycho-Protective Dimension
+- Healthy Boundaries
+- Personal Sovereignty
+- Self-Integrity
+- Emotional Well-being
+- Active Mastery
+- Consciousness Refinement
 ---
 ### Descubre el Marco de Consciencia Cuántica: Tu Estructura para Límites Saludables y Soberanía Personal
 

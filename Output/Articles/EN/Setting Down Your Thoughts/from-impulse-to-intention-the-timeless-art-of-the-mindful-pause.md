@@ -1,20 +1,24 @@
 ---
 title: From Impulse to Intention - The Timeless Art of the Mindful Pause
-post_excerpt: In a world of automatic reactions, the Quantum Mindfulness framework introduces the "critical pause" – a profound space of intentional awareness. This article explores how this pause, rooted in the framework's psychodynamic principles, allows us to shift from unconscious impulse to deliberate, conscious response, actively shaping our experienced reality and fostering true perceptual freedom.
-taxonomy:
-    category:
-        - Core Concepts
-        - Practices
-        - Mindfulness Approaches
-    post_tag:
-        - mindful pause
-        - quantum mindfulness
-        - conscious choice
-        - psychodynamic collapse
-        - observer-participant dynamic
-        - perceptual freedom
-        - volitional awareness
-        - cognitive agency
+post_excerpt: In a world of automatic reactions, the Quantum Mindfulness framework
+  introduces the "critical pause" – a profound space of intentional awareness. This
+  article explores how this pause, rooted in the framework's psychodynamic principles,
+  allows us to shift from unconscious impulse to deliberate, conscious response, actively
+  shaping our experienced reality and fostering true perceptual freedom.
+taxonomy: null
+category:
+- Core Concepts
+- Practices
+- Mindfulness Approaches
+post_tag:
+- mindful pause
+- quantum mindfulness
+- conscious choice
+- psychodynamic collapse
+- observer-participant dynamic
+- perceptual freedom
+- volitional awareness
+- cognitive agency
 ---
 ### From Impulse to Intention: The Timeless Art of the Mindful Pause
 

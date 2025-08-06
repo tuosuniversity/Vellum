@@ -1,22 +1,29 @@
 ---
-title: Weaving Reality - The Ancient Philosophical Roots of Your Co-Creative Power in Quantum Mindfulness
-post_excerpt: The idea that we are active co-creators of our reality might seem like a modern concept, but its roots stretch deep into ancient philosophical and spiritual traditions. This article explores how timeless wisdom from Eastern thought, Western philosophy, and contemporary psychology converges within the Quantum Mindfulness framework, revealing the profound and enduring truth of our mind's power to shape experience. Discover how intentional engagement with your inner world can lead to a more conscious and fulfilling life.
-taxonomy:
-    category:
-        - Core Concepts
-        - Perception
-        - Framework Principles
-    post_tag:
-        - co-creation
-        - perception
-        - mindfulness
-        - philosophy
-        - stoicism
-        - idealism
-        - constructivism
-        - psychodynamic dimensions
-        - Quantum Mindfulness
-        - observer effect
+title: Weaving Reality - The Ancient Philosophical Roots of Your Co-Creative Power
+  in Quantum Mindfulness
+post_excerpt: The idea that we are active co-creators of our reality might seem like
+  a modern concept, but its roots stretch deep into ancient philosophical and spiritual
+  traditions. This article explores how timeless wisdom from Eastern thought, Western
+  philosophy, and contemporary psychology converges within the Quantum Mindfulness
+  framework, revealing the profound and enduring truth of our mind's power to shape
+  experience. Discover how intentional engagement with your inner world can lead to
+  a more conscious and fulfilling life.
+taxonomy: null
+category:
+- Core Concepts
+- Perception
+- Framework Principles
+post_tag:
+- co-creation
+- perception
+- mindfulness
+- philosophy
+- stoicism
+- idealism
+- constructivism
+- psychodynamic dimensions
+- Quantum Mindfulness
+- observer effect
 ---
 ### Weaving Reality: The Ancient Philosophical Roots of Your Co-Creative Power in Quantum Mindfulness
 

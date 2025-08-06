@@ -1,24 +1,28 @@
 ---
 title: Beyond Striving - Ancient Wisdom for Modern Peace in Quantum Mindfulness
-post_excerpt: In a world obsessed with outcomes, the Quantum Mindfulness framework offers a profound shift in perspective, drawing inspiration from ancient philosophies like Buddhism, Taoism, and Stoicism. By understanding how our inner world shapes our reality, we can learn to "unhook our well-being from the outcome," cultivating a deeper, more resilient peace, and achieving true "Perceptual Freedom."
-taxonomy:
-    category:
-        - Mindfulness Approaches
-        - Core Concepts
-        - Practices
-    post_tag:
-        - Quantum Mindfulness
-        - non-attachment
-        - Wu Wei
-        - Stoicism
-        - Psychodynamic Wave Collapse
-        - Cognitive Superposition
-        - Psycho-Volitional Dimension
-        - mindful living
-        - mental well-being
-        - inner peace
-        - Collapse Mastery Protocol
-        - Active Mastery
+post_excerpt: In a world obsessed with outcomes, the Quantum Mindfulness framework
+  offers a profound shift in perspective, drawing inspiration from ancient philosophies
+  like Buddhism, Taoism, and Stoicism. By understanding how our inner world shapes
+  our reality, we can learn to "unhook our well-being from the outcome," cultivating
+  a deeper, more resilient peace, and achieving true "Perceptual Freedom."
+taxonomy: null
+category:
+- Mindfulness Approaches
+- Core Concepts
+- Practices
+post_tag:
+- Quantum Mindfulness
+- non-attachment
+- Wu Wei
+- Stoicism
+- Psychodynamic Wave Collapse
+- Cognitive Superposition
+- Psycho-Volitional Dimension
+- mindful living
+- mental well-being
+- inner peace
+- Collapse Mastery Protocol
+- Active Mastery
 ---
 ### Beyond Striving: Ancient Wisdom for Modern Peace in Quantum Mindfulness
 

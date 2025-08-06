@@ -1,19 +1,23 @@
 ---
-title: "Mindfulness & Your Brain - The Science of Perceptual Primacy and Active Reality Construction"
-post_excerpt: Explore the revolutionary Quantum Mindfulness concept of Perceptual Primacy, revealing how your mind actively constructs your reality. Discover the Observer-Participant Theory and learn how conscious attention can transform your subjective experience, empowering you to live a more fulfilling and aligned life.
-taxonomy:
-    category:
-        - Perception
-        - Core Concepts
-        - Mindfulness Approaches
-    post_tag:
-        - Perceptual Primacy
-        - Active Reality Construction
-        - Observer-Participant Theory
-        - Quantum Mindfulness
-        - Cognitive Superposition
-        - Psychodynamic Dimensions
-        - Conscious Attention
+title: Mindfulness & Your Brain - The Science of Perceptual Primacy and Active Reality
+  Construction
+post_excerpt: Explore the revolutionary Quantum Mindfulness concept of Perceptual
+  Primacy, revealing how your mind actively constructs your reality. Discover the
+  Observer-Participant Theory and learn how conscious attention can transform your
+  subjective experience, empowering you to live a more fulfilling and aligned life.
+taxonomy: null
+category:
+- Perception
+- Core Concepts
+- Mindfulness Approaches
+post_tag:
+- Perceptual Primacy
+- Active Reality Construction
+- Observer-Participant Theory
+- Quantum Mindfulness
+- Cognitive Superposition
+- Psychodynamic Dimensions
+- Conscious Attention
 ---
 ### Mindfulness & Your Brain: The Science of Perceptual Primacy and Active Reality Construction
 

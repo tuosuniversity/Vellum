@@ -1,21 +1,26 @@
 ---
-title: Más Allá del Mindfulness Tradicional - La Revolución de la Consciencia Activa en la Percepción
-post_excerpt: "Explore the profound shift from traditional mindfulness's 'passive mastery' to Quantum Mindfulness's 'active mastery.' This article delves into how conscious attention actively shapes experienced reality, moving beyond mere observation to intentional co-creation. Discover the principles that empower you to influence the very fabric of your perception for profound personal transformation."
-taxonomy:
-    category:
-        - Perception
-        - Mindfulness Approaches
-        - Advanced Practices
-    post_tag:
-        - Quantum Mindfulness
-        - Active Mastery
-        - Passive Mastery
-        - Conscious Perception
-        - Psychodynamic Collapse
-        - Cognitive Superposition
-        - Reality Construction
-        - Inner Work
-        - Self-Transformation
+title: Más Allá del Mindfulness Tradicional - La Revolución de la Consciencia Activa
+  en la Percepción
+post_excerpt: Explore the profound shift from traditional mindfulness's 'passive mastery'
+  to Quantum Mindfulness's 'active mastery.' This article delves into how conscious
+  attention actively shapes experienced reality, moving beyond mere observation to
+  intentional co-creation. Discover the principles that empower you to influence the
+  very fabric of your perception for profound personal transformation.
+taxonomy: null
+category:
+- Perception
+- Mindfulness Approaches
+- Advanced Practices
+post_tag:
+- Quantum Mindfulness
+- Active Mastery
+- Passive Mastery
+- Conscious Perception
+- Psychodynamic Collapse
+- Cognitive Superposition
+- Reality Construction
+- Inner Work
+- Self-Transformation
 ---
 ### Más Allá del Mindfulness Tradicional: La Revolución de la Consciencia Activa en la Percepción
 

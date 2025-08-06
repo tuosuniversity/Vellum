@@ -1,20 +1,25 @@
 ---
-title: Beyond the Echoes - Unpacking "Inherited Scripts" and Building Your Sovereign Self
-post_excerpt: "Discover how 'Inherited Scripts'—unconscious patterns absorbed from our environment—subtly dictate our lives. The Quantum Mindfulness framework offers a transformative path to 'decoupling' from these echoes of the past, empowering you to build a 'sovereign architecture' of consciousness and reclaim your authentic self through conscious intention and active mastery."
-taxonomy:
-    category:
-        - Core Concepts
-        - Therapeutic Strategies
-        - Human Capacities
-    post_tag:
-        - Inherited Scripts
-        - Quantum Mindfulness
-        - Self-mastery
-        - Decoupling
-        - Sovereign Architecture
-        - Psychodynamic Dimensions
-        - Conscious Intention
-        - Perceptual Freedom
+title: Beyond the Echoes - Unpacking "Inherited Scripts" and Building Your Sovereign
+  Self
+post_excerpt: Discover how 'Inherited Scripts'—unconscious patterns absorbed from
+  our environment—subtly dictate our lives. The Quantum Mindfulness framework offers
+  a transformative path to 'decoupling' from these echoes of the past, empowering
+  you to build a 'sovereign architecture' of consciousness and reclaim your authentic
+  self through conscious intention and active mastery.
+taxonomy: null
+category:
+- Core Concepts
+- Therapeutic Strategies
+- Human Capacities
+post_tag:
+- Inherited Scripts
+- Quantum Mindfulness
+- Self-mastery
+- Decoupling
+- Sovereign Architecture
+- Psychodynamic Dimensions
+- Conscious Intention
+- Perceptual Freedom
 ---
 ### Beyond the Echoes: Unpacking "Inherited Scripts" and Building Your Sovereign Self
 

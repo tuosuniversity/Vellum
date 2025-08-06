@@ -1,20 +1,26 @@
 ---
-title: Unlock Your Full Potential - A High-Level Look at the Quantum Mindfulness Framework for Holistic Living
-post_excerpt: >-
-Discover the Quantum Mindfulness framework, an active and dynamic approach to personal transformation. This post explores four core pillars: actively shaping physical and emotional well-being, orchestrating your mind, conducting your emotional world, and becoming the conscious architect of your self. Learn how this framework empowers you to engage with your inner world and cultivate a life of greater purpose and clarity.
-taxonomy:
-    category:
-        - Framework Principles
-        - Mindfulness Approaches
-        - Practices
-    post_tag:
-        - Quantum Mindfulness
-        - Psychodynamic Dimensions
-        - Conscious Observation
-        - Self-Transformation
-        - Holistic Well-being
-        - Perception
-        - Internal Cartography
+title: Unlock Your Full Potential - A High-Level Look at the Quantum Mindfulness Framework
+  for Holistic Living
+post_excerpt: '>-'
+? Discover the Quantum Mindfulness framework, an active and dynamic approach to personal
+  transformation. This post explores four core pillars
+: actively shaping physical and emotional well-being, orchestrating your mind, conducting
+  your emotional world, and becoming the conscious architect of your self. Learn how
+  this framework empowers you to engage with your inner world and cultivate a life
+  of greater purpose and clarity.
+taxonomy: null
+category:
+- Framework Principles
+- Mindfulness Approaches
+- Practices
+post_tag:
+- Quantum Mindfulness
+- Psychodynamic Dimensions
+- Conscious Observation
+- Self-Transformation
+- Holistic Well-being
+- Perception
+- Internal Cartography
 ---
 ### Unlock Your Full Potential: A High-Level Look at the Quantum Mindfulness Framework for Holistic Living
 

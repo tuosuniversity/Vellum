@@ -1,20 +1,26 @@
 ---
-title: Unveiling Psychoemotional Forces - The Quantum Mindfulness Approach to Conscious Living
-post_excerpt: >
-Are your emotions controlling you, or do you control them? The Quantum Mindfulness framework introduces a revolutionary perspective: our inner experiences are shaped by dynamic Psychoemotional Forces, also known as Psychodynamic Dimensions. Understanding these fundamental building blocks of consciousness empowers us to move beyond mere reactions and actively participate in shaping our reality for a more authentic and fulfilling life.
-taxonomy:
-    category:
-        - Psychodynamic Dimensions
-        - Core Concepts
-        - Mindfulness Approaches
-    post_tag:
-        - Psychoemotional Forces
-        - Psychodynamic Dimensions
-        - Quantum Mindfulness
-        - Consciousness
-        - Emotional Regulation
-        - Conscious Living
-        - Inner World
+title: Unveiling Psychoemotional Forces - The Quantum Mindfulness Approach to Conscious
+  Living
+post_excerpt: '>'
+? Are your emotions controlling you, or do you control them? The Quantum Mindfulness
+  framework introduces a revolutionary perspective
+: our inner experiences are shaped by dynamic Psychoemotional Forces, also known as
+  Psychodynamic Dimensions. Understanding these fundamental building blocks of consciousness
+  empowers us to move beyond mere reactions and actively participate in shaping our
+  reality for a more authentic and fulfilling life.
+taxonomy: null
+category:
+- Psychodynamic Dimensions
+- Core Concepts
+- Mindfulness Approaches
+post_tag:
+- Psychoemotional Forces
+- Psychodynamic Dimensions
+- Quantum Mindfulness
+- Consciousness
+- Emotional Regulation
+- Conscious Living
+- Inner World
 ---
 ### Unveiling Psychoemotional Forces: The Quantum Mindfulness Approach to Conscious Living
 

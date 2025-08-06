@@ -1,19 +1,23 @@
 ---
 title: Consciencia Cuántica - Desvelando la Estructura de tu Bienestar
-post_excerpt: "Descubre el viaje evolutivo del mindfulness, desde sus antiguas raíces contemplativas hasta su validación científica moderna. Este artículo profundiza en cómo el marco de Consciencia Cuántica se construye sobre esta rica historia, ofreciendo un enfoque revolucionario para comprender y dar forma activamente a tu mundo interior en pro de un bienestar profundo y autodomino."
-taxonomy:
-    category:
-        - Mindfulness Approaches
-        - Core Concepts
-        - Framework Principles
-    post_tag:
-        - Quantum Mindfulness
-        - Psychodynamic Dimensions
-        - Conscious Observation
-        - Perceptual Freedom
-        - Stress Reduction
-        - Scientific Mindfulness
-        - Cognitive Superposition
+post_excerpt: Descubre el viaje evolutivo del mindfulness, desde sus antiguas raíces
+  contemplativas hasta su validación científica moderna. Este artículo profundiza
+  en cómo el marco de Consciencia Cuántica se construye sobre esta rica historia,
+  ofreciendo un enfoque revolucionario para comprender y dar forma activamente a tu
+  mundo interior en pro de un bienestar profundo y autodomino.
+taxonomy: null
+category:
+- Mindfulness Approaches
+- Core Concepts
+- Framework Principles
+post_tag:
+- Quantum Mindfulness
+- Psychodynamic Dimensions
+- Conscious Observation
+- Perceptual Freedom
+- Stress Reduction
+- Scientific Mindfulness
+- Cognitive Superposition
 ---
 ### Consciencia Cuántica: Desvelando la Estructura de tu Bienestar
 

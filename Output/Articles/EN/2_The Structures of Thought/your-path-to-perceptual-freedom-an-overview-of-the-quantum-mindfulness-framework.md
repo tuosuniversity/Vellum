@@ -1,19 +1,22 @@
 ---
 title: Your Path to Perceptual Freedom - An Overview of the Quantum Mindfulness Framework
-post_excerpt: Discover the Quantum Mindfulness framework, a revolutionary approach that empowers you to actively shape your experience of reality. Learn how conscious attention and internal psychodynamic processes can lead to profound personal transformation and the ultimate goal of perceptual freedom.
-taxonomy:
-    category:
-        - Core Concepts
-        - Perception
-        - Goals
-    post_tag:
-        - Quantum Mindfulness
-        - Perceptual Freedom
-        - Reality Shaping
-        - Mind Mastery
-        - Psychodynamic Dimensions
-        - Cognitive Superposition
-        - Observer-Participant Theory
+post_excerpt: Discover the Quantum Mindfulness framework, a revolutionary approach
+  that empowers you to actively shape your experience of reality. Learn how conscious
+  attention and internal psychodynamic processes can lead to profound personal transformation
+  and the ultimate goal of perceptual freedom.
+taxonomy: null
+category:
+- Core Concepts
+- Perception
+- Goals
+post_tag:
+- Quantum Mindfulness
+- Perceptual Freedom
+- Reality Shaping
+- Mind Mastery
+- Psychodynamic Dimensions
+- Cognitive Superposition
+- Observer-Participant Theory
 ---
 ### Your Path to Perceptual Freedom: An Overview of the Quantum Mindfulness Framework
 

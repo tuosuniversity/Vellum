@@ -1,20 +1,25 @@
 ---
-title: Beyond First Impressions - The Science of "Cognitive Superposition" and Your Mind
-post_excerpt: Explore the Quantum Mindfulness concept of 'Cognitive Superposition,' where mental potentials coexist before collapsing into a single perception. Discover how conscious attention drives this 'Psychodynamic Collapse,' shaping our reality. This article delves into the profound implications for cultivating mindful awareness and influencing our internal landscape.
-taxonomy:
-    category:
-        - Core Concepts
-        - Perception
-        - Mindfulness Approaches
-    post_tag:
-        - Cognitive Superposition
-        - Psychodynamic Collapse
-        - Quantum Mindfulness
-        - Perception
-        - Conscious Attention
-        - Mindfulness
-        - Reality Construction
-        - Active Mastery
+title: Beyond First Impressions - The Science of "Cognitive Superposition" and Your
+  Mind
+post_excerpt: Explore the Quantum Mindfulness concept of 'Cognitive Superposition,'
+  where mental potentials coexist before collapsing into a single perception. Discover
+  how conscious attention drives this 'Psychodynamic Collapse,' shaping our reality.
+  This article delves into the profound implications for cultivating mindful awareness
+  and influencing our internal landscape.
+taxonomy: null
+category:
+- Core Concepts
+- Perception
+- Mindfulness Approaches
+post_tag:
+- Cognitive Superposition
+- Psychodynamic Collapse
+- Quantum Mindfulness
+- Perception
+- Conscious Attention
+- Mindfulness
+- Reality Construction
+- Active Mastery
 ---
 ### Beyond First Impressions: The Science of "Cognitive Superposition" and Your Mind
 

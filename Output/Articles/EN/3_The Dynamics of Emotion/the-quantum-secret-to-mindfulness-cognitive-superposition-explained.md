@@ -1,20 +1,25 @@
 ---
 title: The Quantum Secret to Mindfulness - Cognitive Superposition Explained
-post_excerpt: "Discover the transformative power of Cognitive Superposition, a core concept in Quantum Mindfulness, which reveals how your mind holds multiple potentials simultaneously. Learn how conscious attention acts as the catalyst, collapsing these possibilities into your lived reality and empowering you to actively shape your experience. This article redefines mindfulness as a dynamic process of co-creation, offering a path to profound personal agency and perceptual freedom."
-taxonomy:
-    category:
-        - Core Concepts
-        - Mindfulness Approaches
-        - Perception
-    post_tag:
-        - Cognitive Superposition
-        - Quantum Mindfulness
-        - Psychodynamic Wave Collapse
-        - Conscious Attention
-        - Observer-Participant Dynamic
-        - Perceptual Freedom
-        - Mental Flexibility
-        - Active Mastery
+post_excerpt: Discover the transformative power of Cognitive Superposition, a core
+  concept in Quantum Mindfulness, which reveals how your mind holds multiple potentials
+  simultaneously. Learn how conscious attention acts as the catalyst, collapsing these
+  possibilities into your lived reality and empowering you to actively shape your
+  experience. This article redefines mindfulness as a dynamic process of co-creation,
+  offering a path to profound personal agency and perceptual freedom.
+taxonomy: null
+category:
+- Core Concepts
+- Mindfulness Approaches
+- Perception
+post_tag:
+- Cognitive Superposition
+- Quantum Mindfulness
+- Psychodynamic Wave Collapse
+- Conscious Attention
+- Observer-Participant Dynamic
+- Perceptual Freedom
+- Mental Flexibility
+- Active Mastery
 ---
 ### The Quantum Secret to Mindfulness: Cognitive Superposition Explained
 

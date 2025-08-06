@@ -1,21 +1,26 @@
 ---
 title: The Ancient Roots of "Core Self" - Where Timeless Wisdom Meets Quantum Mindfulness
-post_excerpt: The Quantum Mindfulness framework introduces the "Core Self" as the fundamental wellspring of consciousness and pure potential, akin to the Psycho-Volitional Dimension (Pd1). This timeless concept, far from being a modern invention, echoes profound insights found in ancient Eastern and Western philosophical traditions. By understanding and connecting with this inherent "I-ness," individuals can reclaim agency and actively shape their experienced reality, moving beyond conditioned patterns.
-taxonomy:
-    category:
-        - Core Concepts
-        - Framework Principles
-        - Mindfulness Approaches
-    post_tag:
-        - Core Self
-        - Quantum Mindfulness
-        - Psychodynamic Dimensions
-        - Psycho-Volitional Dimension
-        - Consciousness
-        - Self-Realization
-        - Ancient Wisdom
-        - Perception
-        - Free Will
+post_excerpt: The Quantum Mindfulness framework introduces the "Core Self" as the
+  fundamental wellspring of consciousness and pure potential, akin to the Psycho-Volitional
+  Dimension (Pd1). This timeless concept, far from being a modern invention, echoes
+  profound insights found in ancient Eastern and Western philosophical traditions.
+  By understanding and connecting with this inherent "I-ness," individuals can reclaim
+  agency and actively shape their experienced reality, moving beyond conditioned patterns.
+taxonomy: null
+category:
+- Core Concepts
+- Framework Principles
+- Mindfulness Approaches
+post_tag:
+- Core Self
+- Quantum Mindfulness
+- Psychodynamic Dimensions
+- Psycho-Volitional Dimension
+- Consciousness
+- Self-Realization
+- Ancient Wisdom
+- Perception
+- Free Will
 ---
 ### The Ancient Roots of "Core Self": Where Timeless Wisdom Meets Quantum Mindfulness
 
