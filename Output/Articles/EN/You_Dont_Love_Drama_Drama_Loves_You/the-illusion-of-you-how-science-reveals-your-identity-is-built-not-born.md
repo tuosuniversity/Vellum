@@ -1,10 +1,22 @@
 ---
-title: The Illusion of "You": How Science Reveals Your Identity Is Built, Not Born
-categories: ["Core Concepts", "Mindfulness Approaches", "Perception"]
-tags: ["identity", "self-concept", "Quantum Mindfulness", "perception", "psychodynamic dimensions", "inherited scripts", "cognitive bias", "self-mastery", "conscious observation"]
+title: The Illusion of "You" - How Science Reveals Your Identity Is Built, Not Born
 post_excerpt: "Uncover the liberating truth that your identity is a dynamic, constructed reality, not a fixed fate. This post explores how inherited beliefs, social perceptions, and reconstructive memory continuously shape 'you,' and how the Quantum Mindfulness framework empowers you to move from passive observation to actively designing your authentic self."
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Mindfulness Approaches"
+        - "Perception"]
+    post_tag:
+        - ["identity"
+        - "self-concept"
+        - "Quantum Mindfulness"
+        - "perception"
+        - "psychodynamic dimensions"
+        - "inherited scripts"
+        - "cognitive bias"
+        - "self-mastery"
+        - "conscious observation"]
 ---
-
 ### The Illusion of "You": How Science Reveals Your Identity Is Built, Not Born
 
 Have you ever experienced that subtle, unsettling feeling that you're merely playing a role, rather than truly inhabiting your authentic self? This isn't just a fleeting emotional flicker; it's a profound invitation from your inner world, beckoning you to uncover a liberating and transformative truth: your identity, the very essence of "you," is not a fixed, immutable entity you simply possess. Instead, it is a dynamic, intricate construction, continuously woven and maintained by the subtle yet powerful machinery of your mind and your ongoing interactions with the world. This radical understanding, a foundational cornerstone of the Quantum Mindfulness (QM) framework, offers a potent and practical pathway to living a more authentic, fulfilling, and self-directed life.

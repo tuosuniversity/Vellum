@@ -1,24 +1,24 @@
 ---
-title: Unlock Your Reality: Is Your Perception a Window or a Paintbrush? The Science of Quantum Consciousness
-categories:
-  - Perception
-  - Core Concepts
-  - Framework Principles
-tags:
-  - Quantum Mindfulness
-  - perception
-  - reality construction
-  - cognitive psychology
-  - psychodynamic dimensions
-  - conscious observation
-  - personal agency
-  - mental well-being
-  - self-mastery
-  - quantum consciousness
+title: Unlock Your Reality - Is Your Perception a Window or a Paintbrush? The Science of Quantum Consciousness
 post_excerpt: >
-  Traditional views often portray perception as a passive window to reality. However, the Quantum Mindfulness framework posits that perception is an active, creative process, akin to a paintbrush shaping our experienced reality. This profound shift in understanding empowers us to consciously influence our internal states and external experiences, moving beyond passive reception to active co-creation.
+Traditional views often portray perception as a passive window to reality. However, the Quantum Mindfulness framework posits that perception is an active, creative process, akin to a paintbrush shaping our experienced reality. This profound shift in understanding empowers us to consciously influence our internal states and external experiences, moving beyond passive reception to active co-creation.
+taxonomy:
+    category:
+        - Perception
+        - Core Concepts
+        - Framework Principles
+    post_tag:
+        - Quantum Mindfulness
+        - perception
+        - reality construction
+        - cognitive psychology
+        - psychodynamic dimensions
+        - conscious observation
+        - personal agency
+        - mental well-being
+        - self-mastery
+        - quantum consciousness
 ---
-
 ### Unlock Your Reality: Is Your Perception a Window or a Paintbrush? The Science of Quantum Consciousness
 
 Imagine for a moment that the reality you experience every single day isn't a pre-recorded film you merely observe, but a vibrant canvas that you yourself are actively painting, often without conscious awareness. This profound idea lies at the heart of the Quantum Mindfulness (QM) framework, challenging one of our most deeply ingrained assumptions about how we interact with the world: the very nature of perception.

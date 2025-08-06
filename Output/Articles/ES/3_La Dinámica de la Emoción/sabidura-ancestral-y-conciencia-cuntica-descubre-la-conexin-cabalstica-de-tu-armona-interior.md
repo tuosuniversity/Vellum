@@ -1,21 +1,21 @@
 ---
-title: Sabiduría Ancestral y Conciencia Cuántica: Descubre la Conexión Cabalística de tu Armonía Interior
-categories:
-  - Core Concepts
-  - Psychodynamic Dimensions
-  - Practices
-tags:
-  - Quantum Mindfulness
-  - Psycho-Aesthetic Dimension
-  - Tiferet
-  - Kabbalah
-  - Inner Harmony
-  - Psychodynamic Balance
-  - Consciousness Refinement
+title: Sabiduría Ancestral y Conciencia Cuántica - Descubre la Conexión Cabalística de tu Armonía Interior
 post_excerpt: >
-  Explore the profound connection between ancient Kabbalistic wisdom, specifically the concept of Tiferet, and the Quantum Mindfulness framework's Psycho-Aesthetic Dimension (Pd6). This article reveals how the integration of opposing forces—like compassion and boundaries—is essential for achieving true inner harmony and how understanding this dynamic allows for active mastery of one's psychological landscape.
+Explore the profound connection between ancient Kabbalistic wisdom, specifically the concept of Tiferet, and the Quantum Mindfulness framework's Psycho-Aesthetic Dimension (Pd6). This article reveals how the integration of opposing forces—like compassion and boundaries—is essential for achieving true inner harmony and how understanding this dynamic allows for active mastery of one's psychological landscape.
+taxonomy:
+    category:
+        - Core Concepts
+        - Psychodynamic Dimensions
+        - Practices
+    post_tag:
+        - Quantum Mindfulness
+        - Psycho-Aesthetic Dimension
+        - Tiferet
+        - Kabbalah
+        - Inner Harmony
+        - Psychodynamic Balance
+        - Consciousness Refinement
 ---
-
 ### Sabiduría Ancestral y Conciencia Cuántica: Descubre la Conexión Cabalística de tu Armonía Interior
 
 Desde tiempos inmemoriales, la humanidad ha buscado comprender los misterios de la existencia, la naturaleza de la conciencia y el camino hacia la armonía interior. Sorprendentemente, muchos de los principios que subyacen a la psicología moderna y a los marcos de desarrollo personal encuentran ecos profundos en las tradiciones de sabiduría ancestral. El modelo de Consciencia Cuántica es un testimonio de esta verdad, particularmente en lo que respecta a la **Dimensión Psico-Estética (Pd6)**, el sexto elemento de este innovador marco. Esta dimensión, una de las diez `Psychodynamic Dimensions` fundamentales que componen nuestra psique, es mucho más que una simple preferencia por lo bello; es un `crucial balancing cognitive mechanism` y un `integration hub` que orquesta la sinfonía de nuestra vida interior.

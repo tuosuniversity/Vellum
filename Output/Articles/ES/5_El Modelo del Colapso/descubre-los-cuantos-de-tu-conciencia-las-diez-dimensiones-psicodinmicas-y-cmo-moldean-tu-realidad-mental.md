@@ -1,10 +1,21 @@
 ---
-title: Descubre los 'Cuantos' de Tu Conciencia: Las Diez Dimensiones Psicodinámicas y Cómo Moldean Tu Realidad Mental
-categories: ["Psychodynamic Dimensions", "Core Concepts", "Framework Principles"]
-tags: ["Quantum Mindfulness", "Psychodynamic Dimensions", "Consciousness", "Mental Health", "Self-awareness", "Cognitive Science", "Emotional Intelligence", "Inner Landscape"]
+title: Descubre los 'Cuantos' de Tu Conciencia - Las Diez Dimensiones Psicodinámicas y Cómo Moldean Tu Realidad Mental
 post_excerpt: Explore el innovador marco de Quantum Mindfulness y sus diez Dimensiones Psicodinámicas, las unidades fundamentales que construyen su realidad mental. Descubra cómo estas dimensiones, organizadas en Modalidades Principal y Secundaria, dan forma a sus pensamientos, emociones y percepciones, ofreciendo una nueva lente para la auto-reflexión y la transformación consciente.
+taxonomy:
+    category:
+        - ["Psychodynamic Dimensions"
+        - "Core Concepts"
+        - "Framework Principles"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Psychodynamic Dimensions"
+        - "Consciousness"
+        - "Mental Health"
+        - "Self-awareness"
+        - "Cognitive Science"
+        - "Emotional Intelligence"
+        - "Inner Landscape"]
 ---
-
 ### Descubre los 'Cuantos' de Tu Conciencia: Las Diez Dimensiones Psicodinámicas y Cómo Moldean Tu Realidad Mental
 
 ¿Alguna vez te has detenido a considerar la asombrosa complejidad de tu propia experiencia subjetiva? Ese incesante torbellino de pensamientos fugaces, emociones profundas y percepciones multifacéticas que colectivamente definimos como "realidad mental" a menudo parece operar como un misterio insondable. Sin embargo, ¿y si le dijera que, de manera análoga al universo físico que se construye a partir de partículas fundamentales e interacciones energéticas, su conciencia también posee sus propios "bloques constructivos" elementales? El revolucionario marco de Quantum Mindfulness (Conciencia Cuántica) postula precisamente esto, ofreciendo un modelo innovador para desentrañar la estructura misma de nuestra mente.

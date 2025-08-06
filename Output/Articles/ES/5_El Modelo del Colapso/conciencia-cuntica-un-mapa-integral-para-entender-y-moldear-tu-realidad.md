@@ -1,10 +1,20 @@
 ---
-title: Conciencia Cuántica: Un Mapa Integral para Entender y Moldear Tu Realidad
-categories: ["Core Concepts", "Perception", "Practices"]
-tags: ["Quantum Mindfulness", "Consciousness Studies", "Reality Shaping", "Psychodynamic Dimensions", "Cognitive Agency", "Mindfulness Application", "Personal Transformation"]
+title: Conciencia Cuántica - Un Mapa Integral para Entender y Moldear Tu Realidad
 post_excerpt: "Explore the Quantum Mindfulness framework, a revolutionary approach that redefines consciousness as an active co-creator of reality. This article delves into the core principles of the Quantum Observer, the mechanisms of Psychodynamic Collapse, and practical strategies for intentionally shaping your subjective experience and personal reality."
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Perception"
+        - "Practices"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Consciousness Studies"
+        - "Reality Shaping"
+        - "Psychodynamic Dimensions"
+        - "Cognitive Agency"
+        - "Mindfulness Application"
+        - "Personal Transformation"]
 ---
-
 ### Conciencia Cuántica: Un Mapa Integral para Entender y Moldear Tu Realidad
 
 The human consciousness, arguably, remains our most profound and engaging mystery. How is our subjective experience formed? Why do we perceive the world in the unique ways we do? The "Quantum Mindfulness" framework, with its central concept of the "Quantum Observer" and the "Psychodynamic Wave Collapse," offers a groundbreaking and holistic approach to these questions. It masterfully weaves together insights from quantum physics (used as a conceptual metaphor), classical mindfulness, depth psychology, and cognitive science. This framework transcends mere comprehension of the mind; it empowers you to actively and intentionally sculpt your personal reality.

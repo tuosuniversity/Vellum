@@ -1,21 +1,21 @@
 ---
-title: Unlocking Your Mind's Power: How "Perception is Sovereign" Transforms Anxiety
-categories:
-  - Perception
-  - Core Concepts
-  - Therapeutic Strategies
-tags:
-  - Quantum Mindfulness
-  - Anxiety
-  - Cognitive Reframing
-  - Perception
-  - Observer-Participant Dynamic
-  - Mental Well-being
-  - Emotional Regulation
-  - Conscious Creation
-post_excerpt:  Anxiety often feels like an uncontrollable force, but Quantum Mindfulness offers a radical new perspective. This post explores the core principle of "Perception is Sovereign," revealing how your mind actively shapes your reality and provides the tools to transform anxious states from fixed problems into malleable experiences, empowering you to become the architect of your inner world.
+title: Unlocking Your Mind's Power - How "Perception is Sovereign" Transforms Anxiety
+post_excerpt: Anxiety often feels like an uncontrollable force, but Quantum Mindfulness offers a radical new perspective. This post explores the core principle of "Perception is Sovereign," revealing how your mind actively shapes your reality and provides the tools to transform anxious states from fixed problems into malleable experiences, empowering you to become the architect of your inner world.
+taxonomy:
+    category:
+        - Perception
+        - Core Concepts
+        - Therapeutic Strategies
+    post_tag:
+        - Quantum Mindfulness
+        - Anxiety
+        - Cognitive Reframing
+        - Perception
+        - Observer-Participant Dynamic
+        - Mental Well-being
+        - Emotional Regulation
+        - Conscious Creation
 ---
-
 ### Unlocking Your Mind's Power: How "Perception is Sovereign" Transforms Anxiety
 
 Have you ever found yourself caught in the relentless grip of anxiety or panic, feeling as though it's an uninvited, all-consuming storm raging within you, utterly beyond your control? The familiar symptoms — a racing heart, the suffocating cascade of "what ifs," the palpable sensation of impending doom — all seem undeniably real, fixed, and unchangeable. Conventional wisdom often advises observing these turbulent feelings, acknowledging their presence, and patiently waiting for them to dissipate. But what if there existed a more profound, more empowering truth about the very nature of your inner experience?

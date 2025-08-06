@@ -1,10 +1,21 @@
 ---
-title: Desentrañando el Misterio de tus Reacciones: La Ciencia de la Autopsia Cognitiva
-categories: ["Core Concepts", "Practices", "Mindfulness Approaches"]
-tags: ["Cognitive Autopsy", "Quantum Mindfulness", "Psychodynamic Dimensions", "Conscious Attention", "Perceptual Freedom", "Mindfulness Practices", "Self-Awareness", "Cognitive Appraisal"]
+title: Desentrañando el Misterio de tus Reacciones - La Ciencia de la Autopsia Cognitiva
 post_excerpt: Have you ever found yourself reacting in ways you instantly regret? Quantum Mindfulness introduces "Cognitive Autopsy," a powerful practice that allows you to deconstruct these internal chain reactions, revealing the precise interplay of psychodynamic dimensions and empowering you to become the conscious architect of your responses rather than a mere passenger. This article delves into the scientific framework behind understanding and transforming your automatic reactions.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Practices"
+        - "Mindfulness Approaches"]
+    post_tag:
+        - ["Cognitive Autopsy"
+        - "Quantum Mindfulness"
+        - "Psychodynamic Dimensions"
+        - "Conscious Attention"
+        - "Perceptual Freedom"
+        - "Mindfulness Practices"
+        - "Self-Awareness"
+        - "Cognitive Appraisal"]
 ---
-
 ### Desentrañando el Misterio de tus Reacciones: La Ciencia de la Autopsia Cognitiva
 
 Have you ever found yourself reacting in ways you instantly regret, only to wonder how you got there? Perhaps a surge of frustration in traffic, a sharp retort to a loved one, or a paralyzing anxiety before a deadline? These seemingly spontaneous reactions are not random events. They are the culminating expression of an intricate internal process, a cascade of psychological events unfolding within your mind with algorithmic precision. The transformative framework of Quantum Mindfulness introduces a revolutionary practice for navigating this inner landscape: **Cognitive Autopsy**, a methodical approach designed to unravel this complex internal chain reaction.

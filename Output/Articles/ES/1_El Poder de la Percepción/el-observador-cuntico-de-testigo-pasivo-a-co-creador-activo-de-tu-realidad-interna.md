@@ -1,10 +1,22 @@
 ---
-title: El Observador Cuántico: De Testigo Pasivo a Co-Creador Activo de Tu Realidad Interna
-categories: ["Framework Principles", "Mindfulness Approaches", "Perception"]
-tags: ["Quantum Mindfulness", "Observer-Participant", "Active Mastery", "Psychodynamic Dimensions", "Cognitive Superposition", "Perceptual Freedom", "Conscious Attention", "Reality Construction", "Mindfulness"]
+title: El Observador Cuántico - De Testigo Pasivo a Co-Creador Activo de Tu Realidad Interna
 post_excerpt: "Descubre cómo el Quantum Mindfulness transforma la práctica de la observación de un acto pasivo a una co-creación activa de tu realidad interna. Este paradigma revela que tu atención consciente no solo recibe información, sino que moldea activamente tus experiencias al interactuar con las dimensiones psicodinámicas de tu conciencia, ofreciéndote un poder sin precedentes sobre tu bienestar y crecimiento personal."
+taxonomy:
+    category:
+        - ["Framework Principles"
+        - "Mindfulness Approaches"
+        - "Perception"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Observer-Participant"
+        - "Active Mastery"
+        - "Psychodynamic Dimensions"
+        - "Cognitive Superposition"
+        - "Perceptual Freedom"
+        - "Conscious Attention"
+        - "Reality Construction"
+        - "Mindfulness"]
 ---
-
 ### El Observador Cuántico: De Testigo Pasivo a Co-Creador Activo de Tu Realidad Interna
 
 Desde hace décadas, el mindfulness clásico nos ha ofrecido una senda hacia la paz interior a través de la observación. Nos ha enseñado el valor incalculable de ser testigos desapegados de nuestros pensamientos, emociones y sensaciones, permitiendo que surjan y se disuelvan sin aferrarnos a ellos ni juzgarlos. Este enfoque, que busca la `Passive Mastery` y el desarrollo de una `Witness Consciousness`, ha sido fundamental para reducir el estrés, mejorar la regulación emocional y cultivar una estabilidad interna duradera. Pero, ¿qué pasaría si el acto de observar no fuera tan pasivo como pensábamos?

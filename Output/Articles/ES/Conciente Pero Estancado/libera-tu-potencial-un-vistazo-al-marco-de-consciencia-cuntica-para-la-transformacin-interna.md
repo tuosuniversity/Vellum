@@ -1,22 +1,22 @@
 ---
-title: Libera Tu Potencial: Un Vistazo al Marco de Consciencia Cuántica para la Transformación Interna
-categories:
-  - Therapeutic Strategies
-  - Practices
-  - Mindfulness Approaches
-tags:
-  - Quantum Mindfulness
-  - Anchored Reconfiguration Protocol
-  - Inner Transformation
-  - Emotional Resilience
-  - Cognitive Anchoring
-  - Psychodynamic Collapse
-  - Self-Regulation
-  - Perceptual Freedom
+title: Libera Tu Potencial - Un Vistazo al Marco de Consciencia Cuántica para la Transformación Interna
 post_excerpt: >
-  This blog post introduces the Quantum Mindfulness framework's Anchored Reconfiguration Protocol. It outlines a three-phase journey to cultivate inner stability, explore and reconfigure internal patterns, and integrate new responses for lasting emotional resilience and freedom. Discover how to move beyond reactive coping to proactively reshape your mental landscape.
+This blog post introduces the Quantum Mindfulness framework's Anchored Reconfiguration Protocol. It outlines a three-phase journey to cultivate inner stability, explore and reconfigure internal patterns, and integrate new responses for lasting emotional resilience and freedom. Discover how to move beyond reactive coping to proactively reshape your mental landscape.
+taxonomy:
+    category:
+        - Therapeutic Strategies
+        - Practices
+        - Mindfulness Approaches
+    post_tag:
+        - Quantum Mindfulness
+        - Anchored Reconfiguration Protocol
+        - Inner Transformation
+        - Emotional Resilience
+        - Cognitive Anchoring
+        - Psychodynamic Collapse
+        - Self-Regulation
+        - Perceptual Freedom
 ---
-
 ### Libera Tu Potencial: Un Vistazo al Marco de Consciencia Cuántica para la Transformación Interna
 
 Are you tired of quick fixes that merely scratch the surface of your anxiety or self-doubt? Do you yearn for a way to transform the underlying patterns that hijack your well-being, rather than just coping with them? Sarah, our graphic designer, embodies this quest: despite having tools for crisis management, her internal engine continued to falter. Like many, she sought genuine inner freedom and lasting emotional fortitude.

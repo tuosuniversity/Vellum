@@ -1,10 +1,21 @@
 ---
-title: Consciencia Cuántica: ¿Cómo Tu Atención Moldea Tu Realidad Interna? Explorando la Superposición y el Colapso Cognitivo
-categories: ["Core Concepts", "Perception", "Mindfulness Approaches"]
-tags: ["Quantum Mindfulness", "cognitive superposition", "psychodynamic collapse", "conscious attention", "observer effect", "reality creation", "perceptual freedom", "inner world"]
+title: Consciencia Cuántica - ¿Cómo Tu Atención Moldea Tu Realidad Interna? Explorando la Superposición y el Colapso Cognitivo
 post_excerpt: Explora la revolucionaria perspectiva de la Consciencia Cuántica, que revela cómo tu atención consciente no es solo un observador pasivo, sino un participante activo en la creación de tu realidad interna. Descubre los conceptos de Superposición Cognitiva y Colapso Psicodinámico, y cómo el dominio de tu atención te empodera para moldear activamente tu experiencia.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Perception"
+        - "Mindfulness Approaches"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "cognitive superposition"
+        - "psychodynamic collapse"
+        - "conscious attention"
+        - "observer effect"
+        - "reality creation"
+        - "perceptual freedom"
+        - "inner world"]
 ---
-
 ### Consciencia Cuántica: ¿Cómo Tu Atención Moldea Tu Realidad Interna? Explorando la Superposición y el Colapso Cognitivo
 
 El mindfulness, en su forma más conocida, ha sido un faro transformador para millones de personas. Nos ha enseñado el invaluable arte de anclarnos en el presente, de observar nuestros pensamientos y emociones sin juicio, y de encontrar serenidad en medio del caos. Es una práctica de *maestría pasiva*, donde aprendemos a relacionarnos con nuestra experiencia tal como es.

@@ -1,10 +1,21 @@
 ---
-title: La Historia de Tus Límites: Cómo la Filosofía y la Psicología Dieron Forma a la Protección del Yo
-categories: ["Psychodynamic Dimensions", "Secondary Modality", "Core Concepts"]
-tags: ["Psycho-Protective Dimension", "Psychodynamic Dimensions", "Self-preservation", "Boundaries", "Psychological integrity", "Quantum Mindfulness", "Identity formation", "Emotional regulation"]
+title: La Historia de Tus Límites - Cómo la Filosofía y la Psicología Dieron Forma a la Protección del Yo
 post_excerpt: "Explore the deep historical and philosophical roots of self-protection, tracing how ancient wisdom and modern psychology laid the groundwork for the Quantum Mindfulness framework's Psycho-Protective Dimension (Pd5). This post delves into the essential role of boundaries and self-integrity in psychological well-being, revealing how the capacity to define oneself is crucial for growth and resilience."
+taxonomy:
+    category:
+        - ["Psychodynamic Dimensions"
+        - "Secondary Modality"
+        - "Core Concepts"]
+    post_tag:
+        - ["Psycho-Protective Dimension"
+        - "Psychodynamic Dimensions"
+        - "Self-preservation"
+        - "Boundaries"
+        - "Psychological integrity"
+        - "Quantum Mindfulness"
+        - "Identity formation"
+        - "Emotional regulation"]
 ---
-
 ### La Historia de Tus Límites: Cómo la Filosofía y la Psicología Dieron Forma a la Protección del Yo
 
 Desde los albores de la civilización, la humanidad ha grappled con preguntas existenciales fundamentales: ¿quién soy yo? ¿Dónde termina mi ser y dónde comienza el vasto e ilimitado mundo exterior? Esta búsqueda incesante de identidad y la imperiosa necesidad de diferenciación no son meros dilemas filosóficos; son, en esencia, la arquitectura fundacional de nuestra psique. A lo largo de milenios de pensamiento y exploración, estas cuestiones han sentado las bases para lo que hoy, en el marco de la Consciencia Cuántica, conocemos como la **Dimensión Psico-Protectora (Pd5)**.

@@ -1,8 +1,21 @@
 ---
-title: La Evolución de la Conciencia: Del Mindfulness Tradicional al Poder Transformador Cuántico
-categories: ["Mindfulness Approaches", "Framework Principles", "Advanced Practices"]
-tags: ["Quantum Mindfulness", "Consciousness", "Self-Transformation", "Observer-Participant", "Mindfulness", "Personal Growth", "Psychodynamic Dimensions", "Cognitive Agency", "Perception"]
+title: La Evolución de la Conciencia - Del Mindfulness Tradicional al Poder Transformador Cuántico
 post_excerpt: "Explore the profound evolution of consciousness, moving from the passive observation of traditional mindfulness to the active co-creation of reality within the Quantum Mindfulness framework. This post delves into the transformative power of becoming an 'Observer-Participant,' leveraging conscious attention to shape our internal and external experiences."
+taxonomy:
+    category:
+        - ["Mindfulness Approaches"
+        - "Framework Principles"
+        - "Advanced Practices"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Consciousness"
+        - "Self-Transformation"
+        - "Observer-Participant"
+        - "Mindfulness"
+        - "Personal Growth"
+        - "Psychodynamic Dimensions"
+        - "Cognitive Agency"
+        - "Perception"]
 ---
 ### La Evolución de la Conciencia: Del Mindfulness Tradicional al Poder Transformador Cuántico
 

@@ -1,19 +1,20 @@
 ---
-title: Quantum Mindfulness: A New Framework for Mastering Your Inner World
-categories:
-  - Core Concepts
-  - Framework Principles
-  - Practices
-tags:
-  - Quantum Mindfulness
-  - Psychodynamic Collapse
-  - Conscious Attention
-  - Psychodynamic Dimensions
-  - Intentional Collapse
-  - Self-Mastery
-  - Perceptual Freedom
+title: Quantum Mindfulness - A New Framework for Mastering Your Inner World
 post_excerpt: >
-  Discover the revolutionary Quantum Mindfulness framework, which posits that your inner world exists as a dynamic field of possibilities. Learn how your conscious attention actively shapes your reality through "psychodynamic collapse" and empowers you to move beyond reactive patterns toward intentional co-creation.
+Discover the revolutionary Quantum Mindfulness framework, which posits that your inner world exists as a dynamic field of possibilities. Learn how your conscious attention actively shapes your reality through "psychodynamic collapse" and empowers you to move beyond reactive patterns toward intentional co-creation.
+taxonomy:
+    category:
+        - Core Concepts
+        - Framework Principles
+        - Practices
+    post_tag:
+        - Quantum Mindfulness
+        - Psychodynamic Collapse
+        - Conscious Attention
+        - Psychodynamic Dimensions
+        - Intentional Collapse
+        - Self-Mastery
+        - Perceptual Freedom
 ---
 ### Quantum Mindfulness: A New Framework for Mastering Your Inner World
 

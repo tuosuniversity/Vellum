@@ -1,10 +1,22 @@
 ---
-title: Un Mapa Revolucionario de tu Mente: Comprendiendo las Diez Dimensiones del Mindfulness Cuántico
-categories: ["Psychodynamic Dimensions", "Core Concepts", "Perception"]
-tags: ["Quantum Mindfulness", "Consciousness", "Psychological Framework", "Self-discovery", "Mental Well-being", "Inner World", "Psychodynamic Dimensions", "Perceptual Freedom", "Mind Mapping"]
+title: Un Mapa Revolucionario de tu Mente - Comprendiendo las Diez Dimensiones del Mindfulness Cuántico
 post_excerpt: "Explore el revolucionario Modelo de Diez Dimensiones del Mindfulness Cuántico, un mapa sin precedentes para comprender el vasto paisaje de su propia conciencia. Este artículo profundiza en cómo estas interconectadas dimensiones psicodinámicas dan forma a su realidad interna y externa, ofreciendo un camino hacia una mayor autoconciencia y manifestación intencional."
+taxonomy:
+    category:
+        - ["Psychodynamic Dimensions"
+        - "Core Concepts"
+        - "Perception"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Consciousness"
+        - "Psychological Framework"
+        - "Self-discovery"
+        - "Mental Well-being"
+        - "Inner World"
+        - "Psychodynamic Dimensions"
+        - "Perceptual Freedom"
+        - "Mind Mapping"]
 ---
-
 ### Un Mapa Revolucionario de tu Mente: Comprendiendo las Diez Dimensiones del Mindfulness Cuántico
 
 ¿Y si pudieras tener un mapa, no de un territorio geográfico, sino del vasto y complejo paisaje de tu propia conciencia? El marco de **Mindfulness Cuántico** ofrece precisamente eso: un modelo de "Diez Dimensiones" que actúa como una guía sin precedentes para comprender cómo funciona tu mente, cómo se forman tus experiencias y cómo puedes navegar tu realidad interna y externa con mayor sabiduría y propósito.

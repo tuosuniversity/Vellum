@@ -1,10 +1,23 @@
 ---
-title: Descubre la "Inocencia Consciente": La Ciencia Detrás de la Mente Presente de tus Hijos
-categories: ["Mindfulness Approaches", "Human Capacities", "Practices"]
-tags: ["Mindfulness", "Conscious Presence", "Child Development", "Cognitive Agency", "Emotional Regulation", "Psychodynamic Dimensions", "Quantum Mindfulness", "Perceptual Freedom", "Attention Training", "Intentional Collapse"]
+title: Descubre la "Inocencia Consciente" - La Ciencia Detrás de la Mente Presente de tus Hijos
 post_excerpt: Los niños poseen una "inocencia consciente" innata, una capacidad profunda para habitar el presente que es fundamental para su desarrollo. Este artículo explora cómo la ciencia de Quantum Mindfulness nos ayuda a comprender y nutrir esta cualidad, ofreciendo herramientas para que tanto niños como adultos reconecten con su sabiduría interna y cultiven una presencia más intencional en un mundo complejo.
+taxonomy:
+    category:
+        - ["Mindfulness Approaches"
+        - "Human Capacities"
+        - "Practices"]
+    post_tag:
+        - ["Mindfulness"
+        - "Conscious Presence"
+        - "Child Development"
+        - "Cognitive Agency"
+        - "Emotional Regulation"
+        - "Psychodynamic Dimensions"
+        - "Quantum Mindfulness"
+        - "Perceptual Freedom"
+        - "Attention Training"
+        - "Intentional Collapse"]
 ---
-
 ### Descubre la "Inocencia Consciente": La Ciencia Detrás de la Mente Presente de tus Hijos
 
 Desde el momento en que nacen, los niños nos asombran con su capacidad para habitar el presente. Esa es su "inocencia consciente" innata: una mente flexible, abierta al mundo y profundamente conectada con su potencial interno. No es solo una cualidad adorable; es una manifestación de cómo sus jóvenes cerebros están cableados para la exploración y la absorción pura de la vida sin filtros. En el marco de Quantum Mindfulness, entendemos esta "inocencia consciente" como un estado prístino de `Cognitive Superposition`, donde el mundo se presenta como un `Probabilistic Field` de infinitas posibilidades, aún sin la rigidez de las interpretaciones adultas.

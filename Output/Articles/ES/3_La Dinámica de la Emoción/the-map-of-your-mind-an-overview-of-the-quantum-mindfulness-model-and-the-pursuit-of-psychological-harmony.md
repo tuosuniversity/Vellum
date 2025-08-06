@@ -1,21 +1,21 @@
 ---
-title: The Map of Your Mind: An Overview of the Quantum Mindfulness Model and the Pursuit of Psychological Harmony
-categories:
-  - Psychodynamic Dimensions
-  - Framework Principles
-  - Goals
-tags:
-  - Quantum Mindfulness
-  - Psycho-Aesthetic Dimension
-  - Psychological Harmony
-  - Consciousness Architecture
-  - Self-Integration
-  - Emotional Regulation
-  - Perceptual Freedom
+title: The Map of Your Mind - An Overview of the Quantum Mindfulness Model and the Pursuit of Psychological Harmony
 post_excerpt: >
-  Uncover the revolutionary Quantum Mindfulness framework, a detailed map of your psyche's intricate architecture. This post delves into its ten interconnected dimensions, highlighting the pivotal Psycho-Aesthetic Dimension (Pd6) as the master integrator that harmonizes internal forces, leading to profound psychological balance and self-mastery. Explore how understanding this framework can transform your relationship with your own mind, fostering true inner alignment.
+Uncover the revolutionary Quantum Mindfulness framework, a detailed map of your psyche's intricate architecture. This post delves into its ten interconnected dimensions, highlighting the pivotal Psycho-Aesthetic Dimension (Pd6) as the master integrator that harmonizes internal forces, leading to profound psychological balance and self-mastery. Explore how understanding this framework can transform your relationship with your own mind, fostering true inner alignment.
+taxonomy:
+    category:
+        - Psychodynamic Dimensions
+        - Framework Principles
+        - Goals
+    post_tag:
+        - Quantum Mindfulness
+        - Psycho-Aesthetic Dimension
+        - Psychological Harmony
+        - Consciousness Architecture
+        - Self-Integration
+        - Emotional Regulation
+        - Perceptual Freedom
 ---
-
 ### The Map of Your Mind: An Overview of the Quantum Mindfulness Model and the Pursuit of Psychological Harmony
 
 Have you ever found yourself pondering the intricate workings of your own mind? Why do you sometimes feel fragmented, pulled in countless directions by conflicting thoughts and emotions, while at other times, a profound sense of unity and purpose washes over you? The Quantum Mindfulness (QM) framework offers a revolutionary map for understanding the complex internal architecture of the human psyche, and within this profound system, the **Psycho-Aesthetic Dimension (Pd6)** emerges as a central, pivotal piece of the puzzle.

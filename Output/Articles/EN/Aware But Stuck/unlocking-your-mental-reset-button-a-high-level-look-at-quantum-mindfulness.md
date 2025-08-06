@@ -1,22 +1,22 @@
 ---
-title: Unlocking Your Mental Reset Button: A High-Level Look at Quantum Mindfulness
-categories:
-  - Therapeutic Strategies
-  - Practices
-  - Mindfulness Approaches
-tags:
-  - Quantum Mindfulness
-  - Pattern Release & Re-Initiation Protocol
-  - Cognitive Agency
-  - Psychodynamic Collapse
-  - Conscious Attention
-  - Perceptual Freedom
-  - Mental Agility
-  - Psychodynamic Dimensions
+title: Unlocking Your Mental Reset Button - A High-Level Look at Quantum Mindfulness
 post_excerpt: >
-  Discover the Quantum Mindfulness framework's transformative Pattern Release & Re-Initiation Protocol, a structured approach to gain true agency over your mental state. This post delves into how to deliberately interrupt unhelpful mental patterns and consciously re-initiate desired inner experiences, fostering cognitive agility and intentional control. Learn to navigate your inner world, moving from passive observation to active co-creation of your reality.
+Discover the Quantum Mindfulness framework's transformative Pattern Release & Re-Initiation Protocol, a structured approach to gain true agency over your mental state. This post delves into how to deliberately interrupt unhelpful mental patterns and consciously re-initiate desired inner experiences, fostering cognitive agility and intentional control. Learn to navigate your inner world, moving from passive observation to active co-creation of your reality.
+taxonomy:
+    category:
+        - Therapeutic Strategies
+        - Practices
+        - Mindfulness Approaches
+    post_tag:
+        - Quantum Mindfulness
+        - Pattern Release & Re-Initiation Protocol
+        - Cognitive Agency
+        - Psychodynamic Collapse
+        - Conscious Attention
+        - Perceptual Freedom
+        - Mental Agility
+        - Psychodynamic Dimensions
 ---
-
 ### Unlocking Your Mental Reset Button: A High-Level Look at Quantum Mindfulness
 
 Do you ever wish you had a "reset button" for your mind? A way to clear out the mental clutter, silence the inner critic, or break free from cycles of worry and procrastination? Many people experience the frustration of knowing their thoughts are unhelpful, yet feeling powerless to shift them. The Quantum Mindfulness (QM) framework offers a powerful answer, providing a structured approach to gain true *agency* over your mental state.

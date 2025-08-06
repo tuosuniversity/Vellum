@@ -1,10 +1,20 @@
 ---
-title: De la Observación Pasiva a la Creación Activa: La Evolución de la Contemplación en el Mindfulness Cuántico
-categories: ["Mindfulness Approaches", "Practices", "Framework Principles"]
-tags: ["Quantum Mindfulness", "Contemplation", "Classical Mindfulness", "Active Mastery", "Psychodynamic Dimensions", "Conscious Observation", "Perceptual Freedom"]
+title: De la Observación Pasiva a la Creación Activa - La Evolución de la Contemplación en el Mindfulness Cuántico
 post_excerpt: Explore the profound distinction between Classical Mindfulness and Quantum Mindfulness contemplation. This article delves into how Quantum Mindfulness transforms passive observation into an active, deliberate process of shaping reality, leveraging the intricate architecture of psychodynamic dimensions for profound personal transformation and perceptual freedom.
+taxonomy:
+    category:
+        - ["Mindfulness Approaches"
+        - "Practices"
+        - "Framework Principles"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Contemplation"
+        - "Classical Mindfulness"
+        - "Active Mastery"
+        - "Psychodynamic Dimensions"
+        - "Conscious Observation"
+        - "Perceptual Freedom"]
 ---
-
 ### De la Observación Pasiva a la Creación Activa: La Evolución de la Contemplación en el Mindfulness Cuántico
 
 Throughout human history, the quest to understand the nature of mind and consciousness has been a constant. From ancient meditative traditions to modern psychological practices, `Contemplation` and `Mindfulness` have stood as cornerstones on this profound journey. Yet, the "Quantum Mindfulness" framework proposes a bold redefinition of `Contemplation`, one that diverges significantly from common conceptions and illuminates new pathways for personal development and mental mastery.

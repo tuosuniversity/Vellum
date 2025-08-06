@@ -1,10 +1,23 @@
 ---
-title: Quantum Mindfulness: Is Your Reality Truly Objective? The Science of Active Perception
-categories: ["Perception", "Core Concepts", "Mindfulness Approaches"]
-tags: ["Quantum Mindfulness", "Perception", "Consciousness", "Observer-Participant", "Psychodynamic Wave Collapse", "Cognitive Superposition", "Active Mastery", "Mind", "Reality Construction", "Psychodynamic Dimensions"]
+title: Quantum Mindfulness - Is Your Reality Truly Objective? The Science of Active Perception
 post_excerpt: "Quantum Mindfulness challenges the notion of passive observation, proposing that our very act of perceiving actively shapes our reality. Discover how your conscious attention acts as a 'measurement process,' collapsing potential mental states into experienced reality, and learn to embrace your role as an active co-creator of your internal world."
+taxonomy:
+    category:
+        - ["Perception"
+        - "Core Concepts"
+        - "Mindfulness Approaches"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Perception"
+        - "Consciousness"
+        - "Observer-Participant"
+        - "Psychodynamic Wave Collapse"
+        - "Cognitive Superposition"
+        - "Active Mastery"
+        - "Mind"
+        - "Reality Construction"
+        - "Psychodynamic Dimensions"]
 ---
-
 ### Quantum Mindfulness: Is Your Reality Truly Objective? The Science of Active Perception
 
 Have you ever paused to consider that the world you experience isn't just "out there," a fixed, objective reality waiting to be passively observed? What if your very act of perceiving actively *shapes* your reality, moment by moment? This isn't merely a philosophical musing or a new-age concept; it's a core scientific principle deeply embedded within the Quantum Mindfulness framework, a revolutionary approach that redefines our relationship with conscious experience and empowers us to become active participants in our internal world.

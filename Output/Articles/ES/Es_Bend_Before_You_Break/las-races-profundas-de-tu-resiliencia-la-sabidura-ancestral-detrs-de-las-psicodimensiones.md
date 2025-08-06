@@ -1,10 +1,21 @@
 ---
-title: Las Raíces Profundas de tu Resiliencia: La Sabiduría Ancestral Detrás de las Psicodimensiones
-categories: ["Framework Principles", "Psychodynamic Dimensions", "Mindfulness Approaches"]
-tags: ["Quantum Mindfulness", "Psychodynamic Dimensions", "Resilience", "Ancestral Wisdom", "Consciousness Refinement", "Self-Integrity", "Emotional Intelligence", "Perceptual Freedom"]
+title: Las Raíces Profundas de tu Resiliencia - La Sabiduría Ancestral Detrás de las Psicodimensiones
 post_excerpt: "Discover how the Quantum Mindfulness framework articulates ancient wisdom traditions through its Psychodynamic Dimensions, offering a practical path to cultivate resilience. This article explores five key dimensions—Psycho-Protective, Psycho-Empathic, Psycho-Motivational, Psycho-Receptive, and Psycho-Aesthetic—revealing their deep historical roots and their modern application for profound personal transformation."
+taxonomy:
+    category:
+        - ["Framework Principles"
+        - "Psychodynamic Dimensions"
+        - "Mindfulness Approaches"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Psychodynamic Dimensions"
+        - "Resilience"
+        - "Ancestral Wisdom"
+        - "Consciousness Refinement"
+        - "Self-Integrity"
+        - "Emotional Intelligence"
+        - "Perceptual Freedom"]
 ---
-
 ### Las Raíces Profundas de tu Resiliencia: La Sabiduría Ancestral Detrás de las Psicodimensiones
 
 La resiliencia, esa capacidad inherente de afrontar, adaptarse y superar la adversidad, no es un concepto novedoso ni una invención de la psicología moderna. Desde los filósofos estoicos de la antigua Grecia, que predicaban la fortaleza mental ante la fortuna, hasta las milenarias tradiciones espirituales de Oriente que cultivaban la ecuanimidad y la interconexión, la humanidad ha buscado comprender y nutrir esa fortaleza interior. Lo que el marco de Consciencia Cuántica (Quantum Mindfulness) aporta es una lente innovadora –el concepto de **Psicodimensiones**– que no solo honra esta sabiduría ancestral, sino que la integra en un sistema práctico, coherente y profundamente transformador para la resiliencia en el mundo contemporáneo.

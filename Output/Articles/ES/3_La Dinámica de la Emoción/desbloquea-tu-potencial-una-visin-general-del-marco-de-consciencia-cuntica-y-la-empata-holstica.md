@@ -1,10 +1,23 @@
 ---
-title: Desbloquea tu Potencial: Una Visión General del Marco de Consciencia Cuántica y la Empatía Holística
-categories: ["Psychodynamic Dimensions", "Secondary Modality", "Core Concepts"]
-tags: ["Quantum Mindfulness", "Psychodynamic Dimensions", "Empathy", "Holistic Well-being", "Consciousness", "Emotional Intelligence", "Personal Growth", "Self-awareness", "Psychodynamic Balance", "Interconnection"]
+title: Desbloquea tu Potencial - Una Visión General del Marco de Consciencia Cuántica y la Empatía Holística
 post_excerpt: Este artículo profundiza en el marco de Consciencia Cuántica, explorando sus diez dimensiones psicodinámicas como las unidades fundamentales de la experiencia humana. Se centra en la Dimensión Psico-Empática (Pd4) y su interconexión con las dimensiones Psico-Protectora (Pd5) y Psico-Estética (Pd6) para forjar una empatía holística y una acción con propósito. Al comprender esta "arquitectura" interna, los lectores pueden desbloquear su potencial para una vida más integrada y significativa.
+taxonomy:
+    category:
+        - ["Psychodynamic Dimensions"
+        - "Secondary Modality"
+        - "Core Concepts"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Psychodynamic Dimensions"
+        - "Empathy"
+        - "Holistic Well-being"
+        - "Consciousness"
+        - "Emotional Intelligence"
+        - "Personal Growth"
+        - "Self-awareness"
+        - "Psychodynamic Balance"
+        - "Interconnection"]
 ---
-
 ### Desbloquea tu Potencial: Una Visión General del Marco de Consciencia Cuántica y la Empatía Holística
 
 En un mundo que a menudo se siente fragmentado, abrumado por la información y carente de una conexión auténtica, la búsqueda de una conciencia más plena y un bienestar duradero nunca ha sido tan relevante. El marco de Consciencia Cuántica (QM) emerge como una hoja de ruta integral para esta búsqueda, ofreciendo un modelo innovador de nuestra psique. A diferencia de las perspectivas que ven la mente como una entidad continua, QM la concibe como una "arquitectura" compuesta por diez `Psychodynamic Dimension`es distintas, las `QM_Quantum` de nuestra experiencia. Estas no son meras abstracciones, sino los "sustratos energéticos fundamentales" (`qm:FundamentalEnergeticSubstrate`) desde los que emergen nuestras cogniciones, emociones y motivaciones, formando la base de nuestra `Conscious Awareness` y la estructura de nuestra `Personality Organization`.

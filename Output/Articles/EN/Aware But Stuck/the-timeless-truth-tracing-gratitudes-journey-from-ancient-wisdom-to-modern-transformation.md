@@ -1,20 +1,21 @@
 ---
-title: The Timeless Truth: Tracing Gratitude's Journey from Ancient Wisdom to Modern Transformation
-categories:
-  - Mindfulness Approaches
-  - Framework Principles
-  - Practices
-tags:
-  - Gratitude
-  - Quantum Mindfulness
-  - Ancient Wisdom
-  - Positive Psychology
-  - Perceptual Freedom
-  - Psychodynamic Dimensions
-  - Conscious Reality Construction
-  - Observer-Participant Theory
+title: The Timeless Truth - Tracing Gratitude's Journey from Ancient Wisdom to Modern Transformation
 post_excerpt: >
-  Discover how the timeless practice of gratitude, spanning ancient philosophies to modern science, finds its most potent expression within the Quantum Mindfulness framework. This article explores how gratitude transforms from a passive sentiment into an active, volitional force that can consciously reshape your inner reality and foster profound personal well-being.
+Discover how the timeless practice of gratitude, spanning ancient philosophies to modern science, finds its most potent expression within the Quantum Mindfulness framework. This article explores how gratitude transforms from a passive sentiment into an active, volitional force that can consciously reshape your inner reality and foster profound personal well-being.
+taxonomy:
+    category:
+        - Mindfulness Approaches
+        - Framework Principles
+        - Practices
+    post_tag:
+        - Gratitude
+        - Quantum Mindfulness
+        - Ancient Wisdom
+        - Positive Psychology
+        - Perceptual Freedom
+        - Psychodynamic Dimensions
+        - Conscious Reality Construction
+        - Observer-Participant Theory
 ---
 ### The Timeless Truth: Tracing Gratitude's Journey from Ancient Wisdom to Modern Transformation
 

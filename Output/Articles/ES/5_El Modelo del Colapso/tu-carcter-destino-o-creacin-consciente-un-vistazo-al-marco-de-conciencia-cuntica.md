@@ -1,10 +1,20 @@
 ---
-title: "Tu Carácter: ¿Destino o Creación Consciente? Un Vistazo al Marco de Conciencia Cuántica"
-categories: ["Framework Principles", "Psychodynamic Dimensions", "Practices"]
-tags: ["Quantum Mindfulness", "Conscious Creation", "Psychodynamic Dimensions", "Self-Transformation", "Mindfulness Practices", "Volitional Awareness", "Inner Harmony"]
+title: "Tu Carácter - ¿Destino o Creación Consciente? Un Vistazo al Marco de Conciencia Cuántica"
 post_excerpt: "This article introduces the Quantum Mindfulness framework, positing character as a conscious creation rather than fixed destiny. It delves into the framework's core: ten interconnected Psychodynamic Dimensions, offering tools like intentional attention and 'psychic language' for self-refinement. The post emphasizes achieving dynamic harmony, liberating from inherited conditioning, and integrating internal awareness with purposeful action to cultivate an authentic, self-authored life."
+taxonomy:
+    category:
+        - ["Framework Principles"
+        - "Psychodynamic Dimensions"
+        - "Practices"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Conscious Creation"
+        - "Psychodynamic Dimensions"
+        - "Self-Transformation"
+        - "Mindfulness Practices"
+        - "Volitional Awareness"
+        - "Inner Harmony"]
 ---
-
 ### Tu Carácter: ¿Destino o Creación Consciente? Un Vistazo al Marco de Conciencia Cuántica
 
 ¿Qué pasaría si te dijeran que tu carácter no es una colección de rasgos fijos que simplemente "posees", sino una obra de arte dinámica que estás construyendo activamente en cada momento? El marco de Conciencia Cuántica (Quantum Mindfulness) ofrece una visión profundamente transformadora del desarrollo humano, desafiando la noción de un destino predeterminado y, en cambio, abrazando la revolucionaria idea de que nuestro carácter es una **Creación Consciente**. Este enfoque no es una mera filosofía; es una hoja de ruta intrincada y práctica para un viaje extraordinario de autodescubrimiento, refinamiento y transformación.

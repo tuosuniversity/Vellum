@@ -1,10 +1,21 @@
 ---
-title: Beyond the Mirror: How Consciousness Actively Shapes Your Reality
-categories: ["Perception", "Framework Principles", "Core Concepts"]
-tags: ["Quantum Mindfulness", "Consciousness", "Perception", "Reality Construction", "Observer Effect", "Psychodynamic Dimensions", "Mindfulness", "Cognitive Superposition"]
+title: Beyond the Mirror - How Consciousness Actively Shapes Your Reality
 post_excerpt: Explore the revolutionary Quantum Mindfulness framework, which posits that consciousness is not a passive observer but an active, creative force. Discover how your attention triggers "Psychodynamic Wave Collapse," transforming potential experiences into lived reality, and learn to become a conscious architect of your inner and outer worlds.
+taxonomy:
+    category:
+        - ["Perception"
+        - "Framework Principles"
+        - "Core Concepts"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Consciousness"
+        - "Perception"
+        - "Reality Construction"
+        - "Observer Effect"
+        - "Psychodynamic Dimensions"
+        - "Mindfulness"
+        - "Cognitive Superposition"]
 ---
-
 ### Beyond the Mirror: How Consciousness Actively Shapes Your Reality
 
 For centuries, our prevailing understanding of reality has been rooted in the notion of a distinct, objective world existing independently of our minds. According to this deeply ingrained "mechanical view" of perception, consciousness acts merely as a passive recipient, a mirror reflecting the external world as it is. We believed our minds simply captured an image of what was "out there." But what if this widely accepted paradigm, while seemingly intuitive, is fundamentally incomplete, or even profoundly misleading?

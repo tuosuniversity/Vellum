@@ -1,8 +1,23 @@
 ---
-title: The Quantum Mindfulness Framework: A High-Level Guide to Mastering Your Mind's Creative Power
-categories: ["Framework Principles", "Perception", "Practices"]
-tags: ["Quantum Mindfulness", "Consciousness", "Mindfulness", "Perception", "Self-Transformation", "Psychodynamic Dimensions", "Cognitive Superposition", "Observer-Participant Dynamic", "Personal Growth", "Active Mastery", "Intentional Collapse"]
+title: The Quantum Mindfulness Framework - A High-Level Guide to Mastering Your Mind's Creative Power
 post_excerpt: Discover the revolutionary Quantum Mindfulness framework, which posits that your mind actively shapes your reality. This guide explores how to prepare your consciousness for deep self-discovery and engage in active exploration to understand and master your internal processes, transforming you from a passive observer into a conscious co-creator of your experience.
+taxonomy:
+    category:
+        - ["Framework Principles"
+        - "Perception"
+        - "Practices"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Consciousness"
+        - "Mindfulness"
+        - "Perception"
+        - "Self-Transformation"
+        - "Psychodynamic Dimensions"
+        - "Cognitive Superposition"
+        - "Observer-Participant Dynamic"
+        - "Personal Growth"
+        - "Active Mastery"
+        - "Intentional Collapse"]
 ---
 ### The Quantum Mindfulness Framework: A High-Level Guide to Mastering Your Mind's Creative Power
 

@@ -1,22 +1,22 @@
 ---
-title: Beyond Perception: Cognitive Collapse and Humor in Reality Construction
-categories:
-  - Perception
-  - Core Concepts
-  - Emergent Properties
-tags:
-  - Quantum Mindfulness
-  - Cognitive Collapse
-  - Cognitive Superposition
-  - Humor
-  - Reality Construction
-  - Observer Effect
-  - Conscious Attention
-  - Personal Agency
+title: Beyond Perception - Cognitive Collapse and Humor in Reality Construction
 post_excerpt: >
-  This post delves into the profound insights offered by the seemingly simple act of understanding a joke. Drawing parallels with principles from quantum mechanics, we explore the concepts of "cognitive superposition" and "psychodynamic collapse," revealing how our minds actively participate in shaping the reality we experience. Discover how embracing your role as an active observer can empower you to intentionally co-create your daily reality, moving beyond passive reception to conscious mastery.
+This post delves into the profound insights offered by the seemingly simple act of understanding a joke. Drawing parallels with principles from quantum mechanics, we explore the concepts of "cognitive superposition" and "psychodynamic collapse," revealing how our minds actively participate in shaping the reality we experience. Discover how embracing your role as an active observer can empower you to intentionally co-create your daily reality, moving beyond passive reception to conscious mastery.
+taxonomy:
+    category:
+        - Perception
+        - Core Concepts
+        - Emergent Properties
+    post_tag:
+        - Quantum Mindfulness
+        - Cognitive Collapse
+        - Cognitive Superposition
+        - Humor
+        - Reality Construction
+        - Observer Effect
+        - Conscious Attention
+        - Personal Agency
 ---
-
 ### Beyond Perception: Cognitive Collapse and Humor in Reality Construction
 
 Have you ever paused to consider the true nature of the reality you experience? Is it a fixed, objective landscape external to you, or is it, at least in part, an active, dynamic construction of your very own mind? The phenomenon of humor, in its delightful essence, offers a fascinating and surprisingly accessible clue to this profound question, revealing mental dynamics that resonate deeply with some of the most advanced ideas about consciousness and perception, even those exploring the enigmatic realms of quantum physics. Welcome to the world of Quantum Mindfulness, where the act of "getting a joke" can illuminate the very fabric of your subjective reality.

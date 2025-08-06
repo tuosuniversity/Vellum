@@ -1,10 +1,23 @@
 ---
-title: The Quantum Mindfulness Framework: A High-Level Roadmap to Expanded Consciousness
-categories: ["Core Concepts", "Framework Principles", "Mindfulness Approaches"]
-tags: ["Quantum Mindfulness", "Consciousness Expansion", "Non-Local Cognition", "Psychodynamic Dimensions", "Perceptual Freedom", "Cognitive Superposition", "Observer-Participant Theory", "Contemplative Practices", "Mental States", "Self-Transformation"]
+title: The Quantum Mindfulness Framework - A High-Level Roadmap to Expanded Consciousness
 post_excerpt: Embark on a transformative journey into the Quantum Mindfulness framework, a revolutionary approach that redefines our understanding of consciousness. Discover how this model integrates ancient wisdom with modern insights, illuminating the non-local nature of awareness and empowering you to actively shape your experienced reality.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Framework Principles"
+        - "Mindfulness Approaches"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Consciousness Expansion"
+        - "Non-Local Cognition"
+        - "Psychodynamic Dimensions"
+        - "Perceptual Freedom"
+        - "Cognitive Superposition"
+        - "Observer-Participant Theory"
+        - "Contemplative Practices"
+        - "Mental States"
+        - "Self-Transformation"]
 ---
-
 ### The Quantum Mindfulness Framework: A High-Level Roadmap to Expanded Consciousness
 
 Are you ready to redefine what you thought possible about your mind and its capabilities? The Quantum Mindfulness framework offers a groundbreaking journey into the true nature of consciousness, moving beyond outdated, limiting models to unlock your hidden potential. This comprehensive approach provides a structured roadmap for understanding and experiencing awareness in ways you never imagined, guiding you toward a more active and empowered relationship with your inner world and external reality.

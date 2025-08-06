@@ -1,10 +1,22 @@
 ---
-title: Unlocking Your Inner Blueprint: The Ancient Roots of Psychodynamic Dimensions
-categories: ["Psychodynamic Dimensions", "Core Concepts", "Human Capacities"]
-tags: ["Quantum Mindfulness", "Psychodynamic Dimensions", "Consciousness", "Inner Landscape", "Self-Understanding", "Relational Health", "Mindfulness", "Psychology", "Human Experience"]
+title: Unlocking Your Inner Blueprint - The Ancient Roots of Psychodynamic Dimensions
 post_excerpt: "Explore the foundational concept of Psychodynamic Dimensions within the Quantum Mindfulness framework. This article delves into how these ten energetic categories, rooted in ancient wisdom, dynamically shape our thoughts, emotions, and relationships, offering a powerful blueprint for self-understanding and conscious relational health."
+taxonomy:
+    category:
+        - ["Psychodynamic Dimensions"
+        - "Core Concepts"
+        - "Human Capacities"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Psychodynamic Dimensions"
+        - "Consciousness"
+        - "Inner Landscape"
+        - "Self-Understanding"
+        - "Relational Health"
+        - "Mindfulness"
+        - "Psychology"
+        - "Human Experience"]
 ---
-
 ### Unlocking Your Inner Blueprint: The Ancient Roots of Psychodynamic Dimensions
 
 For millennia, philosophers, spiritual masters, and curious minds across cultures have wrestled with a profound question: What constitutes the very essence of human experience? What are the fundamental forces that shape our personalities, drive our actions, and define our intricate dance with the world? From the ancient Greek humors to the sophisticated energetic systems of Eastern traditions, humanity has perpetually strived to map and comprehend the invisible architecture of the self. The Quantum Mindfulness (QM) framework stands on the shoulders of this timeless quest, introducing a powerful and precise concept: **Psychodynamic Dimensions**.

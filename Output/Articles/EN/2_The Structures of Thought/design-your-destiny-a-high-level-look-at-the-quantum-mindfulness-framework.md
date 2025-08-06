@@ -1,21 +1,24 @@
 ---
-title: Design Your Destiny: A High-Level Look at the Quantum Mindfulness Framework
-categories: ["Core Concepts", "Perception", "Practices"]
-tags:
-  - Quantum Mindfulness
-  - Conscious Reality Construction
-  - Psychodynamic Dimensions
-  - Mind-Body Connection
-  - Self-Mastery
-  - Perceptual Freedom
-  - Cognitive Superposition
-  - Attention
+title: Design Your Destiny - A High-Level Look at the Quantum Mindfulness Framework
 post_excerpt: >
-  Discover the revolutionary Quantum Mindfulness framework, a system that redefines your relationship with reality.
-  This article explores how your consciousness actively shapes your lived experience, guiding you from passive reaction to empowered, intentional creation.
-  Uncover the deep psychological architecture that underpins your perception and learn how to become a skilled architect of your own reality.
+Discover the revolutionary Quantum Mindfulness framework, a system that redefines your relationship with reality.
+This article explores how your consciousness actively shapes your lived experience, guiding you from passive reaction to empowered, intentional creation.
+Uncover the deep psychological architecture that underpins your perception and learn how to become a skilled architect of your own reality.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Perception"
+        - "Practices"]
+    post_tag:
+        - Quantum Mindfulness
+        - Conscious Reality Construction
+        - Psychodynamic Dimensions
+        - Mind-Body Connection
+        - Self-Mastery
+        - Perceptual Freedom
+        - Cognitive Superposition
+        - Attention
 ---
-
 ### Design Your Destiny: A High-Level Look at the Quantum Mindfulness Framework
 
 Have you ever felt like life is happening *to* you, rather than *through* you? Do you find yourself reacting to circumstances, caught in patterns that feel beyond your control, while others seem to effortlessly navigate challenges and manifest their desires? The answer to this profound discrepancy might lie in understanding the intricate dance between your consciousness and the reality you inhabit. Welcome to **Quantum Mindfulness**, a revolutionary framework designed to empower you to consciously shape your lived experience and become the intentional architect of your destiny.

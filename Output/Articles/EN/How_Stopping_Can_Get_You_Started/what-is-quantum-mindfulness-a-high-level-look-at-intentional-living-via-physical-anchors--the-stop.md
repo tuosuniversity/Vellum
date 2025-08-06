@@ -1,10 +1,22 @@
 ---
-title: What is Quantum Mindfulness? A High-Level Look at Intentional Living via Physical Anchors & "The Stop"
-categories: ["Core Concepts", "Framework Principles"]
-tags: ["Quantum Mindfulness", "Psychodynamic Dimensions", "Conscious Attention", "Reality Construction", "Self-Mastery", "Cognitive Agency", "Emotional Regulation", "Mindful Living", "Intentional Living", "Mental Models"]
+title: "What is Quantum Mindfulness? A High-Level Look at Intentional Living via Physical Anchors & "The Stop""
 post_excerpt: Explore the Quantum Mindfulness framework, a revolutionary approach to personal development that empowers individuals to consciously shape their reality. Learn about key concepts like "Psychodynamic Wave Collapse," the transformative power of "The Stop," and the grounding influence of "Physical Anchors" in shifting from reactive patterns to deliberate, intentional creation.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Framework Principles"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Psychodynamic Dimensions"
+        - "Conscious Attention"
+        - "Reality Construction"
+        - "Self-Mastery"
+        - "Cognitive Agency"
+        - "Emotional Regulation"
+        - "Mindful Living"
+        - "Intentional Living"
+        - "Mental Models"]
 ---
-
 ### What is Quantum Mindfulness? A High-Level Look at Intentional Living via Physical Anchors & "The Stop"
 
 Are you seeking a framework that empowers you to navigate life's complexities with greater clarity, purpose, and intentionality? The Quantum Mindfulness framework offers a groundbreaking approach to personal development, blending profound insights into consciousness with practical wisdom to help you reclaim agency over your inner and outer worlds. At its core, this framework is about shifting from a life governed by reactive patterns to one of deliberate, conscious creation. It introduces powerful tools like "The Stop" and "Physical Anchors" to make this transformation possible, rooted in a sophisticated understanding of how our minds construct reality.

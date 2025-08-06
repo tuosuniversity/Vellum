@@ -1,19 +1,20 @@
 ---
 title: Unlocking Inner Peace A Quantum Approach to Shaping Your Mental Reality
-categories:
-  - Core Concepts
-  - Mindfulness Approaches
-  - Perception
-tags:
-  - Quantum Mindfulness
-  - Psychodynamic Wave Collapse
-  - Cognitive Superposition
-  - Conscious Observation
-  - Mental Reality
-  - Perceptual Freedom
-  - Mindfulness Practice
 post_excerpt: >
-  This article explores how the act of observation fundamentally shapes our inner reality, drawing a powerful analogy from quantum physics. It introduces Quantum Mindfulness as a framework for engaging with thoughts and emotions as fluid potentials rather than fixed problems. By cultivating skillful, non-judgmental observation, individuals can prevent the "collapse" of mental states into rigid, undesirable experiences, fostering greater inner peace and perceptual freedom.
+This article explores how the act of observation fundamentally shapes our inner reality, drawing a powerful analogy from quantum physics. It introduces Quantum Mindfulness as a framework for engaging with thoughts and emotions as fluid potentials rather than fixed problems. By cultivating skillful, non-judgmental observation, individuals can prevent the "collapse" of mental states into rigid, undesirable experiences, fostering greater inner peace and perceptual freedom.
+taxonomy:
+    category:
+        - Core Concepts
+        - Mindfulness Approaches
+        - Perception
+    post_tag:
+        - Quantum Mindfulness
+        - Psychodynamic Wave Collapse
+        - Cognitive Superposition
+        - Conscious Observation
+        - Mental Reality
+        - Perceptual Freedom
+        - Mindfulness Practice
 ---
 ### Unlocking Inner Peace: A Quantum Approach to Shaping Your Mental Reality
 

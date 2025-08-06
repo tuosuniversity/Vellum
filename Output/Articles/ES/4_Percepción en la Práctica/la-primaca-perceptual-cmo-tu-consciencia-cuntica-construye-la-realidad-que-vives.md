@@ -1,10 +1,20 @@
 ---
-title: "La Primacía Perceptual: ¿Cómo Tu Consciencia Cuántica Construye la Realidad que Vives?"
-categories: ["Perception", "Core Concepts", "Framework Principles"]
-tags: ["Perceptual Primacy", "Quantum Mindfulness", "Reality Construction", "Cognitive Superposition", "Psychodynamic Dimensions", "Observer-Participant Dynamic", "Conscious Agency"]
+title: "La Primacía Perceptual - ¿Cómo Tu Consciencia Cuántica Construye la Realidad que Vives?"
 post_excerpt: "Discover how Quantum Mindfulness redefines perception, moving beyond passive reception to an active, generative process. This article explores Perceptual Primacy, revealing how your consciousness actively shapes the reality you experience, leveraging concepts like Cognitive Superposition and the Observer-Participant Dynamic for profound personal transformation."
+taxonomy:
+    category:
+        - ["Perception"
+        - "Core Concepts"
+        - "Framework Principles"]
+    post_tag:
+        - ["Perceptual Primacy"
+        - "Quantum Mindfulness"
+        - "Reality Construction"
+        - "Cognitive Superposition"
+        - "Psychodynamic Dimensions"
+        - "Observer-Participant Dynamic"
+        - "Conscious Agency"]
 ---
-
 ### La Primacía Perceptual: ¿Cómo Tu Consciencia Cuántica Construye la Realidad que Vives?
 
 ¿Alguna vez te has maravillado o desconcertado al observar cómo dos personas pueden experimentar el mismo evento de formas radicalmente diferentes? ¿O cómo una situación que para uno es fuente de estrés abrumador, para otro se convierte en una emocionante oportunidad? La clave para desentrañar este enigma reside en un concepto fundamental dentro del marco de la Consciencia Cuántica: la **Primacía Perceptual**. Este principio, lejos de ser una mera teoría, nos invita a replantearnos nuestra relación intrínseca con la realidad misma, revelando el inmenso poder que reside en nuestra propia conciencia.

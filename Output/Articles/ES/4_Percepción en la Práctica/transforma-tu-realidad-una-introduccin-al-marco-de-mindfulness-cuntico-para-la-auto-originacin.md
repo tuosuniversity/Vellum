@@ -1,24 +1,24 @@
 ---
 title: Transforma Tu Realidad Una Introducción al Marco de Mindfulness Cuántico para la Auto-Originación
-categories:
-  - Framework Principles
-  - Therapeutic Strategies
-  - Practices
-tags:
-  - Quantum Mindfulness
-  - Self-Origination
-  - Inherited Scripts
-  - Perceptual Agility
-  - Cognitive Freedom
-  - Sovereign Architecture
-  - Psychodynamic Dimensions
-  - Conscious Observation
-  - Personal Transformation
-  - Volitional Control
 post_excerpt: >
-  This post explores the Quantum Mindfulness framework as a powerful guide for self-origination. It details a three-phase journey to identify and transcend inherited patterns, cultivate conscious choice, and build an authentic "sovereign architecture" of the self. Discover how this framework empowers you to reclaim your true potential and live from your deepest truth.
+This post explores the Quantum Mindfulness framework as a powerful guide for self-origination. It details a three-phase journey to identify and transcend inherited patterns, cultivate conscious choice, and build an authentic "sovereign architecture" of the self. Discover how this framework empowers you to reclaim your true potential and live from your deepest truth.
+taxonomy:
+    category:
+        - Framework Principles
+        - Therapeutic Strategies
+        - Practices
+    post_tag:
+        - Quantum Mindfulness
+        - Self-Origination
+        - Inherited Scripts
+        - Perceptual Agility
+        - Cognitive Freedom
+        - Sovereign Architecture
+        - Psychodynamic Dimensions
+        - Conscious Observation
+        - Personal Transformation
+        - Volitional Control
 ---
-
 ### Transforma Tu Realidad: Una Introducción al Marco de Mindfulness Cuántico para la Auto-Originación
 
 Have you ever felt as though you're merely playing a role in someone else's play, or that your automatic reactions continually sabotage your deepest aspirations? These unsettling sensations are crucial indicators that you might be operating under the profound influence of **Inherited Scripts**. These aren't just bad habits; they are pervasive patterns of thought, emotion, and behavior—a veritable `Learned Behavioral Repertoire`—that you absorbed from `External Influence` like family, culture, and educational systems, rather than originating from your authentic self. Such conditioning can lead to a fundamental `Ontological Misalignment`, where your external life feels out of sync with your internal truth, preventing you from accessing your `Natural Development`.

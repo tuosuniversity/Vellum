@@ -1,10 +1,20 @@
 ---
-title: Más Allá de lo que Ves: Cómo Tu Mente Moldea la Realidad y la Consciencia Cuántica
-categories: ["Perception", "Core Concepts", "Framework Principles"]
-tags: ["quantum mindfulness", "reality construction", "cognitive filtering", "psychodynamic dimensions", "conscious attention", "active mastery", "observer-participant"]
+title: Más Allá de lo que Ves - Cómo Tu Mente Moldea la Realidad y la Consciencia Cuántica
 post_excerpt: "Explore the revolutionary Quantum Mindfulness framework, which posits that your mind actively constructs, rather than passively observes, reality. Discover how cognitive filters and intentional attention shape your experienced world, empowering you to become an active architect of your consciousness. This post delves into the profound implications of an observer-participant role in shaping your reality."
+taxonomy:
+    category:
+        - ["Perception"
+        - "Core Concepts"
+        - "Framework Principles"]
+    post_tag:
+        - ["quantum mindfulness"
+        - "reality construction"
+        - "cognitive filtering"
+        - "psychodynamic dimensions"
+        - "conscious attention"
+        - "active mastery"
+        - "observer-participant"]
 ---
-
 ### Más Allá de lo que Ves: Cómo Tu Mente Moldea la Realidad y la Consciencia Cuántica
 
 Have you ever paused to consider that what you perceive as "reality" isn't merely an external given, but rather something your very own mind actively constructs? This might sound like a premise from science fiction, yet the converging insights of modern neuroscience and the philosophy of mind are unveiling a revolutionary truth: within the Quantum Mindfulness framework, we are not passive observers of the world, but rather active architects of our individual experiences.

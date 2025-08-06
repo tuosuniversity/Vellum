@@ -1,10 +1,22 @@
 ---
 title: "Naces o Te Haces? La Fascinante Historia Detrás de Tus Creencias Más Profundas y Guiones de Vida"
-categories: ["Core Concepts", "Challenges and Limitations", "Psychodynamic Dimensions"]
-tags: ["Inherited Script", "Perception", "Cognitive Bias", "Neuroplasticity", "Social Learning Theory", "Conscious Awareness", "Psychodynamic Wave Collapse", "Ontological Misalignment", "Perceptual Freedom"]
 post_excerpt: "Explore the profound origins of 'Inherited Scripts' within the Quantum Mindfulness framework, tracing their roots through centuries of philosophical and psychological thought. This article unveils how external influences shape our deepest beliefs and 'False Native Architecture,' impacting our experienced reality. Understanding these mechanisms is the vital first step toward reclaiming your authentic self and achieving true perceptual freedom."
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Challenges and Limitations"
+        - "Psychodynamic Dimensions"]
+    post_tag:
+        - ["Inherited Script"
+        - "Perception"
+        - "Cognitive Bias"
+        - "Neuroplasticity"
+        - "Social Learning Theory"
+        - "Conscious Awareness"
+        - "Psychodynamic Wave Collapse"
+        - "Ontological Misalignment"
+        - "Perceptual Freedom"]
 ---
-
 ### Naces o Te Haces? La Fascinante Historia Detrás de Tus Creencias Más Profundas y Guiones de Vida
 
 For centuries, humanity has grappled with one of the most fundamental questions of existence: are we born or are we made? How much of who we are is innate, and how much is meticulously sculpted by the world around us? This ancient philosophical inquiry, central to understanding consciousness itself, resonates profoundly within the Quantum Mindfulness framework, especially through the concept of **Inherited Scripts**. What we refer to as Inherited Scripts today has deep historical and philosophical roots, tracing back through centuries of thought on human conditioning, identity formation, and the very construction of reality.

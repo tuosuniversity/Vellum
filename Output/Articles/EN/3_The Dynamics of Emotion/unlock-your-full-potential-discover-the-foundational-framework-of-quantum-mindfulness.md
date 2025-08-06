@@ -1,10 +1,20 @@
 ---
-title: Unlock Your Full Potential: Discover the Foundational Framework of Quantum Mindfulness
-categories: ["Prime Modality", "Psychodynamic Dimensions", "Core Concepts"]
-tags: ["Quantum Mindfulness", "Psychodynamic Dimensions", "Prime Modality", "Consciousness Architecture", "Cognitive Sovereignty", "Perceptual Freedom", "Self-Mastery"]
+title: Unlock Your Full Potential - Discover the Foundational Framework of Quantum Mindfulness
 post_excerpt: "Explore the revolutionary Quantum Mindfulness framework, offering a profound roadmap to master your internal world. This post delves into the Prime Modality, the foundational cognitive architecture comprising the Psycho-Volitional, Psycho-Conceptive, and Psycho-Meditative Dimensions. Discover how understanding these core principles can lead to true cognitive sovereignty and unlock your full potential."
+taxonomy:
+    category:
+        - ["Prime Modality"
+        - "Psychodynamic Dimensions"
+        - "Core Concepts"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Psychodynamic Dimensions"
+        - "Prime Modality"
+        - "Consciousness Architecture"
+        - "Cognitive Sovereignty"
+        - "Perceptual Freedom"
+        - "Self-Mastery"]
 ---
-
 ### Unlock Your Full Potential: Discover the Foundational Framework of Quantum Mindfulness
 
 Are you seeking a deeper understanding of your own mind, a way to move beyond reactive patterns and truly master your internal world? Quantum Mindfulness offers a revolutionary framework to achieve just that. Far from being a mere collection of techniques, it provides a comprehensive map of consciousness, starting with its very foundation: the **Prime Modality**.

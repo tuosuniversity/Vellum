@@ -1,22 +1,22 @@
 ---
-title: Your Mind, Re-Engineered: An Overview of the Quantum Mindfulness Framework
-categories:
-  - Core Concepts
-  - Advanced Practices
-  - Mindfulness Approaches
-tags:
-  - Quantum Mindfulness
-  - Cognitive Science
-  - Mental Flexibility
-  - Personal Agency
-  - Consciousness
-  - Psychodynamic Dimensions
-  - Reality Construction
-  - Intentionality
-  - Self-Improvement
+title: Your Mind, Re-Engineered - An Overview of the Quantum Mindfulness Framework
 post_excerpt: The Quantum Mindfulness framework offers a revolutionary perspective on how our minds function, moving beyond passive observation to active engagement. It introduces concepts like cognitive superposition and psychodynamic collapse, empowering individuals to consciously shape their internal and external realities through advanced attentional and perceptual skills.
+taxonomy:
+    category:
+        - Core Concepts
+        - Advanced Practices
+        - Mindfulness Approaches
+    post_tag:
+        - Quantum Mindfulness
+        - Cognitive Science
+        - Mental Flexibility
+        - Personal Agency
+        - Consciousness
+        - Psychodynamic Dimensions
+        - Reality Construction
+        - Intentionality
+        - Self-Improvement
 ---
-
 ### Your Mind, Re-Engineered: An Overview of the Quantum Mindfulness Framework
 
 Have you ever wondered if there's a deeper science to how your mind works, a hidden mechanism that governs your thoughts, emotions, and choices? The Quantum Mindfulness (QM) framework offers a groundbreaking new lens through which to understand and actively engage with your inner world. It's not just another self-help trend; it's a sophisticated model rooted in the principles of cognitive science, designed to unlock unprecedented levels of mental flexibility and personal agency. By exploring the very architecture of consciousness, QM provides a powerful toolkit for intentional living.

@@ -1,8 +1,21 @@
 ---
-title: Unlock Your Inner Architect: A Glimpse into the Quantum Mindfulness Framework’s Structure
-categories: ["Therapeutic Strategies", "Framework Principles", "Practices"]
-tags: ["Quantum Mindfulness", "Internal Blueprint Introspection", "Core Self", "Psychodynamic Dimensions", "Conscious Observation", "Self-mastery", "Personal Transformation", "Mindfulness Practices", "Cognitive Agency"]
+title: Unlock Your Inner Architect - A Glimpse into the Quantum Mindfulness Framework’s Structure
 post_excerpt: Discover the Quantum Mindfulness framework's Internal Blueprint Introspection, a revolutionary approach to understanding and transforming your inner world. This post outlines its three crucial phases, guiding you from foundational calm to deep self-inquiry and lasting integration, empowering you to rewrite limiting patterns and connect with your authentic Core Self.
+taxonomy:
+    category:
+        - ["Therapeutic Strategies"
+        - "Framework Principles"
+        - "Practices"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Internal Blueprint Introspection"
+        - "Core Self"
+        - "Psychodynamic Dimensions"
+        - "Conscious Observation"
+        - "Self-mastery"
+        - "Personal Transformation"
+        - "Mindfulness Practices"
+        - "Cognitive Agency"]
 ---
 ### Unlock Your Inner Architect: A Glimpse into the Quantum Mindfulness Framework’s Structure
 

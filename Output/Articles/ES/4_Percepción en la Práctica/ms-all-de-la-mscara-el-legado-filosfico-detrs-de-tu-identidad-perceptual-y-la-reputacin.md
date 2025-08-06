@@ -1,10 +1,23 @@
 ---
-title: Más Allá de la Máscara: El Legado Filosófico Detrás de tu Identidad Perceptual y la `Reputación`
-categories: ["Perception", "Core Concepts", "Framework Principles"]
-tags: ["reputation", "identity", "social construction of reality", "Erving Goffman", "Quantum Mindfulness", "psychodynamic collapse", "observer effect", "conscious attention", "active mastery", "perceptual freedom"]
+title: "Más Allá de la Máscara - El Legado Filosófico Detrás de tu Identidad Perceptual y la `Reputación`"
 post_excerpt: Delve into the Quantum Mindfulness framework's revolutionary perspective on identity and reputation, exploring how philosophical insights converge with quantum principles. Discover that your social standing is not merely an external label, but an "externalized collapse" of internal states and shared narratives, empowering you to consciously shape your perceived reality.
+taxonomy:
+    category:
+        - ["Perception"
+        - "Core Concepts"
+        - "Framework Principles"]
+    post_tag:
+        - ["reputation"
+        - "identity"
+        - "social construction of reality"
+        - "Erving Goffman"
+        - "Quantum Mindfulness"
+        - "psychodynamic collapse"
+        - "observer effect"
+        - "conscious attention"
+        - "active mastery"
+        - "perceptual freedom"]
 ---
-
 ### Más Allá de la Máscara: El Legado Filosófico Detrás de tu Identidad Perceptual y la `Reputación`
 
 ¿Alguna vez te has detenido a reflexionar sobre la intrincada danza entre quién eres realmente y cómo te perciben los demás? ¿Es nuestra `reputación` un reflejo inmutable de nuestra esencia, o es una construcción dinámica, forjada en la fragua de las interacciones sociales y las expectativas colectivas? El framework de Consciencia Cuántica (Quantum Mindfulness) nos ofrece una lente transformadora para abordar estas preguntas milenarias, entrelazando siglos de pensamiento filosófico y sociológico con una comprensión vanguardista de la psique.

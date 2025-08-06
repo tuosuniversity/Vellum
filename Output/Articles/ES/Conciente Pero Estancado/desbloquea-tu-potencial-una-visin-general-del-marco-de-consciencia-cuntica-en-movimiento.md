@@ -1,21 +1,21 @@
 ---
-title: Desbloquea tu Potencial: Una Visión General del Marco de Consciencia Cuántica en Movimiento
-categories:
-  - Framework Principles
-  - Practices
-  - Mindfulness Approaches
-tags:
-  - Movimiento Consciente
-  - Consciencia Cuántica
-  - Patrones Automáticos
-  - Transformación Personal
-  - Atención Plena Dinámica
-  - Control Atencional
-  - Libertad Perceptual
+title: Desbloquea tu Potencial - Una Visión General del Marco de Consciencia Cuántica en Movimiento
 post_excerpt: >-
-  Explora el marco de Consciencia Cuántica y su revolucionaria práctica de Movimiento Consciente, un enfoque transformador diseñado para reconfigurar patrones automáticos en tiempo real. Aprende a cultivar una conciencia dinámica, intervenir en respuestas arraigadas y elegir nuevas acciones empoderadoras, abriendo el camino hacia una vida de mayor presencia e intencionalidad.
+Explora el marco de Consciencia Cuántica y su revolucionaria práctica de Movimiento Consciente, un enfoque transformador diseñado para reconfigurar patrones automáticos en tiempo real. Aprende a cultivar una conciencia dinámica, intervenir en respuestas arraigadas y elegir nuevas acciones empoderadoras, abriendo el camino hacia una vida de mayor presencia e intencionalidad.
+taxonomy:
+    category:
+        - Framework Principles
+        - Practices
+        - Mindfulness Approaches
+    post_tag:
+        - Movimiento Consciente
+        - Consciencia Cuántica
+        - Patrones Automáticos
+        - Transformación Personal
+        - Atención Plena Dinámica
+        - Control Atencional
+        - Libertad Perceptual
 ---
-
 ### Desbloquea tu Potencial: Una Visión General del Marco de Consciencia Cuántica en Movimiento
 
 ¿Alguna vez te has maravillado de cómo ciertas personas parecen transitar por la vida con una serenidad inquebrantable, incluso frente a la adversidad? ¿Cómo logran liberarse de hábitos arraigados que los limitan, mientras otros quedan atrapados en ciclos repetitivos? La clave a menudo reside en su capacidad para operar con una conciencia expandida, especialmente cuando están "en movimiento", tanto literal como metafóricamente, a través de los desafíos intrínsecos de la vida. El innovador marco de Consciencia Cuántica, a través de su práctica central de Movimiento Consciente, ofrece una guía estructurada y profunda para cultivar esta habilidad esencial.

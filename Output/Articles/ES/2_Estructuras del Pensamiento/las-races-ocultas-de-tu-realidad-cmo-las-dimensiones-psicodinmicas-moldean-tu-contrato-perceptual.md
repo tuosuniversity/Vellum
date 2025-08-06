@@ -1,10 +1,22 @@
 ---
-title: Las Raíces Ocultas de Tu Realidad: Cómo las Dimensiones Psicodinámicas Moldean Tu Contrato Perceptual
-categories: ["Psychodynamic Dimensions", "Perception", "Core Concepts"]
-tags: ["Psychodynamic Dimensions", "Perceptual Contract", "Consciousness", "Mindfulness", "Self-awareness", "Reality Construction", "Emotional Regulation", "Inner Work", "Quantum Mindfulness"]
+title: Las Raíces Ocultas de Tu Realidad - Cómo las Dimensiones Psicodinámicas Moldean Tu Contrato Perceptual
 post_excerpt: ¿Te has preguntado por qué reaccionas a la vida de formas tan predecibles, a menudo inconscientes? Este artículo explora las Dimensiones Psicodinámicas del framework de Quantum Mindfulness, revelando cómo estas fuerzas internas fundamentales construyen tu "Contrato Perceptual" y moldean cada aspecto de tu experiencia, desde tus emociones hasta tus acciones. Descubre cómo pasar de una respuesta automática a una participación consciente en la co-creación de tu realidad.
+taxonomy:
+    category:
+        - ["Psychodynamic Dimensions"
+        - "Perception"
+        - "Core Concepts"]
+    post_tag:
+        - ["Psychodynamic Dimensions"
+        - "Perceptual Contract"
+        - "Consciousness"
+        - "Mindfulness"
+        - "Self-awareness"
+        - "Reality Construction"
+        - "Emotional Regulation"
+        - "Inner Work"
+        - "Quantum Mindfulness"]
 ---
-
 ### Las Raíces Ocultas de Tu Realidad: Cómo las Dimensiones Psicodinámicas Moldean Tu Contrato Perceptual
 
 ¿Alguna vez te has detenido a reflexionar por qué ciertas situaciones desencadenan en ti reacciones emocionales y cognitivas tan predecibles, casi automáticas, mientras que otras personas, ante el mismo estímulo, reaccionan de manera completamente diferente? La respuesta a esta profunda disparidad no reside solo en nuestras experiencias o aprendizajes superficiales, sino en las intrincadas estructuras internas que configuran lo que en Quantum Mindfulness llamamos tu "**Contrato Perceptual**". Este contrato, invisible pero omnipresente, es un acuerdo tácito entre tu psique y la realidad, dictado por las **Dimensiones Psicodinámicas**: las categorías psico-emotivas fundamentales que actúan como los cimientos mismos de tu conciencia y personalidad, influyendo en cada interpretación que haces del mundo.

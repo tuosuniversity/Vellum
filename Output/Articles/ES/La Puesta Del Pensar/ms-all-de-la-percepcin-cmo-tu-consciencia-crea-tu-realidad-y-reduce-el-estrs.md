@@ -1,8 +1,20 @@
 ---
-title: Más Allá de la Percepción: Cómo tu Consciencia Crea tu Realidad y Reduce el Estrés
-categories: ["Perception", "Mindfulness Approaches", "Core Concepts"]
-tags: ["Quantum Mindfulness", "Perception", "Stress Reduction", "Cognitive Appraisal", "Psychodynamic Dimensions", "Conscious Attention", "Reality Creation", "Active Mastery"]
+title: Más Allá de la Percepción - Cómo tu Consciencia Crea tu Realidad y Reduce el Estrés
 post_excerpt: In a world often perceived as overwhelming, Quantum Mindfulness offers a revolutionary perspective: stress isn't inherent to external situations, but rather a product of our internal interpretation. This post explores how our consciousness actively shapes our reality, providing a framework to transform perceived threats into opportunities and cultivate profound well-being through active engagement with our inner experience.
+taxonomy:
+    category:
+        - ["Perception"
+        - "Mindfulness Approaches"
+        - "Core Concepts"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Perception"
+        - "Stress Reduction"
+        - "Cognitive Appraisal"
+        - "Psychodynamic Dimensions"
+        - "Conscious Attention"
+        - "Reality Creation"
+        - "Active Mastery"]
 ---
 ### Más Allá de la Percepción: Cómo tu Consciencia Crea tu Realidad y Reduce el Estrés
 

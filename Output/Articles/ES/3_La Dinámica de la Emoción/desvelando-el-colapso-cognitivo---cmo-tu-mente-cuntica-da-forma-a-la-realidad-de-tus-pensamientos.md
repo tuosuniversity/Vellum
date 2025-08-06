@@ -1,10 +1,20 @@
 ---
 title: Desvelando el Colapso Cognitivo - Cómo tu Mente Cuántica Da Forma a la Realidad de tus Pensamientos
-categories: ["Core Concepts", "Prime Modality", "Perception"]
-tags: ["Quantum Mindfulness", "Cognitive Collapse", "Psychodynamic Dimensions", "Conscious Perception", "Prime Modality", "Mindfulness Practice", "Self-Mastery"]
 post_excerpt: "Explore the revolutionary concept of Cognitive Collapse within the Quantum Mindfulness framework, revealing how your conscious attention actively shapes thoughts and perceptions from a field of infinite possibilities. Discover the pivotal role of the Prime Modality in transforming vague potentials into clear reality, empowering you to cultivate greater mental agency and self-mastery."
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Prime Modality"
+        - "Perception"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Cognitive Collapse"
+        - "Psychodynamic Dimensions"
+        - "Conscious Perception"
+        - "Prime Modality"
+        - "Mindfulness Practice"
+        - "Self-Mastery"]
 ---
-
 ### Desvelando el Colapso Cognitivo - Cómo tu Mente Cuántica Da Forma a la Realidad de tus Pensamientos
 
 Have you ever paused to consider the mysterious alchemy by which an ephemeral, ill-defined thought suddenly crystallizes into a sharp, undeniable idea in your mind? Or how a faint, almost imperceptible emotional stir transforms into a full-blown, vivid feeling? The Quantum Mindfulness framework offers a groundbreaking perspective on these everyday occurrences through the profound concept of **Cognitive Collapse**, a central tenet for understanding how your thoughts, perceptions, and emotions materialize within your conscious awareness.

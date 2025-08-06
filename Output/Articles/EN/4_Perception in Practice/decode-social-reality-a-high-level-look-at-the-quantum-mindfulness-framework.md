@@ -1,22 +1,23 @@
 ---
-title: Decode Social Reality: A High-Level Look at the Quantum Mindfulness Framework
-categories:
-  - Perception
-  - Framework Principles
-  - Therapeutic Strategies
-tags:
-  - Quantum Mindfulness
-  - Social Reality
-  - Perception
-  - Cognitive Superposition
-  - Psychodynamic Collapse
-  - Reputation
-  - Social Dynamics
-  - Authenticity
-  - Personal Growth
-  - Mindfulness Practices
+title: Decode Social Reality - A High-Level Look at the Quantum Mindfulness Framework
 post_excerpt: >
-  Explore the Quantum Mindfulness framework's groundbreaking approach to understanding how we perceive and co-create social reality. Discover the active nature of perception, the dynamics of cognitive superposition, and how your internal states shape external reputation, offering powerful tools for personal authenticity and enhanced social navigation.
+Explore the Quantum Mindfulness framework's groundbreaking approach to understanding how we perceive and co-create social reality. Discover the active nature of perception, the dynamics of cognitive superposition, and how your internal states shape external reputation, offering powerful tools for personal authenticity and enhanced social navigation.
+taxonomy:
+    category:
+        - Perception
+        - Framework Principles
+        - Therapeutic Strategies
+    post_tag:
+        - Quantum Mindfulness
+        - Social Reality
+        - Perception
+        - Cognitive Superposition
+        - Psychodynamic Collapse
+        - Reputation
+        - Social Dynamics
+        - Authenticity
+        - Personal Growth
+        - Mindfulness Practices
 ---
 ### Decode Social Reality: A High-Level Look at the Quantum Mindfulness Framework
 

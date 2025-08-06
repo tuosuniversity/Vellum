@@ -1,8 +1,20 @@
 ---
-title: The Mental Wave Function: How Quantum Science Reveals the Power of Your Consciousness for Change
-categories: ["Core Concepts", "Perception", "Mindfulness Approaches"]
-tags: ["Mental Wave Function", "Cognitive Superposition", "Psychodynamic Wave Collapse", "Conscious Attention", "Perceptual Freedom", "Active Mastery", "Quantum Mindfulness", "Psycho-Volitional Dimension"]
+title: The Mental Wave Function - How Quantum Science Reveals the Power of Your Consciousness for Change
 post_excerpt: "Discover the revolutionary Quantum Mindfulness framework, which posits that our mental states exist as 'mental wave functions' – fields of infinite possibilities. This article delves into how conscious attention 'collapses' these potentials into experienced reality, empowering you to become an active architect of profound and lasting inner change."
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Perception"
+        - "Mindfulness Approaches"]
+    post_tag:
+        - ["Mental Wave Function"
+        - "Cognitive Superposition"
+        - "Psychodynamic Wave Collapse"
+        - "Conscious Attention"
+        - "Perceptual Freedom"
+        - "Active Mastery"
+        - "Quantum Mindfulness"
+        - "Psycho-Volitional Dimension"]
 ---
 ### The Mental Wave Function: How Quantum Science Reveals the Power of Your Consciousness for Change
 

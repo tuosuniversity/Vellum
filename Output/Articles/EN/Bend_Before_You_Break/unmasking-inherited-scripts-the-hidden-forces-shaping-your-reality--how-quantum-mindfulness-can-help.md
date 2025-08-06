@@ -1,8 +1,20 @@
 ---
-title: Unmasking "Inherited Scripts": The Hidden Forces Shaping Your Reality & How Quantum Mindfulness Can Help
-categories: ["Core Concepts", "Mindfulness Approaches", "Therapeutic Strategies"]
-tags: ["Inherited Scripts", "Quantum Mindfulness", "Self-discovery", "Perception", "Conscious Awareness", "Psychodynamic Dimensions", "Personal Growth", "Reality Construction"]
+title: "Unmasking "Inherited Scripts" - The Hidden Forces Shaping Your Reality & How Quantum Mindfulness Can Help"
 post_excerpt: Have you ever felt that your life isn't entirely your own? This feeling of existential dissonance often signals the presence of "Inherited Scripts"—unseen forces of conditioning that shape our reality. The Quantum Mindfulness framework offers a powerful approach to identify, understand, and ultimately liberate ourselves from these scripts, moving from passive observation to active mastery of our inner world and lived experience.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Mindfulness Approaches"
+        - "Therapeutic Strategies"]
+    post_tag:
+        - ["Inherited Scripts"
+        - "Quantum Mindfulness"
+        - "Self-discovery"
+        - "Perception"
+        - "Conscious Awareness"
+        - "Psychodynamic Dimensions"
+        - "Personal Growth"
+        - "Reality Construction"]
 ---
 ### Unmasking "Inherited Scripts": The Hidden Forces Shaping Your Reality & How Quantum Mindfulness Can Help
 

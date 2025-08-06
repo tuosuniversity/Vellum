@@ -1,21 +1,22 @@
 ---
-title: Beyond Introspection: The Ancient Roots of Mapping Your Inner World
-categories:
-  - Core Concepts
-  - Framework Principles
-  - Perception
-tags:
-  - Quantum Mindfulness
-  - Inner Blueprint
-  - Self-Knowledge
-  - Psychodynamic Dimensions
-  - Consciousness
-  - Personal Transformation
-  - Cognitive Architecture
-  - Active Mastery
-  - Perception
+title: Beyond Introspection - The Ancient Roots of Mapping Your Inner World
 post_excerpt: >
-  For millennia, humanity has sought self-knowledge through introspection. The Quantum Mindfulness framework evolves this ancient quest, moving beyond passive observation to active, systematic mapping of the inner world. By understanding the intricate "why" and "how" of our mental states, QM provides a unifying architecture to transform abstract wisdom into concrete tools for personal transformation and conscious reality construction.
+For millennia, humanity has sought self-knowledge through introspection. The Quantum Mindfulness framework evolves this ancient quest, moving beyond passive observation to active, systematic mapping of the inner world. By understanding the intricate "why" and "how" of our mental states, QM provides a unifying architecture to transform abstract wisdom into concrete tools for personal transformation and conscious reality construction.
+taxonomy:
+    category:
+        - Core Concepts
+        - Framework Principles
+        - Perception
+    post_tag:
+        - Quantum Mindfulness
+        - Inner Blueprint
+        - Self-Knowledge
+        - Psychodynamic Dimensions
+        - Consciousness
+        - Personal Transformation
+        - Cognitive Architecture
+        - Active Mastery
+        - Perception
 ---
 ### Beyond Introspection: The Ancient Roots of Mapping Your Inner World
 

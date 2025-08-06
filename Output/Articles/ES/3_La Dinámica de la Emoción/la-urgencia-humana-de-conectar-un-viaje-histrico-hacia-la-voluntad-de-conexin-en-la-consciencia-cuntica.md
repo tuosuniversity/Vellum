@@ -1,26 +1,26 @@
 ---
-title: La Urgencia Humana de Conectar: Un Viaje Histórico hacia la 'Voluntad de Conexión' en la Consciencia Cuántica
-categories:
-  - Core Concepts
-  - Psychodynamic Dimensions
-  - Human Capacities
-tags:
-  - will to connection
-  - psycho-empathic dimension
-  - attachment theory
-  - emotional intelligence
-  - quantum mindfulness
-  - psychodynamic wave collapse
-  - relational health
-  - Pd4
-  - Pd1
-  - bounded compassion
-  - inherited scripts
-  - intersubjective resonance
+title: La Urgencia Humana de Conectar - Un Viaje Histórico hacia la 'Voluntad de Conexión' en la Consciencia Cuántica
 post_excerpt: >
-  Explore the profound human drive for connection, known in Quantum Mindfulness as the "Will to Connection," and its historical and philosophical roots. This article delves into how this intrinsic need, embodied by the Psycho-Empathic Dimension (Pd4), shapes our well-being and how the Quantum Mindfulness framework empowers us to consciously cultivate authentic relational harmony. Discover the interplay of psychodynamic dimensions in fostering healthy connections and overcoming limiting patterns.
+Explore the profound human drive for connection, known in Quantum Mindfulness as the "Will to Connection," and its historical and philosophical roots. This article delves into how this intrinsic need, embodied by the Psycho-Empathic Dimension (Pd4), shapes our well-being and how the Quantum Mindfulness framework empowers us to consciously cultivate authentic relational harmony. Discover the interplay of psychodynamic dimensions in fostering healthy connections and overcoming limiting patterns.
+taxonomy:
+    category:
+        - Core Concepts
+        - Psychodynamic Dimensions
+        - Human Capacities
+    post_tag:
+        - will to connection
+        - psycho-empathic dimension
+        - attachment theory
+        - emotional intelligence
+        - quantum mindfulness
+        - psychodynamic wave collapse
+        - relational health
+        - Pd4
+        - Pd1
+        - bounded compassion
+        - inherited scripts
+        - intersubjective resonance
 ---
-
 ### La Urgencia Humana de Conectar: Un Viaje Histórico hacia la 'Voluntad de Conexión' en la Consciencia Cuántica
 
 En el corazón de la experiencia humana y en el centro del innovador modelo de Consciencia Cuántica, yace una verdad innegable: estamos intrínsecamente diseñados para conectar. Esta profunda inclinación no es meramente un capricho social o una conveniencia superficial; es una fuerza impulsora fundamental que el marco de Consciencia Cuántica denomina la **"Voluntad de Conexión"** (qm:WillToConnection). Esta "voluntad" se entiende como un impulso primordial que emana directamente de la **Dimensión Psico-Volitiva (Pd1)** (qm:PsychoVolitionalDimension), la fuente de nuestra pura potencialidad y voluntad, y se manifiesta a través de la **Dimensión Psico-Empática (Pd4)** (qm:PsychoEmpathicDimension). Pero, ¿de dónde proviene esta "voluntad" y cómo ha evolucionado nuestra comprensión de su importancia a lo largo de la historia y la filosofía?

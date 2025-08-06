@@ -1,10 +1,20 @@
 ---
-title: Tu Mapa Interior: Una Visión General del Marco de la Conciencia Cuántica
-categories: ["Core Concepts", "Framework Principles", "Perception"]
-tags: ["Quantum Mindfulness", "Consciousness", "Psychodynamic Dimensions", "Perception", "Mindfulness", "Cognitive Superposition", "Observer-Participant"]
+title: Tu Mapa Interior - Una Visión General del Marco de la Conciencia Cuántica
 post_excerpt: Explore the Quantum Mindfulness framework, a synthesis of ancient wisdom and modern science that offers a dynamic, interconnected model of consciousness. This post delves into the psychodynamic dimensions, the role of the observer in shaping reality, and how we can achieve greater perceptual freedom.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Framework Principles"
+        - "Perception"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Consciousness"
+        - "Psychodynamic Dimensions"
+        - "Perception"
+        - "Mindfulness"
+        - "Cognitive Superposition"
+        - "Observer-Participant"]
 ---
-
 ### Tu Mapa Interior: Una Visión General del Marco de la Conciencia Cuántica
 
 La fascinación humana por la conciencia es tan antigua como la civilización misma. Desde los intrincados debates de los filósofos griegos sobre la naturaleza del alma, pasando por los esfuerzos de la Ilustración para catalogar las facultades de la mente, hasta las exploraciones espirituales de las tradiciones orientales que han enfatizado la interconexión de la existencia, la búsqueda de comprender cómo pensamos, sentimos y percibimos ha sido una constante en nuestra historia intelectual. El marco de las **Dimensiones Psicodinámicas del Mindfulness Cuántico** no es una creación aislada; es la culminación de milenios de esta profunda exploración, fusionando la sabiduría ancestral con los descubrimientos científicos más vanguardistas para ofrecer una comprensión sin precedentes de nuestro mundo interior.

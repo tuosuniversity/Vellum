@@ -1,10 +1,21 @@
 ---
-title: Desentraña Tu Mente: La Ciencia de la Arquitectura Interna de tus Pensamientos y Emociones
-categories: ["Core Concepts", "Psychodynamic Dimensions", "Mindfulness Approaches"]
-tags: ["Quantum Mindfulness", "Psychodynamic Dimensions", "Cognitive Architecture", "Internal Map", "Conscious Observation", "Perceptual Freedom", "Mental Patterns", "Self-Mastery"]
+title: Desentraña Tu Mente - La Ciencia de la Arquitectura Interna de tus Pensamientos y Emociones
 post_excerpt: "¿Alguna vez te has sentido atrapado por patrones mentales recurrentes? El Quantum Mindfulness te invita a ver tu mente no como una caja negra, sino como una intrincada 'arquitectura interna' compuesta por 'dimensiones psicodinámicas' identificables. Al comprender y mapear estas estructuras subyacentes, puedes pasar de ser un pasajero pasivo a un arquitecto consciente de tu propia realidad, transformando patrones arraigados y cultivando una profunda agencia cognitiva."
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Psychodynamic Dimensions"
+        - "Mindfulness Approaches"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Psychodynamic Dimensions"
+        - "Cognitive Architecture"
+        - "Internal Map"
+        - "Conscious Observation"
+        - "Perceptual Freedom"
+        - "Mental Patterns"
+        - "Self-Mastery"]
 ---
-
 ### Desentraña Tu Mente: La Ciencia de la Arquitectura Interna de tus Pensamientos y Emociones
 
 ¿Alguna vez te has sentido atrapado por un patrón mental o emocional recurrente, como la procrastinación, la ansiedad o la auto-duda? Es como si tu mente fuera una caja negra misteriosa, y por mucho que intentes cambiar lo que sientes o haces, el patrón persiste. La frustración es real, pero ¿y si te dijera que tu mente no es una caja negra, sino una máquina compleja, con un funcionamiento interno que puede ser "desmontado" y comprendido?

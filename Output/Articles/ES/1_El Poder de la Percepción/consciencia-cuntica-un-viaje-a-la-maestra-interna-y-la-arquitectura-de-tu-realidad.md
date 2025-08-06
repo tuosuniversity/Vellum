@@ -1,22 +1,22 @@
 ---
-title: Consciencia Cuántica: Un Viaje a la Maestría Interna y la Arquitectura de tu Realidad
-categories:
-  - Core Concepts
-  - Mindfulness Approaches
-  - Framework Principles
-tags:
-  - Quantum Mindfulness
-  - Metacognition
-  - Consciousness Architecture
-  - Psychodynamic Dimensions
-  - Internal Mastery
-  - Perception
-  - Reality Construction
-  - Self-Awareness
+title: Consciencia Cuántica - Un Viaje a la Maestría Interna y la Arquitectura de tu Realidad
 post_excerpt: >
-  Explore el marco de Consciencia Cuántica, una integración vanguardista de prácticas milenarias de mindfulness y contemplación con una profunda comprensión de la arquitectura de la conciencia. Descubra cómo la conciencia metacognitiva y el rol del observador activo le equipan para dar forma a su realidad experimentada y alcanzar una maestría interna sin precedentes.
+Explore el marco de Consciencia Cuántica, una integración vanguardista de prácticas milenarias de mindfulness y contemplación con una profunda comprensión de la arquitectura de la conciencia. Descubra cómo la conciencia metacognitiva y el rol del observador activo le equipan para dar forma a su realidad experimentada y alcanzar una maestría interna sin precedentes.
+taxonomy:
+    category:
+        - Core Concepts
+        - Mindfulness Approaches
+        - Framework Principles
+    post_tag:
+        - Quantum Mindfulness
+        - Metacognition
+        - Consciousness Architecture
+        - Psychodynamic Dimensions
+        - Internal Mastery
+        - Perception
+        - Reality Construction
+        - Self-Awareness
 ---
-
 ### Consciencia Cuántica: Un Viaje a la Maestría Interna y la Arquitectura de tu Realidad
 
 ¿Qué pasaría si pudieras no solo observar tu mente, sino también comprender su estructura fundamental y participar activamente en la configuración de tu experiencia? El marco de trabajo de **Consciencia Cuántica** ofrece una visión revolucionaria para lograr precisamente esto, combinando lo mejor de las prácticas contemplativas con una comprensión de vanguardia de cómo opera nuestra conciencia. Este enfoque integral nos invita a ir más allá de la mera reacción a nuestros estados internos, hacia una profunda `Maestría Interna` (Internal Mastery) y la capacidad de influir conscientemente en la `Realidad Experimentada` (Experienced Reality).

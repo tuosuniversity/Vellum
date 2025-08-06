@@ -1,23 +1,23 @@
 ---
-title: Desbloquea Tu Poder Interno: Una Visión General del Marco de Consciencia Cuántica
-categories:
-  - Core Concepts
-  - Framework Principles
-  - Practices
-tags:
-  - Quantum Mindfulness
-  - Conscious Attention
-  - Psychodynamic Wave Collapse
-  - Cognitive Superposition
-  - Psycho-Volitional Dimension
-  - Psycho-Meditative Dimension
-  - Embodied Mindfulness
-  - Perceptual Freedom
-  - Intentional Collapse
-  - Cognitive Anchoring
+title: Desbloquea Tu Poder Interno - Una Visión General del Marco de Consciencia Cuántica
 post_excerpt: El marco de Consciencia Cuántica (o Quantum Mindfulness) ofrece un paradigma transformador para comprender y moldear activamente nuestra realidad. A través de prácticas como "La Detención" y el uso de Anclajes Físicos, este enfoque empodera al individuo para pasar de ser un receptor pasivo a un cocreador intencional de su experiencia, cultivando una profunda claridad mental y emocional.
+taxonomy:
+    category:
+        - Core Concepts
+        - Framework Principles
+        - Practices
+    post_tag:
+        - Quantum Mindfulness
+        - Conscious Attention
+        - Psychodynamic Wave Collapse
+        - Cognitive Superposition
+        - Psycho-Volitional Dimension
+        - Psycho-Meditative Dimension
+        - Embodied Mindfulness
+        - Perceptual Freedom
+        - Intentional Collapse
+        - Cognitive Anchoring
 ---
-
 ### Desbloquea Tu Poder Interno: Una Visión General del Marco de Consciencia Cuántica
 
 En un mundo que a menudo se siente caótico, impredecible y abrumador, muchos de nosotros buscamos no solo herramientas para navegar la vida, sino también marcos que nos permitan comprender su funcionamiento más profundo. El Marco de Consciencia Cuántica, también conocido como Quantum Mindfulness, emerge como un paradigma transformador que va más allá de las técnicas superficiales. Ofrece una profunda comprensión de cómo se construye nuestra realidad subjetiva y, lo que es más importante, cómo podemos influir activamente en ella. No es simplemente un conjunto de ejercicios, sino una filosofía práctica que te empodera para trascender el rol de receptor pasivo de la experiencia, convirtiéndote en un **cocreador intencional** de tu propia vida.

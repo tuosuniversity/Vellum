@@ -1,8 +1,22 @@
 ---
-title: Beyond Basic Mindfulness: An Introduction to the Quantum Mindfulness Framework for Holistic Well-being
-categories: ["Framework Principles", "Psychodynamic Dimensions", "Mindfulness Approaches"]
-tags: ["Quantum Mindfulness", "Psychodynamic Dimensions", "Emotional Regulation", "Self-Preservation", "Conscious Boundaries", "Holistic Well-being", "Personal Growth", "Conscious Decoupling", "Psychological Sovereignty", "Observer-Participant Dynamic"]
+title: Beyond Basic Mindfulness - An Introduction to the Quantum Mindfulness Framework for Holistic Well-being
 post_excerpt: The Quantum Mindfulness framework offers a revolutionary, holistic approach to understanding and optimizing your inner world. By exploring ten fundamental Psychodynamic Dimensions, it reveals how internal forces interact to shape experience, guiding you towards balanced well-being, resilient boundaries, and proactive engagement with life.
+taxonomy:
+    category:
+        - ["Framework Principles"
+        - "Psychodynamic Dimensions"
+        - "Mindfulness Approaches"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Psychodynamic Dimensions"
+        - "Emotional Regulation"
+        - "Self-Preservation"
+        - "Conscious Boundaries"
+        - "Holistic Well-being"
+        - "Personal Growth"
+        - "Conscious Decoupling"
+        - "Psychological Sovereignty"
+        - "Observer-Participant Dynamic"]
 ---
 ### Beyond Basic Mindfulness: An Introduction to the Quantum Mindfulness Framework for Holistic Well-being
 

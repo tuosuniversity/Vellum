@@ -1,8 +1,19 @@
 ---
-title: Desbloquea tu Conciencia Cuántica: Entiende las Dimensiones Psicodinámicas de tu Mente
-categories: ["Core Concepts", "Framework Principles", "Psychodynamic Dimensions"]
-tags: ["Quantum Mindfulness", "Psychodynamic Dimensions", "Consciousness Architecture", "Self-Awareness", "Perceptual Freedom", "Cognitive Agency", "Emotional Intelligence"]
+title: Desbloquea tu Conciencia Cuántica - Entiende las Dimensiones Psicodinámicas de tu Mente
 post_excerpt: "Explore the Quantum Mindfulness framework's core concept of Psychodynamic Dimensions. Learn how these fundamental energies shape your subjective reality and empower you to move beyond passive observation to actively influence your inner world and achieve true perceptual freedom."
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Framework Principles"
+        - "Psychodynamic Dimensions"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Psychodynamic Dimensions"
+        - "Consciousness Architecture"
+        - "Self-Awareness"
+        - "Perceptual Freedom"
+        - "Cognitive Agency"
+        - "Emotional Intelligence"]
 ---
 ### Desbloquea tu Conciencia Cuántica: Entiende las Dimensiones Psicodinámicas de tu Mente
 

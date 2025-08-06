@@ -1,10 +1,22 @@
 ---
-title: The Unspoken Library: Unveiling the Ancient Wisdom of Tacit Knowledge
-categories: ["Core Concepts", "Human Capacities", "Practices"]
-tags: ["tacit knowledge", "implicit learning", "quantum mindfulness", "psychodynamic dimensions", "intuition", "embodied wisdom", "perception", "conscious awareness", "inner wisdom"]
+title: The Unspoken Library - Unveiling the Ancient Wisdom of Tacit Knowledge
 post_excerpt: Delve into the profound realm of tacit knowledge, the "unspoken library" of wisdom that resides beneath conscious articulation. This post explores how the Quantum Mindfulness framework, through its understanding of psychodynamic dimensions and the Observer-Participant Dynamic, provides unique tools to access, understand, and leverage this hidden wellspring of insight for enhanced perception and authentic self-origination.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Human Capacities"
+        - "Practices"]
+    post_tag:
+        - ["tacit knowledge"
+        - "implicit learning"
+        - "quantum mindfulness"
+        - "psychodynamic dimensions"
+        - "intuition"
+        - "embodied wisdom"
+        - "perception"
+        - "conscious awareness"
+        - "inner wisdom"]
 ---
-
 ### The Unspoken Library: Unveiling the Ancient Wisdom of Tacit Knowledge
 
 Imagine a vast, intricate library within you, filled with ancient wisdom, profound insights, and practical expertise accumulated over a lifetime, and perhaps even generations. This isn't a library of written words or easily retrievable facts, but one of felt senses, intuitive leaps, and ingrained patterns—a knowledge so deeply embedded that it often defies verbalization. This is the realm of **Tacit Knowledge**, the "unspoken library" that quietly shapes our perceptions, informs our decisions, and guides our actions.

@@ -1,10 +1,23 @@
 ---
-title: Before Words: Exploring the Philosophical Roots of the Psycho-Conceptive Dimension
-categories: ["Psychodynamic Dimensions", "Prime Modality", "Framework Principles"]
-tags: ["Psycho-Conceptive Dimension", "Psycho-Volitional Dimension", "Quantum Mindfulness", "Consciousness", "Intuition", "Cognitive Processes", "Philosophy of Mind", "Idea Formation", "Jerome Bruner", "Victor Frankl"]
+title: Before Words - Exploring the Philosophical Roots of the Psycho-Conceptive Dimension
 post_excerpt: Delve into the Quantum Mindfulness framework's Psycho-Conceptive Dimension, exploring how raw potential transforms into structured thought. This article unearths the historical and philosophical underpinnings of intuition, will, and idea formation, revealing the dynamic interplay of the mind's fundamental dimensions. Discover how conscious engagement shapes our experienced reality, moving beyond mere logic to embrace the mind's full creative capacity.
+taxonomy:
+    category:
+        - ["Psychodynamic Dimensions"
+        - "Prime Modality"
+        - "Framework Principles"]
+    post_tag:
+        - ["Psycho-Conceptive Dimension"
+        - "Psycho-Volitional Dimension"
+        - "Quantum Mindfulness"
+        - "Consciousness"
+        - "Intuition"
+        - "Cognitive Processes"
+        - "Philosophy of Mind"
+        - "Idea Formation"
+        - "Jerome Bruner"
+        - "Victor Frankl"]
 ---
-
 ### Before Words: Exploring the Philosophical Roots of the Psycho-Conceptive Dimension
 
 Since time immemorial, humanity has grappled with profound questions about the nature of thought: Where do ideas truly originate? How do we transition from a nebulous soup of sensations and experiences to the formation of clear, structured concepts? The Quantum Mindfulness (QM) framework, as detailed in our foundational texts, offers a compelling answer to these ancient inquiries through its intricate model of consciousness. At the heart of this understanding lies the **Psycho-Conceptive Dimension (Pd2)**, a fascinating bridge spanning the chasm between the mind's pure potential and the concrete manifestation of thought.

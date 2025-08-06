@@ -1,24 +1,24 @@
 ---
-title: Efecto Zeigarnik: ¿Por Qué Tu Mente No Suelta las Tareas Inacabadas? Descubre Su Impacto en la Consciencia
-categories:
-  - Challenges and Limitations
-  - Perception
-  - Core Concepts
-tags:
-  - Zeigarnik Effect
-  - Cognitive Bias
-  - Incomplete Tasks
-  - Attention Management
-  - Cognitive Load
-  - Psychodynamic Collapse
-  - Quantum Mindfulness
-  - Mental Well-being
-  - Conscious Attention
-  - Cognitive Strain
+title: Efecto Zeigarnik - ¿Por Qué Tu Mente No Suelta las Tareas Inacabadas? Descubre Su Impacto en la Consciencia
 post_excerpt: >
-  Descubre cómo el Efecto Zeigarnik, la tendencia a recordar tareas incompletas, es mucho más que un simple fallo de memoria. Este artículo explora cómo este fenómeno psicológico secuestra nuestra atención y energía mental, y cómo el marco de Quantum Mindfulness ofrece estrategias para gestionar esta "tensión cognitiva" y recuperar el control sobre nuestra consciencia.
+Descubre cómo el Efecto Zeigarnik, la tendencia a recordar tareas incompletas, es mucho más que un simple fallo de memoria. Este artículo explora cómo este fenómeno psicológico secuestra nuestra atención y energía mental, y cómo el marco de Quantum Mindfulness ofrece estrategias para gestionar esta "tensión cognitiva" y recuperar el control sobre nuestra consciencia.
+taxonomy:
+    category:
+        - Challenges and Limitations
+        - Perception
+        - Core Concepts
+    post_tag:
+        - Zeigarnik Effect
+        - Cognitive Bias
+        - Incomplete Tasks
+        - Attention Management
+        - Cognitive Load
+        - Psychodynamic Collapse
+        - Quantum Mindfulness
+        - Mental Well-being
+        - Conscious Attention
+        - Cognitive Strain
 ---
-
 ### Efecto Zeigarnik: ¿Por Qué Tu Mente No Suelta las Tareas Inacabadas? Descubre Su Impacto en la Consciencia
 
 ¿Alguna vez te has encontrado con una canción pegada en la cabeza, repitiendo una y otra vez un fragmento, incapaz de seguir adelante hasta que recuerdas la letra completa o la escuchas terminar? ¿O quizás, esa idea para un proyecto que dejaste a medias en el trabajo sigue rondando tus pensamientos, incluso cuando intentas relajarte? Si es así, has experimentado en carne propia un fascinante fenómeno psicológico conocido como el **Efecto Zeigarnik**.

@@ -1,19 +1,20 @@
 ---
-title: Desbloquea Tu Realidad: La Sorprendente Ciencia de Cómo Tu Conciencia Modela Tu Experiencia Diaria
-categories:
-  - Core Concepts
-  - Perception
-  - Framework Principles
-tags:
-  - Quantum Mindfulness
-  - Conscious Reality Creation
-  - Perception
-  - Psychodynamic Dimensions
-  - Cognitive Superposition
-  - Psychodynamic Collapse
-  - Self-Mastery
+title: Desbloquea Tu Realidad - La Sorprendente Ciencia de Cómo Tu Conciencia Modela Tu Experiencia Diaria
 post_excerpt: >
-  Explore the revolutionary Quantum Mindfulness framework, which posits that your subjective reality is not merely observed but actively co-created by your mind. Learn how understanding concepts like psychodynamic collapse and the Prime Modality can empower you to transform your daily experiences, moving from passive reaction to active mastery.
+Explore the revolutionary Quantum Mindfulness framework, which posits that your subjective reality is not merely observed but actively co-created by your mind. Learn how understanding concepts like psychodynamic collapse and the Prime Modality can empower you to transform your daily experiences, moving from passive reaction to active mastery.
+taxonomy:
+    category:
+        - Core Concepts
+        - Perception
+        - Framework Principles
+    post_tag:
+        - Quantum Mindfulness
+        - Conscious Reality Creation
+        - Perception
+        - Psychodynamic Dimensions
+        - Cognitive Superposition
+        - Psychodynamic Collapse
+        - Self-Mastery
 ---
 ### Desbloquea Tu Realidad: La Sorprendente Ciencia de Cómo Tu Conciencia Modela Tu Experiencia Diaria
 

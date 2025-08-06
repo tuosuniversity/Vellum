@@ -1,10 +1,22 @@
 ---
-title: Contrato Perceptual: La Sorprendente Verdad Científica de Cómo Tu Cerebro Construye Tu Realidad
-categories: ["Perception", "Core Concepts", "Framework Principles"]
-tags: ["Quantum Mindfulness", "Perceptual Contract", "Reality Construction", "Cognitive Superposition", "Psychodynamic Collapse", "Observer-Participant Dynamic", "Cognitive Agency", "Mindfulness", "Neuroscience"]
+title: Contrato Perceptual - La Sorprendente Verdad Científica de Cómo Tu Cerebro Construye Tu Realidad
 post_excerpt: "¿Es la realidad una verdad objetiva o una construcción personal? El Contrato Perceptual, un concepto fundamental en la Consciencia Cuántica, revela que nuestro cerebro es un arquitecto activo de nuestra experiencia. Este artículo explora cómo nuestra atención y marcos internos modelan la realidad, ofreciendo la oportunidad de influir conscientemente en los términos de nuestra percepción y alcanzar la libertad perceptual."
+taxonomy:
+    category:
+        - ["Perception"
+        - "Core Concepts"
+        - "Framework Principles"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Perceptual Contract"
+        - "Reality Construction"
+        - "Cognitive Superposition"
+        - "Psychodynamic Collapse"
+        - "Observer-Participant Dynamic"
+        - "Cognitive Agency"
+        - "Mindfulness"
+        - "Neuroscience"]
 ---
-
 ### Contrato Perceptual: La Sorprendente Verdad Científica de Cómo Tu Cerebro Construye Tu Realidad
 
 ¿Alguna vez te has detenido a pensar si lo que percibes como "realidad" es realmente una imagen objetiva del mundo exterior, o si es algo mucho más personal, dinámico y, curiosamente, cuántico? En el fascinante campo de la Consciencia Cuántica, somos invitados a reevaluar esta pregunta fundamental. Lejos de ser meros receptores pasivos de información, nuestro cerebro es un arquitecto activo de nuestra experiencia vivida, un concepto central que denominamos el "Contrato Perceptual".

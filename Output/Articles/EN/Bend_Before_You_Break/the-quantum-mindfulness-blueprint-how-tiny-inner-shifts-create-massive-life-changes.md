@@ -1,23 +1,24 @@
 ---
-title: The Quantum Mindfulness Blueprint: How Tiny Inner Shifts Create Massive Life Changes
-categories:
-  - Core Concepts
-  - Framework Principles
-  - Practices
-tags:
-  - Quantum Mindfulness
-  - Psychodynamic Dimensions
-  - Conscious Attention
-  - Perceptual Freedom
-  - Inner Transformation
-  - Self-Mastery
-  - Mindfulness Practices
+title: The Quantum Mindfulness Blueprint - How Tiny Inner Shifts Create Massive Life Changes
 post_excerpt: >-
-  Explore the Quantum Mindfulness framework, a revolutionary approach to personal
-  transformation that reveals how subtle internal adjustments can lead to profound
-  life changes. This post delves into the core concepts of psychodynamic dimensions
-  and cognitive superposition, illustrating how conscious attention and intentional
-  practices empower you to actively shape your reality.
+Explore the Quantum Mindfulness framework, a revolutionary approach to personal
+transformation that reveals how subtle internal adjustments can lead to profound
+life changes. This post delves into the core concepts of psychodynamic dimensions
+and cognitive superposition, illustrating how conscious attention and intentional
+practices empower you to actively shape your reality.
+taxonomy:
+    category:
+        - Core Concepts
+        - Framework Principles
+        - Practices
+    post_tag:
+        - Quantum Mindfulness
+        - Psychodynamic Dimensions
+        - Conscious Attention
+        - Perceptual Freedom
+        - Inner Transformation
+        - Self-Mastery
+        - Mindfulness Practices
 ---
 ### The Quantum Mindfulness Blueprint: How Tiny Inner Shifts Create Massive Life Changes
 

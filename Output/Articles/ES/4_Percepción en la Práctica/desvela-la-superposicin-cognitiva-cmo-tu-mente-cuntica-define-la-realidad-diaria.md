@@ -1,22 +1,22 @@
 ---
-title: Desvela la "Superposición Cognitiva": ¿Cómo tu Mente Cuántica Define la Realidad Diaria?
-categories:
-  - Core Concepts
-  - Perception
-  - Practices
-tags:
-  - Cognitive Superposition
-  - Psychodynamic Collapse
-  - Conscious Attention
-  - Quantum Mindfulness
-  - Reality Construction
-  - Observer-Participant Dynamic
-  - Perceptual Freedom
+title: Desvela la "Superposición Cognitiva" - ¿Cómo tu Mente Cuántica Define la Realidad Diaria?
 post_excerpt: >-
-  Descubre cómo la "superposición cognitiva" permite a tu mente mantener infinitas posibilidades simultáneamente.
-  Explora el "colapso psicodinámico," el proceso por el cual tu atención consciente selecciona y solidifica una de estas posibilidades en tu realidad percibida. Aprende a dirigir tu atención para moldear activamente tu experiencia y trascender las limitaciones impuestas por percepciones inconscientes.
+Descubre cómo la "superposición cognitiva" permite a tu mente mantener infinitas posibilidades simultáneamente.
+Explora el "colapso psicodinámico," el proceso por el cual tu atención consciente selecciona y solidifica una de estas posibilidades en tu realidad percibida. Aprende a dirigir tu atención para moldear activamente tu experiencia y trascender las limitaciones impuestas por percepciones inconscientes.
+taxonomy:
+    category:
+        - Core Concepts
+        - Perception
+        - Practices
+    post_tag:
+        - Cognitive Superposition
+        - Psychodynamic Collapse
+        - Conscious Attention
+        - Quantum Mindfulness
+        - Reality Construction
+        - Observer-Participant Dynamic
+        - Perceptual Freedom
 ---
-
 ### Desvela la "Superposición Cognitiva": ¿Cómo tu Mente Cuántica Define la Realidad Diaria?
 
 Imagina por un momento que tu mente no es solo un receptor pasivo de información, sino un universo en miniatura, un vasto campo de infinitas posibilidades antes de que cualquier cosa se manifieste como una "realidad" concreta. Antes de que formes una opinión, tomes una decisión, o incluso antes de que definas a una persona o situación, tu cerebro no se limita a una única opción. En cambio, sostiene múltiples escenarios, interpretaciones y potenciales al mismo tiempo. A este fascinante estado, una piedra angular del framework de Quantum Mindfulness, lo llamamos **Superposición Cognitiva**.

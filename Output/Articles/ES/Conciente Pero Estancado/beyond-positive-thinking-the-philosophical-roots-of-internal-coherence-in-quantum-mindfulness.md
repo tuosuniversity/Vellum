@@ -1,10 +1,21 @@
 ---
-title: Beyond 'Positive Thinking': The Philosophical Roots of Internal Coherence in Quantum Mindfulness
-categories: ["Framework Principles", "Mindfulness Approaches", "Core Concepts"]
-tags: ["Internal Coherence", "Psychodynamic Dimensions", "Quantum Mindfulness", "Philosophical Roots", "Ancient Wisdom", "Self-Inquiry", "Personal Growth", "Consciousness Refinement"]
+title: Beyond 'Positive Thinking' - The Philosophical Roots of Internal Coherence in Quantum Mindfulness
 post_excerpt: This post explores the historical and philosophical underpinnings of internal coherence, tracing its pursuit from ancient philosophies to modern psychology. It explains how the Quantum Mindfulness framework provides a structured, actionable approach to achieve this timeless human aspiration. Discover how QM transcends simplistic "positive thinking" to offer a profound path to psychological harmony.
+taxonomy:
+    category:
+        - ["Framework Principles"
+        - "Mindfulness Approaches"
+        - "Core Concepts"]
+    post_tag:
+        - ["Internal Coherence"
+        - "Psychodynamic Dimensions"
+        - "Quantum Mindfulness"
+        - "Philosophical Roots"
+        - "Ancient Wisdom"
+        - "Self-Inquiry"
+        - "Personal Growth"
+        - "Consciousness Refinement"]
 ---
-
 ### Beyond 'Positive Thinking': The Philosophical Roots of Internal Coherence in Quantum Mindfulness
 
 In a world saturated with self-help advice and quick fixes, the promise of "Psychological Harmony" or internal coherence might sound like just another fleeting trend. Yet, the profound quest for self-integration and inner alignment is far from a modern invention. It is a timeless human aspiration, echoing through millennia of philosophy, spiritual traditions, and psychological inquiry. The Quantum Mindfulness framework, far from reinventing the wheel, grounds itself in these deep historical and philosophical roots, offering a contemporary, structured, and actionable lens for an ancestral pursuit.

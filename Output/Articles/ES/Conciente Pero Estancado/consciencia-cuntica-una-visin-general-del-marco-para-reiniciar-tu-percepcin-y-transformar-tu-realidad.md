@@ -1,10 +1,21 @@
 ---
-title: Consciencia Cuántica: Una Visión General del Marco para Reiniciar Tu Percepción y Transformar Tu Realidad
-categories: ["Framework Principles", "Practices", "Perception"]
-tags: ["Quantum Consciousness", "Mindfulness", "Perceptual Transformation", "Cognitive Restructuring", "Self-Mastery", "Psychodynamic Collapse", "Active Mastery", "Dimensional Attunement"]
+title: Consciencia Cuántica - Una Visión General del Marco para Reiniciar Tu Percepción y Transformar Tu Realidad
 post_excerpt: En un mundo de constante sobrecarga de información, la Consciencia Cuántica ofrece un marco revolucionario para trascender patrones mentales arraigados. A través de la "Práctica del Nuevo Comienzo" y la comprensión de nuestras dimensiones psicodinámicas, este enfoque nos permite reiniciar la percepción, intervenir conscientemente en nuestros estados mentales y co-crear una realidad más alineada con nuestro auténtico ser.
+taxonomy:
+    category:
+        - ["Framework Principles"
+        - "Practices"
+        - "Perception"]
+    post_tag:
+        - ["Quantum Consciousness"
+        - "Mindfulness"
+        - "Perceptual Transformation"
+        - "Cognitive Restructuring"
+        - "Self-Mastery"
+        - "Psychodynamic Collapse"
+        - "Active Mastery"
+        - "Dimensional Attunement"]
 ---
-
 ### Consciencia Cuántica: Una Visión General del Marco para Reiniciar Tu Percepción y Transformar Tu Realidad
 
 En la vertiginosa era digital, donde el flujo incesante de información nos bombardea y la presión por reaccionar instantáneamente es abrumadora, es comprensible sentirse atrapado en patrones mentales reactivos. ¿Alguna vez te has encontrado tropezando con los mismos obstáculos, reaccionando de manera predecible o cayendo en juicios precipitados, a pesar de saber que no te benefician? La Consciencia Cuántica (CC) emerge como una poderosa respuesta a esta encrucijada, ofreciendo no solo un diagnóstico agudo de la condición humana, sino también un marco estructurado y viable para la **liberación** de estos ciclos restrictivos.

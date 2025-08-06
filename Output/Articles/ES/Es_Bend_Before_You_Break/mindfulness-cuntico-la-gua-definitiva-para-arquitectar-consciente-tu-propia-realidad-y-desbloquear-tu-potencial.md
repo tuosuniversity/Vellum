@@ -1,10 +1,20 @@
 ---
-title: Mindfulness Cuántico: La Guía Definitiva para Arquitectar Consciente Tu Propia Realidad y Desbloquear Tu Potencial
-categories: ["Mindfulness Approaches", "Framework Principles", "Perception"]
-tags: ["Quantum Mindfulness", "Conscious Reality Construction", "Perceptual Freedom", "Psychodynamic Collapse", "Observer-Participant Dynamic", "Cognitive Agency", "Self-mastery"]
+title: Mindfulness Cuántico - La Guía Definitiva para Arquitectar Consciente Tu Propia Realidad y Desbloquear Tu Potencial
 post_excerpt: "Explore Quantum Mindfulness, a transformative framework that empowers you to actively shape your reality. Unlike traditional mindfulness, it emphasizes conscious intervention in perception and provides tools to become the architect of your own experience, fostering authenticity and well-being."
+taxonomy:
+    category:
+        - ["Mindfulness Approaches"
+        - "Framework Principles"
+        - "Perception"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Conscious Reality Construction"
+        - "Perceptual Freedom"
+        - "Psychodynamic Collapse"
+        - "Observer-Participant Dynamic"
+        - "Cognitive Agency"
+        - "Self-mastery"]
 ---
-
 ### Mindfulness Cuántico: La Guía Definitiva para Arquitectar Consciente Tu Propia Realidad y Desbloquear Tu Potencial
 
 En un mundo donde a menudo nos sentimos a merced de las circunstancias, la idea de que podemos ser los arquitectos de nuestra propia realidad puede parecer revolucionaria. Sin embargo, esta es la promesa central del **Mindfulness Cuántico**, el marco empoderador que subyace a la "Vida Basada en el Consentimiento". Este enfoque va más allá de la observación pasiva y nos invita a una maestría activa, a una intervención consciente en el propio proceso perceptual.

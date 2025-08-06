@@ -1,8 +1,22 @@
 ---
-title: The Power of Attention: A Quantum Journey to Personal Mastery
-categories: ["Perception", "Mindfulness Approaches", "Advanced Practices"]
-tags: ["Quantum Mindfulness", "Attention", "Personal Mastery", "Cognitive Superposition", "Psychodynamic Collapse", "Observer-Participant Dynamic", "Vectorized Awareness", "Perceptual Freedom", "Consciousness Refinement", "Self-Authorship"]
+title: The Power of Attention - A Quantum Journey to Personal Mastery
 post_excerpt: This article explores how the Quantum Mindfulness framework redefines attention as an active, co-creative force that shapes our experienced reality. It delves into the historical roots of this idea, from Stoicism to Buddhism, and then expands upon it with contemporary psychodynamic insights, offering practical tools for intentional self-authorship and personal mastery.
+taxonomy:
+    category:
+        - ["Perception"
+        - "Mindfulness Approaches"
+        - "Advanced Practices"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Attention"
+        - "Personal Mastery"
+        - "Cognitive Superposition"
+        - "Psychodynamic Collapse"
+        - "Observer-Participant Dynamic"
+        - "Vectorized Awareness"
+        - "Perceptual Freedom"
+        - "Consciousness Refinement"
+        - "Self-Authorship"]
 ---
 ### The Power of Attention: A Quantum Journey to Personal Mastery
 

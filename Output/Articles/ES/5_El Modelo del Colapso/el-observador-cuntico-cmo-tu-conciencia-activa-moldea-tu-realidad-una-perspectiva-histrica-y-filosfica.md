@@ -1,10 +1,22 @@
 ---
-title: El Observador Cuántico: Cómo Tu Conciencia Activa Moldea Tu Realidad (Una Perspectiva Histórica y Filosófica)
-categories: ["Core Concepts", "Perception", "Framework Principles"]
-tags: ["Quantum Mindfulness", "Conscious Observer", "Psychodynamic Wave Collapse", "Perception", "Consciousness", "Active Mastery", "Mindfulness", "Psychodynamic Dimensions", "Conscious Attention"]
+title: El Observador Cuántico - Cómo Tu Conciencia Activa Moldea Tu Realidad (Una Perspectiva Histórica y Filosófica)
 post_excerpt: Este artículo explora el concepto del Observador Cuántico dentro del marco de Quantum Mindfulness, destacando cómo nuestra conciencia no es un receptor pasivo, sino un agente activo en la construcción de nuestra realidad. Profundiza en la metáfora cuántica, el papel crucial de la atención y la volición, y cómo este entendimiento empodera a los individuos para moldear su experiencia.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Perception"
+        - "Framework Principles"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Conscious Observer"
+        - "Psychodynamic Wave Collapse"
+        - "Perception"
+        - "Consciousness"
+        - "Active Mastery"
+        - "Mindfulness"
+        - "Psychodynamic Dimensions"
+        - "Conscious Attention"]
 ---
-
 ### El Observador Cuántico: Cómo Tu Conciencia Activa Moldea Tu Realidad (Una Perspectiva Histórica y Filosófica)
 
 En el fascinante cruce entre la ciencia y la espiritualidad, emerge una idea que desafía nuestra comprensión tradicional de la realidad: ¿Y si nuestra conciencia no fuera solo un producto pasivo del cerebro, sino un agente activo en la creación de nuestra experiencia? Esta es una de las preguntas fundamentales que aborda el marco de la Quantum Mindfulness, especialmente a través del concepto del **Observador Cuántico**.

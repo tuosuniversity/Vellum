@@ -1,10 +1,20 @@
 ---
 title: Conecta tu Mente y Acción Descubre la Dimensión Psico-Fundacional en la Conciencia Cuántica
-categories: ["Core Concepts", "Framework Principles", "Practices"]
-tags: ["Quantum Mindfulness", "Psycho-Foundational Dimension", "Inner-Outer World Bridge", "Conscious Manifestation", "Psychodynamic Dimensions", "Cognitive Anchoring", "Belief Formation"]
 post_excerpt: Delve into the Psycho-Foundational Dimension (Pd9) of the Quantum Mindfulness framework, the essential bridge translating your deepest intentions and values into tangible reality. This post explores how Pd9 serves as a vital anchoring mechanism, integrates memory and values, and enables purposeful action, highlighting its crucial role in conscious reality construction.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Framework Principles"
+        - "Practices"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Psycho-Foundational Dimension"
+        - "Inner-Outer World Bridge"
+        - "Conscious Manifestation"
+        - "Psychodynamic Dimensions"
+        - "Cognitive Anchoring"
+        - "Belief Formation"]
 ---
-
 ### Conecta tu Mente y Acción: Descubre la Dimensión Psico-Fundacional en la Conciencia Cuántica
 
 ¿Alguna vez te has detenido a reflexionar sobre la misteriosa alquimia que transforma tus pensamientos más etéreos y tus emociones más profundas en acciones concretas, en decisiones que moldean tu destino, o en la expresión vibrante de tu creatividad única? No es un acto de magia fortuita, sino el resultado de un sistema de traducción increíblemente sofisticado que opera constantemente dentro de tu ser. En el vanguardista marco de la **Mindfulness Cuántico** (QM), este proceso fundamental encuentra su explicación y su motor principal en la **Dimensión Psico-Fundacional**, conocida formalmente como la Dimensión 9 (Pd9). Este concepto revolucionario actúa como el puente esencial, dinámico y bidireccional, entre tu vasto mundo interior y la manifestación de tu realidad exterior.

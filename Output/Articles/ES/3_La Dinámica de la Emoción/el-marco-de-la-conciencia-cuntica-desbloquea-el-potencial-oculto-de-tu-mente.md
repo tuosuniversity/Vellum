@@ -1,21 +1,21 @@
 ---
-title: El Marco de la Conciencia Cuántica: Desbloquea el Potencial Oculto de tu Mente
-categories:
-  - Core Concepts
-  - Framework Principles
-  - Perception
-tags:
-  - Quantum Mindfulness
-  - Conciencia Cuántica
-  - Dimensiones Psicodinámicas
-  - Colapso Cognitivo
-  - Soberanía Cognitiva
-  - Mente
-  - Desarrollo Personal
+title: El Marco de la Conciencia Cuántica - Desbloquea el Potencial Oculto de tu Mente
 post_excerpt: >
-  Descubre el revolucionario marco de la Conciencia Cuántica y su Modalidad Principal, el sistema operativo de tu experiencia consciente. Este artículo profundiza en las tres dimensiones psicodinámicas fundamentales que dan forma a tus pensamientos y emociones, revelando cómo el "colapso cognitivo" puede ser influenciado para lograr una profunda transformación personal y una verdadera soberanía cognitiva.
+Descubre el revolucionario marco de la Conciencia Cuántica y su Modalidad Principal, el sistema operativo de tu experiencia consciente. Este artículo profundiza en las tres dimensiones psicodinámicas fundamentales que dan forma a tus pensamientos y emociones, revelando cómo el "colapso cognitivo" puede ser influenciado para lograr una profunda transformación personal y una verdadera soberanía cognitiva.
+taxonomy:
+    category:
+        - Core Concepts
+        - Framework Principles
+        - Perception
+    post_tag:
+        - Quantum Mindfulness
+        - Conciencia Cuántica
+        - Dimensiones Psicodinámicas
+        - Colapso Cognitivo
+        - Soberanía Cognitiva
+        - Mente
+        - Desarrollo Personal
 ---
-
 ### El Marco de la Conciencia Cuántica: Desbloquea el Potencial Oculto de tu Mente
 
 ¿Alguna vez te has sentido como si tu mente funcionara en "piloto automático", reaccionando a los eventos en lugar de responder conscientemente? En un mundo de estímulos constantes y demandas incesantes, es fácil caer en patrones de pensamiento y comportamiento que se sienten ajenos a tu verdadera intención. ¿Deseas un mayor control sobre tus pensamientos, tus emociones y tu vasto potencial innato? El marco de la **Conciencia Cuántica** (Quantum Mindfulness) ofrece una visión verdaderamente revolucionaria de la mente, proporcionando una estructura clara y un mapa detallado para el autodescubrimiento, el desarrollo personal y, en última instancia, la liberación.

@@ -1,21 +1,21 @@
 ---
-title: La Teoría del Observador-Participante: ¿Eres un Creador Activo de Tu Realidad o un Simple Espectador?
-categories:
-  - Core Concepts
-  - Perception
-  - Framework Principles
-tags:
-  - Quantum Mindfulness
-  - Observer-Participant Theory
-  - Active Mastery
-  - Psychodynamic Dimensions
-  - Consciousness
-  - Reality Construction
-  - Intentionality
+title: La Teoría del Observador-Participante - ¿Eres un Creador Activo de Tu Realidad o un Simple Espectador?
 post_excerpt: >
-  Explora la revolucionaria Teoría del Observador-Participante del framework de Quantum Mindfulness, que postula que nuestra conciencia no es un mero receptor pasivo, sino un co-creador activo de nuestra realidad experimentada. Descubre cómo la "maestría activa" de nuestra atención y voluntad puede moldear nuestros estados mentales y conducir a una profunda transformación personal.
+Explora la revolucionaria Teoría del Observador-Participante del framework de Quantum Mindfulness, que postula que nuestra conciencia no es un mero receptor pasivo, sino un co-creador activo de nuestra realidad experimentada. Descubre cómo la "maestría activa" de nuestra atención y voluntad puede moldear nuestros estados mentales y conducir a una profunda transformación personal.
+taxonomy:
+    category:
+        - Core Concepts
+        - Perception
+        - Framework Principles
+    post_tag:
+        - Quantum Mindfulness
+        - Observer-Participant Theory
+        - Active Mastery
+        - Psychodynamic Dimensions
+        - Consciousness
+        - Reality Construction
+        - Intentionality
 ---
-
 ### La Teoría del Observador-Participante: ¿Eres un Creador Activo de Tu Realidad o un Simple Espectador?
 
 Desde el amanecer de la filosofía, la humanidad ha debatido incansablemente sobre la naturaleza fundamental de la realidad y nuestro papel inherente en su manifestación. ¿Somos meros receptores pasivos de un mundo preexistente, con nuestros sentidos actuando como ventanas a una verdad objetiva e inmutable? ¿O acaso nuestra conciencia, en su interacción con el universo, juega un papel mucho más potente y activo en la confección de lo que percibimos como real?

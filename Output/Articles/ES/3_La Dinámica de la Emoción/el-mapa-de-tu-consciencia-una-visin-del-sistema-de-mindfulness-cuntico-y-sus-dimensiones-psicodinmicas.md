@@ -1,10 +1,20 @@
 ---
-title: El Mapa de tu Consciencia: Una Visión del Sistema de Mindfulness Cuántico y sus Dimensiones Psicodinámicas
-categories: ["Core Concepts", "Psychodynamic Dimensions", "Framework Principles"]
-tags: ["quantum mindfulness", "psychodynamic dimensions", "consciousness architecture", "internal landscape", "personal development", "volitional awareness", "mind-body connection"]
+title: El Mapa de tu Consciencia - Una Visión del Sistema de Mindfulness Cuántico y sus Dimensiones Psicodinámicas
 post_excerpt: "Explore the revolutionary Quantum Mindfulness framework, which maps the intricate architecture of consciousness through its Psychodynamic Dimensions. This post delves into how these fundamental building blocks interact to shape your experience, focusing on the Psycho-Motivational Dimension and the crucial Transitional Modalities that bridge inner states with outer action. Discover how understanding this internal map can empower you to transform intentions into tangible reality and achieve optimal self-mastery."
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Psychodynamic Dimensions"
+        - "Framework Principles"]
+    post_tag:
+        - ["quantum mindfulness"
+        - "psychodynamic dimensions"
+        - "consciousness architecture"
+        - "internal landscape"
+        - "personal development"
+        - "volitional awareness"
+        - "mind-body connection"]
 ---
-
 ### El Mapa de tu Consciencia: Una Visión del Sistema de Mindfulness Cuántico y sus Dimensiones Psicodinámicas
 
 ¿Alguna vez te has detenido a considerar la asombrosa complejidad de tu mundo interior? ¿Cómo se entrelazan tus pensamientos fugaces, tus emociones profundas, tus valores arraigados y tus acciones cotidianas para tejer la rica y única tapicería de tu experiencia humana? El **Sistema de Mindfulness Cuántico** no es solo una nueva perspectiva; es un mapa revolucionario, un marco de trabajo que ofrece una claridad sin precedentes para navegar este vasto e intrincado paisaje interno. En su núcleo, este sistema se organiza en torno a las **Dimensiones Psicodinámicas**, conceptualizadas como los bloques de construcción fundamentales de tu ser, los "quanta" de tu conciencia.

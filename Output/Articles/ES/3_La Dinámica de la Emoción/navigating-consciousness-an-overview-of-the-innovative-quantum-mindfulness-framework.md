@@ -1,8 +1,23 @@
 ---
-title: Navigating Consciousness: An Overview of the Innovative Quantum Mindfulness Framework
-categories: ["Core Concepts", "Psychodynamic Dimensions", "Prime Modality"]
-tags: ["Quantum Mindfulness", "Consciousness", "Psychodynamic Dimensions", "Prime Modality", "Volition", "Intuition", "Analytical Reasoning", "Cognitive Superposition", "Psychological Entanglement", "Perceptual Freedom", "Personal Growth"]
+title: Navigating Consciousness - An Overview of the Innovative Quantum Mindfulness Framework
 post_excerpt: "Explore the Quantum Mindfulness framework, a revolutionary model that unveils the dynamic architecture of your mind. Delve into the Psychodynamic Dimensions, particularly the foundational Prime Modality (Psycho-Volitional, Psycho-Conceptive, and Psycho-Meditative Dimensions), which govern perception, intention, and understanding. Discover how these interconnected forces shape your reality and offer pathways for profound self-understanding and intentional growth."
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Psychodynamic Dimensions"
+        - "Prime Modality"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Consciousness"
+        - "Psychodynamic Dimensions"
+        - "Prime Modality"
+        - "Volition"
+        - "Intuition"
+        - "Analytical Reasoning"
+        - "Cognitive Superposition"
+        - "Psychological Entanglement"
+        - "Perceptual Freedom"
+        - "Personal Growth"]
 ---
 ### Navigating Consciousness: An Overview of the Innovative Quantum Mindfulness Framework
 

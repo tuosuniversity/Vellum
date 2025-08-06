@@ -1,8 +1,19 @@
 ---
-title: Más Allá del Aquí y Ahora: Los Orígenes y la Evolución del Mindfulness Cuántico en la Consciencia Moderna
-categories: ["Framework Principles", "Mindfulness Approaches", "Psychodynamic Dimensions"]
-tags: ["Quantum Mindfulness", "Psychodynamic Dimensions", "Cognitive Appraisal", "Perceptual Freedom", "Conscious Observation", "Superposition", "Consciousness Refinement"]
+title: Más Allá del Aquí y Ahora - Los Orígenes y la Evolución del Mindfulness Cuántico en la Consciencia Moderna
 post_excerpt: Explore la profunda evolución desde el mindfulness tradicional hasta el Mindfulness Cuántico, entendiendo cómo nuestra observación consciente moldea activamente la realidad. Este marco nos empodera para ir más allá de la mera aceptación y pasar a influir activamente en los procesos psicodinámicos subyacentes que generan nuestras experiencias, fomentando una verdadera libertad perceptual y agencia cognitiva.
+taxonomy:
+    category:
+        - ["Framework Principles"
+        - "Mindfulness Approaches"
+        - "Psychodynamic Dimensions"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Psychodynamic Dimensions"
+        - "Cognitive Appraisal"
+        - "Perceptual Freedom"
+        - "Conscious Observation"
+        - "Superposition"
+        - "Consciousness Refinement"]
 ---
 ### Más Allá del Aquí y Ahora: Los Orígenes y la Evolución del Mindfulness Cuántico en la Consciencia Moderna
 

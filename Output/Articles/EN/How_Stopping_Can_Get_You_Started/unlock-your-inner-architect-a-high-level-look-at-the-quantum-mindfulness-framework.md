@@ -1,10 +1,21 @@
 ---
-title: Unlock Your Inner Architect: A High-Level Look at the Quantum Mindfulness Framework
-categories: ["Core Concepts", "Perception", "Practices"]
-tags: ["Quantum Mindfulness", "Active Mastery", "Psychodynamic Dimensions", "Conscious Observation", "Volitional Reframing", "Cognitive Superposition", "Perceptual Freedom", "Inner Architecture"]
+title: Unlock Your Inner Architect - A High-Level Look at the Quantum Mindfulness Framework
 post_excerpt: "This post explores the Quantum Mindfulness framework, an innovative approach to mastering your inner world. Learn how to shift from passive observation to actively shaping your reality by understanding the architecture of consciousness and employing volitional reframing techniques. Discover the power of 'The Pause that Sees' to become the conscious architect of your experiences."
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Perception"
+        - "Practices"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Active Mastery"
+        - "Psychodynamic Dimensions"
+        - "Conscious Observation"
+        - "Volitional Reframing"
+        - "Cognitive Superposition"
+        - "Perceptual Freedom"
+        - "Inner Architecture"]
 ---
-
 ### Unlock Your Inner Architect: A High-Level Look at the Quantum Mindfulness Framework
 
 Imagine possessing the ability to not just react to your experiences, but to actively shape them. To move beyond merely observing your thoughts and emotions to consciously influencing their very nature. This profound capacity lies at the core of the Quantum Mindfulness framework, a revolutionary approach to inner development that shifts you from being a passive recipient of your inner world to its conscious architect.

@@ -1,10 +1,22 @@
 ---
-title: Mapping Your Inner Landscape: A Quantum Mindfulness Framework for Subjective Experience
-categories: ["Formal Architecture", "Psychodynamic Dimensions", "Core Concepts"]
-tags: ["Quantum Mindfulness", "subjective experience", "psychodynamic dimensions", "consciousness", "cognitive appraisal", "mental states", "self-awareness", "inner landscape", "personal growth"]
+title: Mapping Your Inner Landscape - A Quantum Mindfulness Framework for Subjective Experience
 post_excerpt: Have you ever felt overwhelmed by your emotions or wondered why you react a certain way? The Quantum Mindfulness framework offers a systematic model to understand the intricate construction of your subjective reality. It empowers you with "Structural Awareness," enabling you to navigate and consciously influence your inner world.
+taxonomy:
+    category:
+        - ["Formal Architecture"
+        - "Psychodynamic Dimensions"
+        - "Core Concepts"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "subjective experience"
+        - "psychodynamic dimensions"
+        - "consciousness"
+        - "cognitive appraisal"
+        - "mental states"
+        - "self-awareness"
+        - "inner landscape"
+        - "personal growth"]
 ---
-
 ### Mapping Your Inner Landscape: A Quantum Mindfulness Framework for Subjective Experience
 
 Do you ever find yourself caught in the undertow of overwhelming emotions, seemingly appearing from nowhere? Or perhaps you've pondered the deeper reasons behind your consistent reactions to specific situations, feeling as though you're operating on an autopilot you can't quite decipher. The traditional answers often involve vague introspection, but the Quantum Mindfulness framework offers a profound alternative: a formal, systematic model that meticulously maps the "how" of your subjective experience. This sophisticated approach enables you to transcend merely feeling your mental states and begin to truly comprehend their intricate design and dynamic construction.

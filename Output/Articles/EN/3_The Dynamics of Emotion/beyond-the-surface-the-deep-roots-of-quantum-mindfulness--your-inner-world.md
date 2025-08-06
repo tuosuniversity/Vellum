@@ -1,10 +1,21 @@
 ---
-title: Beyond the Surface The Deep Roots of Quantum Mindfulness & Your Inner World
-categories: ["Framework Principles", "Psychodynamic Dimensions", "Core Concepts"]
-tags: ["Quantum Mindfulness", "Psychodynamic Dimensions", "Consciousness", "Mindfulness", "Psychology", "Self-Discovery", "Inner World", "Philosophical Roots"]
+title: "Beyond the Surface The Deep Roots of Quantum Mindfulness & Your Inner World"
 post_excerpt: Explore the profound historical and philosophical underpinnings of the Quantum Mindfulness framework, revealing how ancient wisdom and modern psychology converge to map the intricate landscape of our inner world. Discover the ten Psychodynamic Dimensions—the fundamental building blocks of consciousness—and understand their dynamic interplay in shaping our perceptions and experiences.
+taxonomy:
+    category:
+        - ["Framework Principles"
+        - "Psychodynamic Dimensions"
+        - "Core Concepts"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Psychodynamic Dimensions"
+        - "Consciousness"
+        - "Mindfulness"
+        - "Psychology"
+        - "Self-Discovery"
+        - "Inner World"
+        - "Philosophical Roots"]
 ---
-
 ### Beyond the Surface: The Deep Roots of Quantum Mindfulness & Your Inner World
 
 The human mind is an extraordinary frontier, a complex tapestry woven from intricate processes, fleeting thoughts, and profound emotions. Yet, for centuries, humanity has sought a definitive map of this inner landscape, a way to understand the fundamental mechanics that shape our awareness and personality. The Quantum Mindfulness framework offers precisely such a map, introducing the concept of **Psychodynamic Dimensions** as the core elements of our inner world. This innovative framework isn't built on entirely new ground; rather, it synthesizes profound insights from centuries of psychological and philosophical inquiry into a cohesive, dynamic model that illuminates the very architecture of consciousness.

@@ -1,20 +1,20 @@
 ---
-title: Unlock Your True Potential: A High-Level Guide to the Quantum Mindfulness Framework
-categories:
-  - Framework Principles
-  - Therapeutic Strategies
-  - Practices
-tags:
-  - Quantum Mindfulness
-  - Inherited Scripts
-  - Self-Mastery
-  - Authentic Self-Origination
-  - Cognitive Liberty
-  - Perceptual Freedom
-  - Psychodynamic Dimensions
+title: Unlock Your True Potential - A High-Level Guide to the Quantum Mindfulness Framework
 post_excerpt: Discover the Quantum Mindfulness Framework, a revolutionary approach to liberating your authentic self from the subtle yet pervasive influence of "Inherited Scripts." This comprehensive guide explores how to recognize and dismantle unconscious patterns, fostering genuine self-origination and cognitive liberty for a life of conscious co-creation.
+taxonomy:
+    category:
+        - Framework Principles
+        - Therapeutic Strategies
+        - Practices
+    post_tag:
+        - Quantum Mindfulness
+        - Inherited Scripts
+        - Self-Mastery
+        - Authentic Self-Origination
+        - Cognitive Liberty
+        - Perceptual Freedom
+        - Psychodynamic Dimensions
 ---
-
 ### Unlock Your True Potential: A High-Level Guide to the Quantum Mindfulness Framework
 
 Imagine a life where your thoughts, feelings, and actions are truly your own, unburdened by invisible programs running in the background. Imagine shedding the layers of external programming that have unknowingly shaped your perceptions, allowing your true, authentic self to emerge. This isn't a distant dream; it's the profound promise of the Quantum Mindfulness Framework, a specialized and comprehensive approach designed to help you recognize, understand, and move beyond the pervasive influence of what we term "Inherited Scripts."

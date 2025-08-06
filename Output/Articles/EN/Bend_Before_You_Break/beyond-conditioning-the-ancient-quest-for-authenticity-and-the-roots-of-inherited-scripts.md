@@ -1,10 +1,20 @@
 ---
-title: Beyond Conditioning: The Ancient Quest for Authenticity and the Roots of "Inherited Scripts"
-categories: ["Core Concepts", "Challenges and Limitations", "Therapeutic Strategies"]
-tags: ["Inherited Scripts", "Ontological Misalignment", "Authenticity", "Psychodynamic Dimensions", "Conscious Reality Construction", "Self-Liberation", "Perception"]
+title: Beyond Conditioning - The Ancient Quest for Authenticity and the Roots of "Inherited Scripts"
 post_excerpt: For millennia, humanity has grappled with the profound question of self-determination versus external influence. This article delves into the Quantum Mindfulness framework's concept of "Inherited Scripts," exploring how pervasive societal and cultural conditioning shapes our perceived reality and can lead to a fundamental "ontological misalignment." Discover how the Quantum Mindfulness approach offers a transformative path to liberate the authentic self from these deeply ingrained patterns, fostering true perceptual freedom and self-sovereignty.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Challenges and Limitations"
+        - "Therapeutic Strategies"]
+    post_tag:
+        - ["Inherited Scripts"
+        - "Ontological Misalignment"
+        - "Authenticity"
+        - "Psychodynamic Dimensions"
+        - "Conscious Reality Construction"
+        - "Self-Liberation"
+        - "Perception"]
 ---
-
 ### Beyond Conditioning: The Ancient Quest for Authenticity and the Roots of "Inherited Scripts"
 
 For centuries, philosophers, spiritual leaders, and thinkers have grappled with a fundamental human question: Are we truly free, or are our lives predetermined by forces beyond our control? This timeless inquiry lies at the very heart of what the Quantum Mindfulness framework identifies as "Inherited Scripts" and the resulting "ontological misalignment." It's a journey from passive reception to active co-creation of our reality.

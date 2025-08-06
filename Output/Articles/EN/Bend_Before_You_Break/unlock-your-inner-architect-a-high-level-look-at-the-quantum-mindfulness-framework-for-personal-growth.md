@@ -1,21 +1,21 @@
 ---
 title: Unlock Your Inner Architect A High-Level Look at the Quantum Mindfulness Framework for Personal Growth
-categories:
-  - Framework Principles
-  - Core Concepts
-  - Practices
-tags:
-  - Quantum Mindfulness
-  - Personal Growth
-  - Consciousness
-  - Self-Mastery
-  - Perception
-  - Psychodynamic Dimensions
-  - Cognitive Agency
 post_excerpt: >
-  Dive into the Quantum Mindfulness framework, a revolutionary approach that posits you as the active architect of your reality. Moving beyond passive observation, this framework reveals how your conscious attention and inner "Psychodynamic Dimensions" actively shape your experience, offering a powerful path to self-mastery and perceptual freedom.
+Dive into the Quantum Mindfulness framework, a revolutionary approach that posits you as the active architect of your reality. Moving beyond passive observation, this framework reveals how your conscious attention and inner "Psychodynamic Dimensions" actively shape your experience, offering a powerful path to self-mastery and perceptual freedom.
+taxonomy:
+    category:
+        - Framework Principles
+        - Core Concepts
+        - Practices
+    post_tag:
+        - Quantum Mindfulness
+        - Personal Growth
+        - Consciousness
+        - Self-Mastery
+        - Perception
+        - Psychodynamic Dimensions
+        - Cognitive Agency
 ---
-
 ### Unlock Your Inner Architect: A High-Level Look at the Quantum Mindfulness Framework for Personal Growth
 
 Have you ever felt like a passive observer of your own life, simply reacting to circumstances as they unfold? What if, instead, you were the active architect of your inner world, consciously shaping your perceptions and, by extension, your reality? This profound shift in perspective lies at the heart of the Quantum Mindfulness (QM) framework, an advanced approach to psychological well-being and personal growth that moves beyond traditional mindfulness to empower you as a deliberate co-creator of your experience.

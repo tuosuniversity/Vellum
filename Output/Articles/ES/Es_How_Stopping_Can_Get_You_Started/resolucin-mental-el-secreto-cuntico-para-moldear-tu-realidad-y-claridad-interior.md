@@ -1,23 +1,24 @@
 ---
-title: Resolución Mental: El Secreto Cuántico para Moldear Tu Realidad y Claridad Interior
-categories:
-  - Core Concepts
-  - Psychodynamic Dimensions
-  - Human Capacities
-tags:
-  - Quantum Mindfulness
-  - Mental Resolution
-  - Psychodynamic Wave Collapse
-  - Psycho-Volitional Dimension
-  - Psycho-Transpersonal Dimension
-  - Coherent Agency
-  - Inner Clarity
-  - Conscious Reality Construction
-  - Perception
-  - Intentionality
-  - Self-Mastery
+title: Resolución Mental - El Secreto Cuántico para Moldear Tu Realidad y Claridad Interior
 post_excerpt: >
-  This post explores "Resolution," a core concept in Quantum Mindfulness, revealing how our minds actively shape reality. It delves into the interplay of the Psycho-Transpersonal Signal and Psycho-Volitional Impulse, essential for achieving "Coherent Agency" and authentic self-expression. Discover how understanding this foundational process unlocks inner clarity and purpose, transforming how you engage with life.
+This post explores "Resolution," a core concept in Quantum Mindfulness, revealing how our minds actively shape reality. It delves into the interplay of the Psycho-Transpersonal Signal and Psycho-Volitional Impulse, essential for achieving "Coherent Agency" and authentic self-expression. Discover how understanding this foundational process unlocks inner clarity and purpose, transforming how you engage with life.
+taxonomy:
+    category:
+        - Core Concepts
+        - Psychodynamic Dimensions
+        - Human Capacities
+    post_tag:
+        - Quantum Mindfulness
+        - Mental Resolution
+        - Psychodynamic Wave Collapse
+        - Psycho-Volitional Dimension
+        - Psycho-Transpersonal Dimension
+        - Coherent Agency
+        - Inner Clarity
+        - Conscious Reality Construction
+        - Perception
+        - Intentionality
+        - Self-Mastery
 ---
 ### Resolución Mental: El Secreto Cuántico para Moldear Tu Realidad y Claridad Interior
 

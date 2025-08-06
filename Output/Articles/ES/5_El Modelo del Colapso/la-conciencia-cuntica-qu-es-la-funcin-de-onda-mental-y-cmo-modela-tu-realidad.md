@@ -1,10 +1,22 @@
 ---
-title: La Conciencia Cuántica: ¿Qué es la Función de Onda Mental y Cómo Modela Tu Realidad?
-categories: ["Core Concepts", "Framework Principles", "Perception"]
-tags: ["Quantum Mindfulness", "Mental Wave Function", "Cognitive Superposition", "Psychodynamic Collapse", "Conscious Attention", "Reality Construction", "Perceptual Freedom", "Self-Mastery", "Consciousness"]
+title: La Conciencia Cuántica - ¿Qué es la Función de Onda Mental y Cómo Modela Tu Realidad?
 post_excerpt: "¿Te has preguntado por qué tu realidad parece diferente a la de otros? El marco de la Conciencia Cuántica introduce la 'Función de Onda Mental' y la 'Superposición Cognitiva', revelando cómo tu mente no es un receptor pasivo, sino un cocreador activo de tu experiencia. Descubre cómo tu atención consciente 'colapsa' un campo de infinitas posibilidades en la realidad que vives, y cómo puedes dominar este proceso para una vida de mayor intención y libertad."
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Framework Principles"
+        - "Perception"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Mental Wave Function"
+        - "Cognitive Superposition"
+        - "Psychodynamic Collapse"
+        - "Conscious Attention"
+        - "Reality Construction"
+        - "Perceptual Freedom"
+        - "Self-Mastery"
+        - "Consciousness"]
 ---
-
 ### La Conciencia Cuántica: ¿Qué es la Función de Onda Mental y Cómo Modela Tu Realidad?
 
 ¿Alguna vez te has preguntado por qué algunas personas parecen atraer el éxito mientras otras luchan constantemente? ¿O cómo es posible que, ante una misma situación, dos individuos reaccionen de formas tan radicalmente diferentes? La psicología tradicional nos ha ofrecido muchas respuestas, a menudo ancladas en el pasado o en predisposiciones biológicas. Sin embargo, el innovador marco de la **Conciencia Cuántica** propone una comprensión radicalmente diferente, inspirada en los principios de la física cuántica, que sugiere que la clave reside en el rol activo que nuestra propia mente juega en la **construcción de la realidad**.

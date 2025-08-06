@@ -1,10 +1,23 @@
 ---
-title: Beyond Busy: How Your Mind's "Resolution" Power Shapes Your Reality & Why It Matters for Mindfulness
-categories: ["Core Concepts", "Psychodynamic Dimensions", "Human Capacities"]
-tags: ["Quantum Mindfulness", "Consciousness", "Mindfulness", "Psychodynamic Wave Collapse", "Psycho-Volitional Dimension", "Psycho-Transpersonal Dimension", "Coherent Agency", "Perception", "Self-expression", "Active Mastery"]
+title: "Beyond Busy - How Your Mind's "Resolution" Power Shapes Your Reality & Why It Matters for Mindfulness"
 post_excerpt: This post explores the Quantum Mindfulness concept of "Resolution," the mind's active power to shape reality from infinite potential. It delves into how the Psycho-Volitional Drive (Pd1) and Psycho-Transpersonal Signal (Pd10) dynamically interact to foster "Coherent Agency," enabling authentic self-expression and purposeful living. Discover how understanding these core psychodynamic processes can unlock greater clarity and alignment in your daily life.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Psychodynamic Dimensions"
+        - "Human Capacities"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Consciousness"
+        - "Mindfulness"
+        - "Psychodynamic Wave Collapse"
+        - "Psycho-Volitional Dimension"
+        - "Psycho-Transpersonal Dimension"
+        - "Coherent Agency"
+        - "Perception"
+        - "Self-expression"
+        - "Active Mastery"]
 ---
-
 ### Beyond Busy: How Your Mind's "Resolution" Power Shapes Your Reality & Why It Matters for Mindfulness
 
 In our fast-paced, information-saturated world, it’s all too easy to feel like our minds are merely passive recipients, endlessly reacting to an overwhelming torrent of data and demands. We often perceive ourselves as existing *within* a reality that is fixed and external, rather than recognizing our profound, active role in its very creation. But what if your mind was less like a humble receiver and more like a masterful architect, constantly sculpting the contours of your experience? In Quantum Mindfulness, we delve into a profound and often overlooked concept that stands at the very heart of your mental life: **Resolution**, or more formally, **Psychodynamic Wave Collapse**.

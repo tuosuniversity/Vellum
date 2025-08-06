@@ -1,10 +1,24 @@
 ---
-title: Conciencia Testigo: Las Raíces Filosóficas y Espirituales de la Observación sin Juicios
-categories: ["Core Concepts", "Mindfulness Approaches", "Practices"]
-tags: ["Witness Consciousness", "Mindfulness", "Quantum Mindfulness", "Psychodynamic Dimensions", "Cognitive Superposition", "Perceptual Freedom", "Active Mastery", "Contemplation", "Vipassanā", "Stoicism", "Self-Transformation"]
+title: Conciencia Testigo - Las Raíces Filosóficas y Espirituales de la Observación sin Juicios
 post_excerpt: "Este artículo explora el concepto de Conciencia Testigo, un pilar del mindfulness, y rastrea sus orígenes en tradiciones filosóficas y espirituales como el Budismo y el Estoicismo. Se profundiza en cómo el marco de Quantum Mindfulness eleva esta observación pasiva a una herramienta activa para la remodelación consciente de la realidad interior, transformando al individuo en un arquitecto de su propia experiencia mental."
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Mindfulness Approaches"
+        - "Practices"]
+    post_tag:
+        - ["Witness Consciousness"
+        - "Mindfulness"
+        - "Quantum Mindfulness"
+        - "Psychodynamic Dimensions"
+        - "Cognitive Superposition"
+        - "Perceptual Freedom"
+        - "Active Mastery"
+        - "Contemplation"
+        - "Vipassanā"
+        - "Stoicism"
+        - "Self-Transformation"]
 ---
-
 ### Conciencia Testigo: Las Raíces Filosóficas y Espirituales de la Observación sin Juicios
 
 En el corazón de la transformación personal yace una verdad intemporal: la capacidad de observar nuestros propios pensamientos y emociones sin quedar atrapados en ellos. Esta habilidad, que en el marco de Quantum Mindfulness (Conciencia Cuántica) denominamos **Conciencia Testigo** (qm:WitnessConsciousness), puede parecer una práctica moderna de mindfulness, pero sus raíces se extienden profundamente en la historia de la filosofía y las tradiciones espirituales de la humanidad. Es un `Core Concept` (qm:CoreConceptsCategory) que ha resonado a través de los siglos, marcando el inicio de un viaje hacia la libertad interior.

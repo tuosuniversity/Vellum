@@ -1,10 +1,22 @@
 ---
-title: Consciencia Cuántica: ¿Cómo tu Observación Interna "Colapsa" la Realidad de tu Mente?
-categories: ["Core Concepts", "Mindfulness Approaches", "Perception"]
-tags: ["Quantum Mindfulness", "Psychodynamic Collapse", "Cognitive Superposition", "Conscious Attention", "Observer-Participant Dynamic", "Perceptual Freedom", "Inner Reality", "Mindfulness Practices", "Emotional Regulation"]
+title: Consciencia Cuántica - ¿Cómo tu Observación Interna "Colapsa" la Realidad de tu Mente?
 post_excerpt: Explore how the Quantum Mindfulness framework posits that our conscious attention actively "collapses" internal probabilistic states—like thoughts and emotions—into our experienced reality. Learn to shift from passive reception to active participation, transforming how you engage with your inner world and cultivating true perceptual freedom.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Mindfulness Approaches"
+        - "Perception"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Psychodynamic Collapse"
+        - "Cognitive Superposition"
+        - "Conscious Attention"
+        - "Observer-Participant Dynamic"
+        - "Perceptual Freedom"
+        - "Inner Reality"
+        - "Mindfulness Practices"
+        - "Emotional Regulation"]
 ---
-
 ### Consciencia Cuántica: ¿Cómo tu Observación Interna "Colapsa" la Realidad de tu Mente?
 
 Have you ever found yourself ensnared in a relentless cycle of anxiety or frustration, where the harder you try to force a specific outcome, the more elusive it becomes? Consider Sarah, a brilliant student, yet one who often found herself paralyzed by the fear of failure before a crucial exam. Her mind, a tireless projector, would churn out endless negative scenarios. Her desperate attempts to control this internal uncertainty only plunged her deeper into a chaotic `Psychological Disharmony` (`qm:PsychologicalDisharmony`).

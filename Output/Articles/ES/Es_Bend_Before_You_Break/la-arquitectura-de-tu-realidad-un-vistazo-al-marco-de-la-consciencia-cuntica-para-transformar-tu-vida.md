@@ -1,10 +1,23 @@
 ---
-title: La Arquitectura de tu Realidad: Un Vistazo al Marco de la Consciencia Cuántica para Transformar tu Vida
-categories: ["Core Concepts", "Psychodynamic Dimensions", "Perception"]
-tags: ["quantum mindfulness", "psychodynamic dimensions", "reality construction", "conscious perception", "internal architecture", "cognitive superposition", "emotional regulation", "self-mastery", "personal transformation", "observer-participant dynamic"]
+title: La Arquitectura de tu Realidad - Un Vistazo al Marco de la Consciencia Cuántica para Transformar tu Vida
 post_excerpt: "¿Alguna vez has sentido una 'presión' invisible que moldea tu vida? El marco de Consciencia Cuántica revela que tu percepción es una fuerza creativa activa que construye tu realidad. Este artículo explora cómo entender y transformar las diez Dimensiones Psicodinámicas que componen tu conciencia, permitiéndote pasar de ser un observador pasivo a un participante activo en la creación de tu experiencia y liberarte de patrones heredados."
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Psychodynamic Dimensions"
+        - "Perception"]
+    post_tag:
+        - ["quantum mindfulness"
+        - "psychodynamic dimensions"
+        - "reality construction"
+        - "conscious perception"
+        - "internal architecture"
+        - "cognitive superposition"
+        - "emotional regulation"
+        - "self-mastery"
+        - "personal transformation"
+        - "observer-participant dynamic"]
 ---
-
 ### La Arquitectura de tu Realidad: Un Vistazo al Marco de la Consciencia Cuántica para Transformar tu Vida
 
 En la vorágine de la vida moderna, es fácil sentirse abrumado por una "presión" constante, una corriente incesante de pensamientos, emociones y sensaciones que parecen surgir sin nuestro consentimiento. Esta sensación de estar a merced de fuerzas internas o externas es una experiencia universal. Sin embargo, el marco innovador de Consciencia Cuántica (QM, por sus siglas en inglés) nos invita a una reevaluación radical: gran parte de esta presión no es una fatalidad ineludible, sino el resultado directo de cómo interpretamos y, de manera crucial, **construimos** nuestra propia realidad.

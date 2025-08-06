@@ -1,18 +1,19 @@
 ---
-title: Discover the Quantum Mindfulness Framework: A Holistic Path to Inner Transformation
-categories:
-  - Psychodynamic Dimensions
-  - Framework Principles
-  - Mindfulness Approaches
-tags:
-  - Quantum Mindfulness
-  - Inner Transformation
-  - Psychodynamic Dimensions
-  - Conscious Reality Construction
-  - Cognitive Agency
-  - Personal Development
-  - Emotional Intelligence
+title: Discover the Quantum Mindfulness Framework - A Holistic Path to Inner Transformation
 post_excerpt: Explore the Quantum Mindfulness framework, a revolutionary approach that goes beyond traditional mindfulness to offer a multi-dimensional path to inner transformation. This comprehensive system guides you through understanding core beliefs, harnessing inner drive, and fostering profound connections, empowering you to actively shape your reality and unlock your true potential.
+taxonomy:
+    category:
+        - Psychodynamic Dimensions
+        - Framework Principles
+        - Mindfulness Approaches
+    post_tag:
+        - Quantum Mindfulness
+        - Inner Transformation
+        - Psychodynamic Dimensions
+        - Conscious Reality Construction
+        - Cognitive Agency
+        - Personal Development
+        - Emotional Intelligence
 ---
 ### Discover the Quantum Mindfulness Framework: A Holistic Path to Inner Transformation
 

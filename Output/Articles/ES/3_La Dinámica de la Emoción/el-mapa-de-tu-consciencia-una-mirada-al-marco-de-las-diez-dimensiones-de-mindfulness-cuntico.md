@@ -1,11 +1,23 @@
 ---
-title: El Mapa de Tu Consciencia: Una Mirada al Marco de las Diez Dimensiones de Mindfulness Cuántico
-categories: ["Core Concepts", "Framework Principles", "Psychodynamic Dimensions"]
-tags: ["Quantum Mindfulness", "consciencia encarnada", "dimensiones psicodinámicas", "conexión mente-cuerpo", "campo de consciencia", "Dimensión Psico-Receptiva", "autoconocimiento", "equilibrio psicológico", "desarrollo personal"]
+title: El Mapa de Tu Consciencia - Una Mirada al Marco de las Diez Dimensiones de Mindfulness Cuántico
 post_excerpt: >
-  Adéntrate en el revolucionario marco de Quantum Mindfulness, que redefine nuestra comprensión de la consciencia. Este artículo explora los principios fundamentales de la consciencia encarnada y el modelo de "consciencia como campo", revelando cómo nuestros pensamientos y sentimientos se manifiestan en nuestra realidad física y vivida a través de la interacción dinámica de diez dimensiones psicodinámicas. Descubre cómo esta sofisticada síntesis ofrece un camino práctico hacia un autoconocimiento más profundo y un bienestar integral.
+Adéntrate en el revolucionario marco de Quantum Mindfulness, que redefine nuestra comprensión de la consciencia. Este artículo explora los principios fundamentales de la consciencia encarnada y el modelo de "consciencia como campo", revelando cómo nuestros pensamientos y sentimientos se manifiestan en nuestra realidad física y vivida a través de la interacción dinámica de diez dimensiones psicodinámicas. Descubre cómo esta sofisticada síntesis ofrece un camino práctico hacia un autoconocimiento más profundo y un bienestar integral.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Framework Principles"
+        - "Psychodynamic Dimensions"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "consciencia encarnada"
+        - "dimensiones psicodinámicas"
+        - "conexión mente-cuerpo"
+        - "campo de consciencia"
+        - "Dimensión Psico-Receptiva"
+        - "autoconocimiento"
+        - "equilibrio psicológico"
+        - "desarrollo personal"]
 ---
-
 ### El Mapa de Tu Consciencia: Una Mirada al Marco de las Diez Dimensiones de Mindfulness Cuántico
 
 ¿Alguna vez te has detenido a reflexionar sobre la misteriosa alquimia que transforma tus pensamientos más íntimos y tus sentimientos más profundos en la palpable realidad que experimentas? La inquisición sobre la naturaleza de la consciencia humana es tan antigua como la civilización misma. Desde los enigmas planteados por los filósofos griegos hasta las complejas teorías de la psicología moderna, la humanidad ha buscado incansablemente descifrar cómo nuestra vida interior se entrelaza y se manifiesta en el mundo exterior. El marco de **Mindfulness Cuántico** no solo se une a esta conversación milenaria, sino que la eleva, ofreciendo una perspectiva radicalmente unificada y profundamente conectada de la experiencia consciente.

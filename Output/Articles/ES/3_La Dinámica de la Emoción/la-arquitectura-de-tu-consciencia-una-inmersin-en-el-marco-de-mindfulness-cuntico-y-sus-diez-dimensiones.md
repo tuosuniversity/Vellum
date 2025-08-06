@@ -1,10 +1,22 @@
 ---
-title: La Arquitectura de Tu Consciencia: Una Inmersión en el Marco de Mindfulness Cuántico y Sus Diez Dimensiones
-categories: ["Psychodynamic Dimensions", "Framework Principles", "Core Concepts"]
-tags: ["Quantum Mindfulness", "Consciousness Architecture", "Psychodynamic Dimensions", "Self-awareness", "Emotional Intelligence", "Personal Growth", "Mindfulness Practices", "Perceptual Freedom", "Inner Harmony"]
+title: La Arquitectura de Tu Consciencia - Una Inmersión en el Marco de Mindfulness Cuántico y Sus Diez Dimensiones
 post_excerpt: "Discover the Quantum Mindfulness framework and its revolutionary view of consciousness as an actively constructed experience shaped by ten fundamental Psychodynamic Dimensions. This article explores how understanding these interconnected dimensions empowers you to navigate your inner world, foster dynamic equilibrium, and unlock your fullest human potential."
+taxonomy:
+    category:
+        - ["Psychodynamic Dimensions"
+        - "Framework Principles"
+        - "Core Concepts"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Consciousness Architecture"
+        - "Psychodynamic Dimensions"
+        - "Self-awareness"
+        - "Emotional Intelligence"
+        - "Personal Growth"
+        - "Mindfulness Practices"
+        - "Perceptual Freedom"
+        - "Inner Harmony"]
 ---
-
 ### La Arquitectura de Tu Consciencia: Una Inmersión en el Marco de Mindfulness Cuántico y Sus Diez Dimensiones
 
 ¿Alguna vez te has sentido como si tu mente fuera un complejo laberinto, con pensamientos, emociones y motivaciones que parecen surgir de la nada o chocar entre sí? En la búsqueda de claridad y propósito, el **Marco de Mindfulness Cuántico** emerge como una guía indispensable, ofreciendo no solo un mapa claro sino una brújula para navegar la intrincada **arquitectura psicodinámica** de tu propia consciencia. Este enfoque no se limita a describir lo que experimentas; profundiza en el cómo se construye, revelando los mecanismos subyacentes de tu realidad interior.

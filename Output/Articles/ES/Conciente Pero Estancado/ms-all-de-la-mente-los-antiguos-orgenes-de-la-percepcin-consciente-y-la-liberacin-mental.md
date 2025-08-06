@@ -1,10 +1,21 @@
 ---
-title: Más Allá de la Mente: Los Antiguos Orígenes de la Percepción Consciente y la Liberación Mental
-categories: ["Core Concepts", "Mindfulness Approaches", "Perception"]
-tags: ["Quantum Mindfulness", "Perception", "Conscious Awareness", "Psychodynamic Dimensions", "Cognitive Superposition", "Psychodynamic Wave Collapse", "Inherited Scripts", "Active Mastery"]
+title: Más Allá de la Mente - Los Antiguos Orígenes de la Percepción Consciente y la Liberación Mental
 post_excerpt: Explore how the Quantum Mindfulness framework synthesizes ancient wisdom traditions with modern psychological understanding to empower individuals to reshape their experienced reality. Delve into the core concepts of Psychodynamic Wave Collapse and the liberation from Inherited Scripts, revealing how conscious perception acts as a powerful, transformative force.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Mindfulness Approaches"
+        - "Perception"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Perception"
+        - "Conscious Awareness"
+        - "Psychodynamic Dimensions"
+        - "Cognitive Superposition"
+        - "Psychodynamic Wave Collapse"
+        - "Inherited Scripts"
+        - "Active Mastery"]
 ---
-
 ### Más Allá de la Mente: Los Antiguos Orígenes de la Percepción Consciente y la Liberación Mental
 
 La profunda intuición de que nuestra percepción de la realidad no es una recepción pasiva, sino una construcción activa moldeada por nuestros pensamientos y experiencias, ha sido un pilar central en la búsqueda de la sabiduría humana a lo largo de los milenios. Desde los albores de la filosofía, sabios y pensadores de diversas tradiciones han anhelado "limpiar la pizarra" mental, trascender los filtros habituales y ver el mundo con "ojos frescos". Esta aspiración ancestral, tan antigua como la civilización misma, encuentra una resonancia moderna y una aplicación estructurada en el marco de la Consciencia Cuántica (Quantum Mindfulness).

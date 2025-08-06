@@ -1,8 +1,19 @@
 ---
-title: Your Psyche's Blueprint: A High-Level Glimpse into the Quantum Mindfulness Framework
-categories: ["Core Concepts", "Psychodynamic Dimensions", "Framework Principles"]
-tags: ["Quantum Mindfulness", "Psychodynamic Dimensions", "Psycho-Protective Dimension", "Psycho-Empathic Dimension", "Psycho-Aesthetic Dimension", "Consciousness Refinement", "Psychological Sovereignty"]
+title: Your Psyche's Blueprint - A High-Level Glimpse into the Quantum Mindfulness Framework
 post_excerpt: "Discover the Quantum Mindfulness framework, a revolutionary model for understanding your mind's intricate 'inner architecture.' This post delves into the crucial Psycho-Protective Dimension and its dynamic interplay with other psychodynamic forces, offering a blueprint for cultivating psychological balance and sovereignty."
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Psychodynamic Dimensions"
+        - "Framework Principles"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Psychodynamic Dimensions"
+        - "Psycho-Protective Dimension"
+        - "Psycho-Empathic Dimension"
+        - "Psycho-Aesthetic Dimension"
+        - "Consciousness Refinement"
+        - "Psychological Sovereignty"]
 ---
 ### Your Psyche's Blueprint: A High-Level Glimpse into the Quantum Mindfulness Framework
 

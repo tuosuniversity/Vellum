@@ -1,10 +1,23 @@
 ---
-title: Desbloquea Tu Consciencia: Cómo el Modelo Observador-Participante del Mindfulness Cuántico Moldea Tu Realidad
-categories: ["Core Concepts", "Framework Principles", "Perception"]
-tags: ["Quantum Mindfulness", "Observer-Participant Model", "Conscious Attention", "Psychodynamic Wave Collapse", "Inherited Scripts", "Cognitive Superposition", "Perceptual Freedom", "Active Mastery", "Self-Sovereignty", "Consciousness"]
+title: Desbloquea Tu Consciencia - Cómo el Modelo Observador-Participante del Mindfulness Cuántico Moldea Tu Realidad
 post_excerpt: Este artículo profundiza en el Modelo Observador-Participante del Mindfulness Cuántico, revelando cómo nuestra atención consciente no es un receptor pasivo, sino un participante activo en la configuración de nuestra realidad interna. Aprenderás a identificar y a influir en los patrones arraigados, trascendiendo el "Síndrome de Identidad Comprimida" para cultivar una auténtica arquitectura soberana y una verdadera libertad perceptual.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Framework Principles"
+        - "Perception"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Observer-Participant Model"
+        - "Conscious Attention"
+        - "Psychodynamic Wave Collapse"
+        - "Inherited Scripts"
+        - "Cognitive Superposition"
+        - "Perceptual Freedom"
+        - "Active Mastery"
+        - "Self-Sovereignty"
+        - "Consciousness"]
 ---
-
 ### Desbloquea Tu Consciencia: Cómo el Modelo Observador-Participante del Mindfulness Cuántico Moldea Tu Realidad
 
 ¿Alguna vez te has sentido como un mero espectador de tu propia vida? Como si las circunstancias externas, las expectativas de los demás o incluso tus propios pensamientos automáticos dictaran tu camino, dejándote con una persistente sensación de inautenticidad. Esta experiencia, que en el marco del Quantum Mindfulness denominamos **Síndrome de Identidad Comprimida**, es la sensación de que tu verdadero yo está sofocado bajo capas de condicionamiento. Pero, ¿qué pasaría si tu atención consciente no fuera un receptor pasivo, sino un participante activo en la co-creación de tu realidad?

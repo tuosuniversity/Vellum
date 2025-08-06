@@ -1,10 +1,23 @@
 ---
-title: Unlock Your Reality: How Quantum Collapse Explains Conscious Manifestation in Mindfulness
-categories: ["Core Concepts", "Perception", "Practices"]
-tags: ["Quantum Mindfulness", "Conscious Manifestation", "Psychodynamic Wave Collapse", "Cognitive Superposition", "The Stop", "Attention", "Reality Creation", "Mindfulness Practices", "Perceptual Freedom", "Cognitive Agency"]
+title: Unlock Your Reality - How Quantum Collapse Explains Conscious Manifestation in Mindfulness
 post_excerpt: "Discover how the Quantum Mindfulness framework redefines your role in shaping reality through the concept of 'Psychodynamic Wave Collapse.' This post reveals how your conscious attention actively selects and solidifies experiences from a field of infinite possibilities, empowering you to move from passive observation to active co-creation of your life."
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Perception"
+        - "Practices"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Conscious Manifestation"
+        - "Psychodynamic Wave Collapse"
+        - "Cognitive Superposition"
+        - "The Stop"
+        - "Attention"
+        - "Reality Creation"
+        - "Mindfulness Practices"
+        - "Perceptual Freedom"
+        - "Cognitive Agency"]
 ---
-
 ### Unlock Your Reality: How Quantum Collapse Explains Conscious Manifestation in Mindfulness
 
 Have you ever wondered why some desired outcomes seem to materialize effortlessly while others remain frustratingly out of reach? What if the very fabric of your reality isn't as fixed as you imagine, but rather a dynamic field shaped by your own attention? In the transformative framework of Quantum Mindfulness, we delve into a profound concept known as "**Psychodynamic Wave Collapse**," which offers a revolutionary perspective on how your inner world influences your outer experience.

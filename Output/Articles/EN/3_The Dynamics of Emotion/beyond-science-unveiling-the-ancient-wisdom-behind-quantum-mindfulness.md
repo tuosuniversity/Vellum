@@ -1,19 +1,20 @@
 ---
-title: Beyond Science: Unveiling the Ancient Wisdom Behind Quantum Mindfulness
-categories:
-  - Core Concepts
-  - Framework Principles
-  - Prime Modality
-tags:
-  - Quantum Mindfulness
-  - Kabbalah
-  - Prime Modality
-  - Psychodynamic Dimensions
-  - Consciousness
-  - Spiritual Psychology
-  - Self-mastery
+title: Beyond Science - Unveiling the Ancient Wisdom Behind Quantum Mindfulness
 post_excerpt: >
-  Explore how the Quantum Mindfulness framework integrates cutting-edge psychology with ancient Kabbalistic wisdom. This post unveils the profound parallels between the Prime Modality's Psycho-Volitional, Psycho-Conceptive, and Psycho-Meditative dimensions and the Sefirot of Keter, Chokhmah, and Binah. Discover how this synthesis offers a deeper, more holistic path to understanding and mastering consciousness.
+Explore how the Quantum Mindfulness framework integrates cutting-edge psychology with ancient Kabbalistic wisdom. This post unveils the profound parallels between the Prime Modality's Psycho-Volitional, Psycho-Conceptive, and Psycho-Meditative dimensions and the Sefirot of Keter, Chokhmah, and Binah. Discover how this synthesis offers a deeper, more holistic path to understanding and mastering consciousness.
+taxonomy:
+    category:
+        - Core Concepts
+        - Framework Principles
+        - Prime Modality
+    post_tag:
+        - Quantum Mindfulness
+        - Kabbalah
+        - Prime Modality
+        - Psychodynamic Dimensions
+        - Consciousness
+        - Spiritual Psychology
+        - Self-mastery
 ---
 ### Beyond Science: Unveiling the Ancient Wisdom Behind Quantum Mindfulness
 

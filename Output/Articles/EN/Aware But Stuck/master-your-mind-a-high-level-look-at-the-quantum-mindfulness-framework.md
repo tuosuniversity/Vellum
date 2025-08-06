@@ -1,8 +1,21 @@
 ---
-title: Master Your Mind: A High-Level Look at the Quantum Mindfulness Framework
-categories: ["Framework Principles", "Mindfulness Approaches", "Therapeutic Strategies"]
-tags: ["Quantum Mindfulness", "Collapse Mastery Protocol", "Psychodynamic Dimensions", "Conscious Observation", "Perceptual Freedom", "Inner Peace", "Mental Resilience", "Cognitive Agency", "Self-Regulation"]
+title: Master Your Mind - A High-Level Look at the Quantum Mindfulness Framework
 post_excerpt: Explore the Quantum Mindfulness framework, a structured approach designed to cultivate inner peace and mental resilience by transforming our relationship with pressure and uncertainty. Learn how to shift focus from outcome-striving to skillful management of inner experience through the "Collapse Mastery Protocol."
+taxonomy:
+    category:
+        - ["Framework Principles"
+        - "Mindfulness Approaches"
+        - "Therapeutic Strategies"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Collapse Mastery Protocol"
+        - "Psychodynamic Dimensions"
+        - "Conscious Observation"
+        - "Perceptual Freedom"
+        - "Inner Peace"
+        - "Mental Resilience"
+        - "Cognitive Agency"
+        - "Self-Regulation"]
 ---
 ### Master Your Mind: A High-Level Look at the Quantum Mindfulness Framework
 

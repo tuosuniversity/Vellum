@@ -1,19 +1,20 @@
 ---
-title: La "Función de Onda de la Conciencia": Un Campo de Posibilidades
-categories:
-  - Core Concepts
-  - Perception
-  - Practices
-tags:
-  - Consciousness Wave Function
-  - Cognitive Superposition
-  - Psychodynamic Collapse
-  - Quantum Mindfulness
-  - Observer-Participant Dynamic
-  - Perceptual Freedom
-  - Psychodynamic Dimensions
+title: La "Función de Onda de la Conciencia" - Un Campo de Posibilidades
 post_excerpt: >-
-  Explore the Quantum Mindfulness concept of the "Consciousness Wave Function," where your mind exists as a probabilistic field of endless possibilities. Learn how conscious attention triggers "Psychodynamic Collapse," transforming potential into your experienced reality. Discover how to cultivate "Perceptual Freedom" and "Cognitive Agency" by intentionally shaping your mental landscape.
+Explore the Quantum Mindfulness concept of the "Consciousness Wave Function," where your mind exists as a probabilistic field of endless possibilities. Learn how conscious attention triggers "Psychodynamic Collapse," transforming potential into your experienced reality. Discover how to cultivate "Perceptual Freedom" and "Cognitive Agency" by intentionally shaping your mental landscape.
+taxonomy:
+    category:
+        - Core Concepts
+        - Perception
+        - Practices
+    post_tag:
+        - Consciousness Wave Function
+        - Cognitive Superposition
+        - Psychodynamic Collapse
+        - Quantum Mindfulness
+        - Observer-Participant Dynamic
+        - Perceptual Freedom
+        - Psychodynamic Dimensions
 ---
 ### La "Función de Onda de la Conciencia": Un Campo de Posibilidades
 

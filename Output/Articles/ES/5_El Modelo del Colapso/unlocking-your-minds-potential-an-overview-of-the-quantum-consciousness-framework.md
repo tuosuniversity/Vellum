@@ -1,23 +1,23 @@
 ---
-title: Unlocking Your Mind's Potential: An Overview of the Quantum Consciousness Framework
-categories:
-  - Core Concepts
-  - Framework Principles
-  - Practices
-tags:
-  - Quantum Mindfulness
-  - Psychodynamic Dimensions
-  - Cognitive Superposition
-  - Conscious Attention
-  - Perceptual Freedom
-  - Cognitive Engineering
-  - Active Mastery
-  - Personal Growth
-  - Consciousness
+title: Unlocking Your Mind's Potential - An Overview of the Quantum Consciousness Framework
 post_excerpt: >-
-  The Quantum Mindfulness framework offers a profound new lens for understanding the mind, moving beyond passive observation to active co-creation of reality. This post introduces its core concepts, revealing how your conscious attention dynamically shapes your experienced reality and empowers you to cultivate deeper mental agency. Discover the foundational principles that redefine mindfulness as an active, transformative practice.
+The Quantum Mindfulness framework offers a profound new lens for understanding the mind, moving beyond passive observation to active co-creation of reality. This post introduces its core concepts, revealing how your conscious attention dynamically shapes your experienced reality and empowers you to cultivate deeper mental agency. Discover the foundational principles that redefine mindfulness as an active, transformative practice.
+taxonomy:
+    category:
+        - Core Concepts
+        - Framework Principles
+        - Practices
+    post_tag:
+        - Quantum Mindfulness
+        - Psychodynamic Dimensions
+        - Cognitive Superposition
+        - Conscious Attention
+        - Perceptual Freedom
+        - Cognitive Engineering
+        - Active Mastery
+        - Personal Growth
+        - Consciousness
 ---
-
 ### Unlocking Your Mind's Potential: An Overview of the Quantum Consciousness Framework
 
 Have you ever found yourself caught in persistent thought patterns or emotional loops, even when you earnestly desire change? Or perhaps you've observed how some individuals navigate life's inherent complexities with an astonishing blend of ease and creativity? The Quantum Mindfulness framework, often referred to as the Quantum Consciousness Framework, offers a revolutionary and potent lens through which to comprehend these profound dynamics, fundamentally redefining our relationship with our own minds and the reality we experience.

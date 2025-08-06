@@ -1,10 +1,22 @@
 ---
-title: El Efecto Observador Cuántico: ¿Es Tu Mente un Creador Activo de la Realidad?
-categories: ["Perception", "Core Concepts", "Framework Principles"]
-tags: ["Quantum Mindfulness", "Observer Effect", "Conscious Attention", "Psychodynamic Wave Collapse", "Cognitive Superposition", "Mental States", "Reality Construction", "Self-Mastery", "Mindfulness Practices"]
+title: El Efecto Observador Cuántico - ¿Es Tu Mente un Creador Activo de la Realidad?
 post_excerpt: "Explore the revolutionary Quantum Mindfulness framework, which posits that your consciousness is not merely a passive receiver but an active participant in shaping subjective reality. This post delves into the Quantum Observer Effect and Psychodynamic Wave Collapse, revealing how your focused attention transforms a probabilistic field of mental possibilities into concrete experience. Discover how understanding these core principles empowers you to actively influence your inner world and manifest desired outcomes."
+taxonomy:
+    category:
+        - ["Perception"
+        - "Core Concepts"
+        - "Framework Principles"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Observer Effect"
+        - "Conscious Attention"
+        - "Psychodynamic Wave Collapse"
+        - "Cognitive Superposition"
+        - "Mental States"
+        - "Reality Construction"
+        - "Self-Mastery"
+        - "Mindfulness Practices"]
 ---
-
 ### El Efecto Observador Cuántico: ¿Es Tu Mente un Creador Activo de la Realidad?
 
 **Descubre cómo la ciencia de la conciencia revela el poder oculto de tu atención para moldear tu experiencia subjetiva y transformar tu mundo interior.**

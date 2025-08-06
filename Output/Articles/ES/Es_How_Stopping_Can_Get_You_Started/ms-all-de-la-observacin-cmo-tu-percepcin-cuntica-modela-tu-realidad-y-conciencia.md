@@ -1,8 +1,22 @@
 ---
-title: Más Allá de la Observación: Cómo Tu Percepción Cuántica Modela Tu Realidad y Conciencia
-categories: ["Perception", "Core Concepts", "Mindfulness Approaches"]
-tags: ["Quantum Mindfulness", "Perception", "Reality Construction", "Observer Effect", "Conscious Attention", "Psychodynamic Dimensions", "Mindfulness", "Self-Mastery", "Cognitive Superposition", "Psychodynamic Wave Collapse"]
+title: Más Allá de la Observación - Cómo Tu Percepción Cuántica Modela Tu Realidad y Conciencia
 post_excerpt: "Descubre cómo el marco de la Consciencia Cuántica redefine nuestra relación con la realidad. Este artículo explora el concepto del 'Observador-Participante', revelando que nuestra atención no es un mero registro, sino una fuerza activa que moldea nuestras experiencias mentales y emocionales, transformando el potencial en realidad vivida."
+taxonomy:
+    category:
+        - ["Perception"
+        - "Core Concepts"
+        - "Mindfulness Approaches"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Perception"
+        - "Reality Construction"
+        - "Observer Effect"
+        - "Conscious Attention"
+        - "Psychodynamic Dimensions"
+        - "Mindfulness"
+        - "Self-Mastery"
+        - "Cognitive Superposition"
+        - "Psychodynamic Wave Collapse"]
 ---
 ### Más Allá de la Observación: Cómo Tu Percepción Cuántica Modela Tu Realidad y Conciencia
 

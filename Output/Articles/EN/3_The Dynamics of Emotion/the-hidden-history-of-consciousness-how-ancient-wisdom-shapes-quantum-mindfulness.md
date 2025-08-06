@@ -1,22 +1,22 @@
 ---
-title: The Hidden History of Consciousness: How Ancient Wisdom Shapes Quantum Mindfulness
-categories:
-  - Framework Principles
-  - Core Concepts
-  - Psychodynamic Dimensions
-tags:
-  - Quantum Mindfulness
-  - Psychodynamic Theory
-  - Consciousness History
-  - Freud
-  - Jung
-  - Psychodynamic Dimensions
-  - Prime Modality
-  - Perception
+title: The Hidden History of Consciousness - How Ancient Wisdom Shapes Quantum Mindfulness
 post_excerpt: >
-  Before delving into the cutting-edge insights of Quantum Mindfulness, it's vital to recognize its deep historical roots in humanity's quest to understand the mind. This post explores how ancient philosophical and psychological frameworks, particularly the pioneering work of psychodynamic theorists like Freud and Jung, laid the groundwork for the framework's multi-layered approach to consciousness and its ten psychodynamic dimensions. Discover how this rich lineage informs our modern understanding of self-mastery and perceptual freedom.
+Before delving into the cutting-edge insights of Quantum Mindfulness, it's vital to recognize its deep historical roots in humanity's quest to understand the mind. This post explores how ancient philosophical and psychological frameworks, particularly the pioneering work of psychodynamic theorists like Freud and Jung, laid the groundwork for the framework's multi-layered approach to consciousness and its ten psychodynamic dimensions. Discover how this rich lineage informs our modern understanding of self-mastery and perceptual freedom.
+taxonomy:
+    category:
+        - Framework Principles
+        - Core Concepts
+        - Psychodynamic Dimensions
+    post_tag:
+        - Quantum Mindfulness
+        - Psychodynamic Theory
+        - Consciousness History
+        - Freud
+        - Jung
+        - Psychodynamic Dimensions
+        - Prime Modality
+        - Perception
 ---
-
 ### The Hidden History of Consciousness: How Ancient Wisdom Shapes Quantum Mindfulness
 
 In our modern world, where the pursuit of self-awareness often feels like a novel endeavor, it's easy to overlook the millennia of intellectual and spiritual inquiry that precede us. Yet, any profound framework for understanding the human mind must, by necessity, stand upon the accumulated wisdom of those who dared to map the uncharted territories of our inner world. The Quantum Mindfulness framework, far from being a New Age novelty, is precisely such a synthesis, drawing deep from the wellsprings of historical and philosophical thought to illuminate its revolutionary insights into consciousness.

@@ -1,10 +1,21 @@
 ---
-title: Your Inner Architect: A High-Level Look at the Quantum Mindfulness Framework for Mastering Anxiety
-categories: ["Therapeutic Strategies", "Core Concepts", "Perception"]
-tags: ["Quantum Mindfulness", "Anxiety Management", "Inner Peace", "Cognitive Control", "Psychodynamic Dimensions", "Conscious Reality Construction", "Perceptual Freedom", "Self-Mastery"]
+title: Your Inner Architect - A High-Level Look at the Quantum Mindfulness Framework for Mastering Anxiety
 post_excerpt: "Discover the Quantum Mindfulness framework, a revolutionary approach that empowers you to actively shape your inner world and overcome anxiety. This post explores how to transform your relationship with internal states by understanding perception as a generative force, building a 'Quantum Mindstate,' and engineering a guiding vision for lasting inner peace."
+taxonomy:
+    category:
+        - ["Therapeutic Strategies"
+        - "Core Concepts"
+        - "Perception"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Anxiety Management"
+        - "Inner Peace"
+        - "Cognitive Control"
+        - "Psychodynamic Dimensions"
+        - "Conscious Reality Construction"
+        - "Perceptual Freedom"
+        - "Self-Mastery"]
 ---
-
 ### Your Inner Architect: A High-Level Look at the Quantum Mindfulness Framework for Mastering Anxiety
 
 Are you tired of feeling trapped by the relentless chorus of anxiety, panic, or pervasive self-doubt? What if you could fundamentally change your relationship with these overwhelming internal states, moving from a passive recipient of their effects to an active, conscious architect of your inner world? The Quantum Mindfulness framework offers a revolutionary path to achieving precisely that. It’s not just about coping; it’s about profound, systemic transformation.

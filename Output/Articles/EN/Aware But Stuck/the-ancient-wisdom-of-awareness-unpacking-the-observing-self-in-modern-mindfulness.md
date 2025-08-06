@@ -1,8 +1,22 @@
 ---
-title: The Ancient Wisdom of Awareness: Unpacking the "Observing Self" in Modern Mindfulness
-categories: ["Core Concepts", "Mindfulness Approaches", "Perception"]
-tags: ["observing self", "witness consciousness", "quantum mindfulness", "psychodynamic dimensions", "cognitive superposition", "psychodynamic collapse", "active mastery", "perceptual freedom", "metacognition", "internal architecture scan"]
+title: The Ancient Wisdom of Awareness - Unpacking the "Observing Self" in Modern Mindfulness
 post_excerpt: Explore the profound concept of the "observing self" through the lens of Quantum Mindfulness. This article delves into how this ancient wisdom, from Eastern philosophy to modern psychology, transforms passive observation into an active, co-creative force, enabling self-mastery and conscious reality construction.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Mindfulness Approaches"
+        - "Perception"]
+    post_tag:
+        - ["observing self"
+        - "witness consciousness"
+        - "quantum mindfulness"
+        - "psychodynamic dimensions"
+        - "cognitive superposition"
+        - "psychodynamic collapse"
+        - "active mastery"
+        - "perceptual freedom"
+        - "metacognition"
+        - "internal architecture scan"]
 ---
 ### The Ancient Wisdom of Awareness: Unpacking the "Observing Self" in Modern Mindfulness
 

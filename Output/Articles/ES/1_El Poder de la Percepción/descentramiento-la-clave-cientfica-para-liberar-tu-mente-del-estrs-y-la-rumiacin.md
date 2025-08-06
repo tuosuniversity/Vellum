@@ -1,10 +1,23 @@
 ---
-title: Descentramiento: La Clave Científica para Liberar tu Mente del Estrés y la Rumiación
-categories: ["Core Concepts", "Mindfulness Approaches", "Practices"]
-tags: ["descentramiento", "mindfulness", "quantum mindfulness", "observación consciente", "gestión del estrés", "rumiación", "psicología cuántica", "percepción", "autocontrol", "bienestar mental"]
+title: Descentramiento - La Clave Científica para Liberar tu Mente del Estrés y la Rumiación
 post_excerpt: El descentramiento, un concepto central en el Quantum Mindfulness, es una habilidad psicológica validada científicamente que permite trascender la identificación con los pensamientos y emociones. Al comprender que la conciencia es un observador activo y co-creador de la realidad, podemos liberarnos de patrones mentales limitantes, reducir el estrés y cultivar una mayor libertad interna. Este enfoque transforma la relación con nuestra experiencia interna, fomentando la maestría activa sobre nuestra mente.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Mindfulness Approaches"
+        - "Practices"]
+    post_tag:
+        - ["descentramiento"
+        - "mindfulness"
+        - "quantum mindfulness"
+        - "observación consciente"
+        - "gestión del estrés"
+        - "rumiación"
+        - "psicología cuántica"
+        - "percepción"
+        - "autocontrol"
+        - "bienestar mental"]
 ---
-
 ### Descentramiento: La Clave Científica para Liberar tu Mente del Estrés y la Rumiación
 
 ¿Alguna vez te has sentido atrapado en un bucle de pensamientos negativos? ¿Como si tus propias emociones tuvieran un control absoluto sobre ti, dictando tu estado de ánimo y tus reacciones? Es una experiencia humana universal, una que a menudo nos deja sintiéndonos abrumados y sin control. Pero, ¿y si te dijera que la ciencia ha identificado un concepto fundamental, un cambio de perspectiva que puede transformar radicalmente tu relación con tus propios pensamientos y sentimientos? Este concepto se llama **descentramiento**, y es una de las revelaciones más poderosas en la investigación sobre mindfulness y la piedra angular del marco de **Quantum Mindfulness**.

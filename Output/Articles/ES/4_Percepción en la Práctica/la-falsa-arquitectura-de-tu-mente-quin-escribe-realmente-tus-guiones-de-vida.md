@@ -1,19 +1,20 @@
 ---
 title: La Falsa Arquitectura de Tu Mente ¿Quién Escribe Realmente Tus Guiones de Vida?
-categories:
-  - Core Concepts
-  - Challenges and Limitations
-tags:
-  - Inherited Scripts
-  - False Native Architecture
-  - Psychodynamic Dimensions
-  - Perception
-  - Self-Origination
-  - Conscious Awareness
-  - Quantum Mindfulness
-  - Personal Growth
 post_excerpt: >
-  Discover how "Inherited Scripts" and "False Native Architecture" shape your reality, often unconsciously. This article delves into the Quantum Mindfulness framework's perspective on external influences on your psyche, explaining how to identify these patterns and embark on a journey towards true self-origination and perceptual freedom.
+Discover how "Inherited Scripts" and "False Native Architecture" shape your reality, often unconsciously. This article delves into the Quantum Mindfulness framework's perspective on external influences on your psyche, explaining how to identify these patterns and embark on a journey towards true self-origination and perceptual freedom.
+taxonomy:
+    category:
+        - Core Concepts
+        - Challenges and Limitations
+    post_tag:
+        - Inherited Scripts
+        - False Native Architecture
+        - Psychodynamic Dimensions
+        - Perception
+        - Self-Origination
+        - Conscious Awareness
+        - Quantum Mindfulness
+        - Personal Growth
 ---
 ### La Falsa Arquitectura de Tu Mente: ¿Quién Escribe Realmente Tus Guiones de Vida?
 

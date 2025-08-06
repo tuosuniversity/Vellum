@@ -1,10 +1,19 @@
 ---
-title: Desbloquea Tu Realidad: Una Visión General del Marco de la Consciencia Cuántica para Arquitectar Tu Experiencia
-categories: ["Perception", "Framework Principles", "Mindfulness Approaches"]
-tags: ["Quantum Mindfulness", "Conscious Reality Construction", "Perceptual Freedom", "Psychodynamic Dimensions", "Cognitive Superposition", "Observer-Participant"]
+title: Desbloquea Tu Realidad - Una Visión General del Marco de la Consciencia Cuántica para Arquitectar Tu Experiencia
 post_excerpt: "¿Estás listo para dejar de ser un pasajero pasivo en tu propia vida y convertirte en el arquitecto activo de tu realidad? Este artículo profundiza en el marco de la Consciencia Cuántica, una poderosa metodología que te permite trascender patrones heredados y moldear conscientemente tu experiencia, pasando de un 'Contrato Perceptual' tácito a uno que elijas y diseñes."
+taxonomy:
+    category:
+        - ["Perception"
+        - "Framework Principles"
+        - "Mindfulness Approaches"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Conscious Reality Construction"
+        - "Perceptual Freedom"
+        - "Psychodynamic Dimensions"
+        - "Cognitive Superposition"
+        - "Observer-Participant"]
 ---
-
 ### Desbloquea Tu Realidad: Una Visión General del Marco de la Consciencia Cuántica para Arquitectar Tu Experiencia
 
 La vida, tal como la experimentamos, a menudo se siente como una serie de eventos que simplemente nos suceden. Reaccionamos, nos adaptamos y, a veces, nos preguntamos por qué ciertas situaciones se repiten. Pero, ¿y si te dijera que tu experiencia no es algo que simplemente recibes, sino algo que, en gran medida, construyes activamente? El marco de la Consciencia Cuántica (QM) no es una mera filosofía; es una profunda reorientación epistemológica que te invita a trascender el rol de mero espectador y abrazar el de arquitecto consciente de tu propia realidad. Este enfoque transformador te equipa con las herramientas para moldear intencionalmente tu `Constructed Reality`, pasando de un `Perceptual Contract` tácito y no examinado a uno que elijas y diseñes con `Perceptual Freedom`.

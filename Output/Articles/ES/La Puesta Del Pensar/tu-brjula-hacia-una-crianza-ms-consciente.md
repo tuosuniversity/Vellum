@@ -1,10 +1,20 @@
 ---
 title: Tu Brújula Hacia una Crianza Más Consciente
-categories: ["Mindfulness Approaches", "Framework Principles", "Practices"]
-tags: ["Quantum Mindfulness", "Conscious Parenting", "Psychodynamic Dimensions", "Perceptual Freedom", "Inherited Scripts", "Observer-Participant Dynamic", "Self-Concept Construction"]
 post_excerpt: "Explora cómo el mindfulness, desde sus raíces ancestrales hasta el innovador marco de Quantum Mindfulness, ofrece herramientas profundas para una crianza más consciente. Este artículo detalla cómo los padres pueden aplicar principios avanzados de la consciencia para cultivar la resiliencia, la autenticidad y el bienestar emocional en sus hijos, liberándolos de patrones limitantes y fomentando su plena expresión."
+taxonomy:
+    category:
+        - ["Mindfulness Approaches"
+        - "Framework Principles"
+        - "Practices"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Conscious Parenting"
+        - "Psychodynamic Dimensions"
+        - "Perceptual Freedom"
+        - "Inherited Scripts"
+        - "Observer-Participant Dynamic"
+        - "Self-Concept Construction"]
 ---
-
 ### Tu Brújula Hacia una Crianza Más Consciente
 
 En la actualidad, el término "mindfulness" o "atención plena" se ha convertido en una piedra angular en innumerables conversaciones, permeando áreas que van desde la salud mental y el rendimiento laboral hasta, y de manera crucial dentro del marco de la Conciencia Cuántica, la crianza. Pero, ¿es esta omnipresencia una moda pasajera o el resurgimiento de una sabiduría atemporal? Para desentrañar su verdadera profundidad y su vital relevancia en el complejo mundo contemporáneo, es indispensable embarcarse en un viaje a través de sus profundas raíces históricas y filosóficas.

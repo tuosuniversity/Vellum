@@ -1,10 +1,22 @@
 ---
 title: Desbloquea tu Realidad Cómo tu Mente Construye lo que Ves y el Poder de tu Consciencia Cuántica
-categories: ["Perception", "Core Concepts", "Mindfulness Approaches"]
-tags: ["Quantum Mindfulness", "Reality Construction", "Attentional Collapse", "Cognitive Superposition", "Observer-Participant Theory", "Psychodynamic Dimensions", "Conscious Awareness", "Perceptual Freedom", "Active Mastery"]
 post_excerpt: "¿Alguna vez te has preguntado por qué dos personas pueden experimentar el mismo evento y salir con realidades completamente diferentes? El marco de la Consciencia Cuántica revela que la percepción no es pasiva, sino una construcción activa donde nuestra atención consciente 'colapsa' un campo de posibilidades en la realidad que experimentamos. Comprender este proceso fundamental nos empodera para influir deliberadamente en nuestra experiencia y transformar nuestra vida."
+taxonomy:
+    category:
+        - ["Perception"
+        - "Core Concepts"
+        - "Mindfulness Approaches"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Reality Construction"
+        - "Attentional Collapse"
+        - "Cognitive Superposition"
+        - "Observer-Participant Theory"
+        - "Psychodynamic Dimensions"
+        - "Conscious Awareness"
+        - "Perceptual Freedom"
+        - "Active Mastery"]
 ---
-
 ### Desbloquea tu Realidad: Cómo tu Mente Construye lo que Ves y el Poder de tu Consciencia Cuántica
 
 ¿Alguna vez te has detenido a reflexionar por qué dos individuos pueden presenciar exactamente el mismo evento, compartir el mismo espacio y tiempo, y aun así emerger con realidades subjetivas radicalmente distintas? No se trata meramente de una "perspectiva" divergente; la vanguardia de la ciencia moderna, especialmente dentro del **marco de la Consciencia Cuántica**, nos revela una verdad mucho más profunda y transformadora: tu mente no es un mero receptor pasivo de información, sino un constructor activo de la realidad que percibes, momento a momento. Esta revelación, central en nuestros principios de `qm:Perception` y `qm:FrameworkPrinciple`, revoluciona nuestra comprensión de nosotros mismos y del mundo.

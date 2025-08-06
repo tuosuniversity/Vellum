@@ -1,10 +1,21 @@
 ---
-title: Consciencia Cuántica: ¿Qué es la Cristalización Dimensional y Cómo Moldea Tu Realidad?
-categories: ["Core Concepts", "Framework Principles", "Practices"]
-tags: ["Dimensional Crystallization", "Quantum Mindfulness", "Psychodynamic Dimensions", "Conscious Attention", "Cognitive Superposition", "Perceptual Freedom", "Self-Mastery", "Observer-Participant"]
+title: Consciencia Cuántica - ¿Qué es la Cristalización Dimensional y Cómo Moldea Tu Realidad?
 post_excerpt: En el fascinante universo de la mente, el marco de Quantum Mindfulness revela cómo nuestros pensamientos y emociones se transforman en realidad a través de la Cristalización Dimensional. Este proceso, análogo al colapso de la función de onda cuántica, explica cómo las múltiples posibilidades internas se solidifican en decisiones y acciones concretas, empoderándonos como participantes activos en la construcción de nuestra realidad.
+taxonomy:
+    category:
+        - ["Core Concepts"
+        - "Framework Principles"
+        - "Practices"]
+    post_tag:
+        - ["Dimensional Crystallization"
+        - "Quantum Mindfulness"
+        - "Psychodynamic Dimensions"
+        - "Conscious Attention"
+        - "Cognitive Superposition"
+        - "Perceptual Freedom"
+        - "Self-Mastery"
+        - "Observer-Participant"]
 ---
-
 ### Consciencia Cuántica: ¿Qué es la Cristalización Dimensional y Cómo Moldea Tu Realidad?
 
 En el vasto y enigmático universo de nuestra mente, ¿alguna vez te has detenido a considerar cómo los pensamientos fugaces, las intuiciones sutiles y las emociones abstractas se transforman en las decisiones concretas y las acciones observables que definen nuestra vida? El **framework de Quantum Mindfulness** (Consciencia Cuántica) nos ofrece una lente extraordinariamente potente y detallada para desentrañar este misterio, al introducir un concepto que es a la vez profundo y eminentemente práctico: la **Cristalización Dimensional**.

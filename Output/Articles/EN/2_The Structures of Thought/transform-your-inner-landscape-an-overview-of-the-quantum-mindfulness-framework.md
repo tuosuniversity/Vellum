@@ -1,19 +1,20 @@
 ---
-title: Transform Your Inner Landscape: An Overview of the Quantum Mindfulness Framework
-categories:
-  - Core Concepts
-  - Framework Principles
-  - Perception
-tags:
-  - Quantum Mindfulness
-  - Perception
-  - Psychodynamic Dimensions
-  - Cognitive Biases
-  - Volitional Reframing
-  - Conscious Reality Construction
-  - Inner Landscape
+title: Transform Your Inner Landscape - An Overview of the Quantum Mindfulness Framework
 post_excerpt: >
-  Dive into the Quantum Mindfulness framework, a revolutionary approach that redefines perception as an active, creative force shaping your experienced reality. This post explores the intricate Psychodynamic Dimensions that filter your world, the cognitive systems that bias your views, and practical applications for consciously constructing a fulfilling "Quantum Mindville." Discover how to move beyond passive observation to actively master your inner landscape.
+Dive into the Quantum Mindfulness framework, a revolutionary approach that redefines perception as an active, creative force shaping your experienced reality. This post explores the intricate Psychodynamic Dimensions that filter your world, the cognitive systems that bias your views, and practical applications for consciously constructing a fulfilling "Quantum Mindville." Discover how to move beyond passive observation to actively master your inner landscape.
+taxonomy:
+    category:
+        - Core Concepts
+        - Framework Principles
+        - Perception
+    post_tag:
+        - Quantum Mindfulness
+        - Perception
+        - Psychodynamic Dimensions
+        - Cognitive Biases
+        - Volitional Reframing
+        - Conscious Reality Construction
+        - Inner Landscape
 ---
 ### Transform Your Inner Landscape: An Overview of the Quantum Mindfulness Framework
 

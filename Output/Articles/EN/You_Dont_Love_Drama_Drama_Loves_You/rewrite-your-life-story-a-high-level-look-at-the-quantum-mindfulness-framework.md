@@ -1,10 +1,21 @@
 ---
-title: Rewrite Your Life Story: A High-Level Look at the Quantum Mindfulness Framework
-categories: ["Framework Principles", "Practices", "Goals"]
-tags: ["Quantum Mindfulness", "Inherited Scripts", "Self-Mastery", "Conscious Awareness", "Perceptual Freedom", "Psychodynamic Dimensions", "Personal Transformation", "Cognitive Superposition"]
+title: Rewrite Your Life Story - A High-Level Look at the Quantum Mindfulness Framework
 post_excerpt: "Discover the Quantum Mindfulness Framework, a revolutionary approach to reclaiming your authentic narrative from the grip of 'Story Hijack.' This blog post explores its three transformative phases: recognizing inherited patterns, tracing their origins, and actively decoupling to build a sovereign, self-authored life."
+taxonomy:
+    category:
+        - ["Framework Principles"
+        - "Practices"
+        - "Goals"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Inherited Scripts"
+        - "Self-Mastery"
+        - "Conscious Awareness"
+        - "Perceptual Freedom"
+        - "Psychodynamic Dimensions"
+        - "Personal Transformation"
+        - "Cognitive Superposition"]
 ---
-
 ### Rewrite Your Life Story: A High-Level Look at the Quantum Mindfulness Framework
 
 Do you ever feel as though your life’s narrative is being dictated by an invisible hand, leaving you a mere character in a story not truly your own? This pervasive sensation, where external influences subtly but powerfully shape your thoughts, feelings, and actions, is what the Quantum Mindfulness Framework identifies as a "Story Hijack." It’s a profound sense of inauthenticity, a disquieting dissonance between who you are and how you live. The liberating truth, however, is that these hijacked narratives are not immutable; they are dynamic, malleable constructs. The Quantum Mindfulness Framework offers a groundbreaking, multi-phased methodology to reclaim your intrinsic authorship and consciously script the unfolding of your own life.

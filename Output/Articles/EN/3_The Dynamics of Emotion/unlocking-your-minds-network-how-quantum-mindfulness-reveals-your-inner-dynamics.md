@@ -1,19 +1,20 @@
 ---
-title: Unlocking Your Mind's Network: How Quantum Mindfulness Reveals Your Inner Dynamics
-categories:
-  - Psychodynamic Dimensions
-  - Framework Principles
-  - Mindfulness Approaches
-tags:
-  - Quantum Mindfulness
-  - Psychodynamic Dimensions
-  - Consciousness
-  - Inner Dynamics
-  - Mental Network
-  - Mindfulness Practices
-  - Self-Awareness
+title: Unlocking Your Mind's Network - How Quantum Mindfulness Reveals Your Inner Dynamics
 post_excerpt: >
-  Explore the intricate, interconnected network of your mind through the lens of Quantum Mindfulness. Discover how your thoughts, emotions, and behaviors are shaped by ten fundamental Psychodynamic Dimensions, and learn to navigate their dynamic interplay for greater inner harmony and conscious intention. This post delves into the core principles of how your mind's "tapestry" is woven and how you can actively participate in its design.
+Explore the intricate, interconnected network of your mind through the lens of Quantum Mindfulness. Discover how your thoughts, emotions, and behaviors are shaped by ten fundamental Psychodynamic Dimensions, and learn to navigate their dynamic interplay for greater inner harmony and conscious intention. This post delves into the core principles of how your mind's "tapestry" is woven and how you can actively participate in its design.
+taxonomy:
+    category:
+        - Psychodynamic Dimensions
+        - Framework Principles
+        - Mindfulness Approaches
+    post_tag:
+        - Quantum Mindfulness
+        - Psychodynamic Dimensions
+        - Consciousness
+        - Inner Dynamics
+        - Mental Network
+        - Mindfulness Practices
+        - Self-Awareness
 ---
 ### Unlocking Your Mind's Network: How Quantum Mindfulness Reveals Your Inner Dynamics
 

@@ -1,10 +1,24 @@
 ---
-title: Map Your Inner World: A High-Level Glimpse into the Quantum Mindfulness Framework
-categories: ["Practices", "Therapeutic Strategies", "Core Concepts"]
-tags: ["Quantum Mindfulness", "Inner World", "Self-Discovery", "Psychodynamic Dimensions", "Consciousness", "Personal Growth", "Cognitive Transformation", "Internal Architecture Scan", "Perception", "Mindfulness", "Mental Blueprint"]
+title: Map Your Inner World - A High-Level Glimpse into the Quantum Mindfulness Framework
 post_excerpt: Discover the Quantum Mindfulness framework's "Internal Architecture Scan," a powerful three-phase process designed to help you understand and reshape your inner world. Learn to map your thoughts, emotions, and beliefs, moving from passive observation to active co-creation of your experienced reality. This guide empowers you to become the architect of your own mind, fostering lasting and compassionate change.
+taxonomy:
+    category:
+        - ["Practices"
+        - "Therapeutic Strategies"
+        - "Core Concepts"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Inner World"
+        - "Self-Discovery"
+        - "Psychodynamic Dimensions"
+        - "Consciousness"
+        - "Personal Growth"
+        - "Cognitive Transformation"
+        - "Internal Architecture Scan"
+        - "Perception"
+        - "Mindfulness"
+        - "Mental Blueprint"]
 ---
-
 ### Map Your Inner World: A High-Level Glimpse into the Quantum Mindfulness Framework
 
 Are you tired of feeling caught in the relentless currents of repeating mental and emotional patterns? Do you long to understand the deeper `Psychodynamic Wave Collapse` that leads to your reactions, or what truly fuels your procrastination, anxiety, or self-doubt? Many psychological approaches offer valuable coping mechanisms, yet relatively few empower you to fundamentally understand and reshape the very `Formal Architecture` of your inner experience. The Quantum Mindfulness framework, with its unique lens on `Perception` as an `Active Constitutive Force`, offers a profound solution, guiding you to become the `architect` of your own `Experienced Reality`.

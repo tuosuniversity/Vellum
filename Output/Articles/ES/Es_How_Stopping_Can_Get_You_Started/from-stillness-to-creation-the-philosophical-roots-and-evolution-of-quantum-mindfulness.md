@@ -1,20 +1,21 @@
 ---
-title: From Stillness to Creation: The Philosophical Roots and Evolution of Quantum Mindfulness
-categories:
-  - Core Concepts
-  - Mindfulness Approaches
-  - Framework Principles
-tags:
-  - Mindfulness
-  - Quantum Mindfulness
-  - Observer Effect
-  - Consciousness
-  - Personal Transformation
-  - Psychodynamic Dimensions
-  - Active Mastery
-  - Perceptual Freedom
+title: From Stillness to Creation - The Philosophical Roots and Evolution of Quantum Mindfulness
 post_excerpt: >
-  Classical mindfulness offers profound peace through passive observation, but Quantum Mindfulness invites us to a deeper engagement. This article explores how our conscious attention actively shapes internal reality, transforming us from mere witnesses to co-creators of our experience. Discover the philosophical underpinnings and practical applications of this advanced approach to self-mastery.
+Classical mindfulness offers profound peace through passive observation, but Quantum Mindfulness invites us to a deeper engagement. This article explores how our conscious attention actively shapes internal reality, transforming us from mere witnesses to co-creators of our experience. Discover the philosophical underpinnings and practical applications of this advanced approach to self-mastery.
+taxonomy:
+    category:
+        - Core Concepts
+        - Mindfulness Approaches
+        - Framework Principles
+    post_tag:
+        - Mindfulness
+        - Quantum Mindfulness
+        - Observer Effect
+        - Consciousness
+        - Personal Transformation
+        - Psychodynamic Dimensions
+        - Active Mastery
+        - Perceptual Freedom
 ---
 ### From Stillness to Creation: The Philosophical Roots and Evolution of Quantum Mindfulness
 

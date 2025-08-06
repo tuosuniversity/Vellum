@@ -1,23 +1,23 @@
 ---
-title: Ancient Roots of Modern Calm: The Timeless Philosophy Behind Classical Mindfulness
-categories:
-  - Mindfulness Approaches
-  - Framework Principles
-  - Practices
-tags:
-  - Classical Mindfulness
-  - Contemplation
-  - Psychodynamic Dimensions
-  - Conscious Observation
-  - Cognitive Appraisal
-  - Perception
-  - Stillness Engineering
-  - Ancient Wisdom
-  - Mental Well-being
-  - Personal Transformation
+title: Ancient Roots of Modern Calm - The Timeless Philosophy Behind Classical Mindfulness
 post_excerpt: Explore the profound historical and philosophical underpinnings of classical mindfulness, a cornerstone of the Quantum Mindfulness framework. Discover how principles like sustained attention and non-judgmental observation, refined over millennia, offer timeless wisdom for navigating modern stress and cultivating inner calm. This deep dive reveals how ancient practices inform our contemporary understanding of consciousness and personal transformation.
+taxonomy:
+    category:
+        - Mindfulness Approaches
+        - Framework Principles
+        - Practices
+    post_tag:
+        - Classical Mindfulness
+        - Contemplation
+        - Psychodynamic Dimensions
+        - Conscious Observation
+        - Cognitive Appraisal
+        - Perception
+        - Stillness Engineering
+        - Ancient Wisdom
+        - Mental Well-being
+        - Personal Transformation
 ---
-
 ### Ancient Roots of Modern Calm: The Timeless Philosophy Behind Classical Mindfulness
 
 In a world relentlessly pursuing the next technological marvel or instant gratification, the search for inner peace often feels like a fleeting trend. Yet, the Quantum Mindfulness (QM) framework anchors itself not in novelty, but in the profound, time-tested wisdom of centuries past. At its very core lies "classical mindfulness," a concept whose principles resonate deeply with insights cultivated over millennia in diverse contemplative traditions. This journey to inner stillness is far from a new-age fad; it is deeply rooted in philosophical and spiritual legacies that have profoundly shaped humanity's understanding of consciousness, suffering, and liberation.

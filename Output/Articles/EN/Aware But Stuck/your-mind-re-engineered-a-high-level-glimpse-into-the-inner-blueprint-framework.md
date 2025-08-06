@@ -1,10 +1,21 @@
 ---
-title: "Your Mind, Re-Engineered: A High-Level Glimpse into the Inner Blueprint Framework"
-categories: ["Practices", "Advanced Practices", "Core Concepts"]
-tags: ["Quantum Mindfulness", "Inner Blueprint Practice", "Psychodynamic Dimensions", "Conscious Attention", "Cognitive Superposition", "Perceptual Freedom", "Active Mastery", "Sovereign Architecture"]
+title: "Your Mind, Re-Engineered - A High-Level Glimpse into the Inner Blueprint Framework"
 post_excerpt: "Discover the Quantum Mindfulness framework's Inner Blueprint Practice, a rigorous methodology for transforming self-awareness into actionable understanding of your mind's architecture. This approach guides you from passively observing mental patterns to actively re-engineering your inner landscape, fostering lasting psychological transformation and true perceptual freedom."
+taxonomy:
+    category:
+        - ["Practices"
+        - "Advanced Practices"
+        - "Core Concepts"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Inner Blueprint Practice"
+        - "Psychodynamic Dimensions"
+        - "Conscious Attention"
+        - "Cognitive Superposition"
+        - "Perceptual Freedom"
+        - "Active Mastery"
+        - "Sovereign Architecture"]
 ---
-
 ### Your Mind, Re-Engineered: A High-Level Glimpse into the Inner Blueprint Framework
 
 Have you ever found yourself in that peculiar psychological paradox where you’re deeply aware of your unhelpful habits or persistent negative thought patterns, yet feel utterly incapable of truly breaking free? Many dedicated mindfulness practitioners grapple with this frustrating state, often described as "aware but stuck." They possess profound self-awareness, a keen eye for observing their `Overall Mental State (S)`, yet they lack the actionable understanding — the inner blueprint — needed to forge lasting, positive change. This isn't a failure of effort, but often a gap in methodology.

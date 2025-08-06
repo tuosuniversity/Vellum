@@ -1,8 +1,19 @@
 ---
-title: Consciencia Cuántica: La Ciencia de la Intención Precisa y el Enfoque Láser para Desbloquear Tu Potencial
-categories: ["Advanced Practices", "Framework Principles", "Perception"]
-tags: ["Quantum Mindfulness", "Intentionality", "Conscious Attention", "Psychodynamic Dimensions", "Cognitive Agency", "Self-Mastery", "Perceptual Freedom"]
+title: Consciencia Cuántica - La Ciencia de la Intención Precisa y el Enfoque Láser para Desbloquear Tu Potencial
 post_excerpt: In a world brimming with distractions, true breakthroughs often hinge on more than just good ideas—they demand precise intention and laser-focused awareness. This article explores how the Quantum Mindfulness framework offers advanced tools and principles, like the "calibration of intention," to actively shape your internal reality and manifest your highest potential. Discover how to transform fleeting aspirations into tangible achievements by mastering your inner psychodynamic architecture.
+taxonomy:
+    category:
+        - ["Advanced Practices"
+        - "Framework Principles"
+        - "Perception"]
+    post_tag:
+        - ["Quantum Mindfulness"
+        - "Intentionality"
+        - "Conscious Attention"
+        - "Psychodynamic Dimensions"
+        - "Cognitive Agency"
+        - "Self-Mastery"
+        - "Perceptual Freedom"]
 ---
 ### Consciencia Cuántica: La Ciencia de la Intención Precisa y el Enfoque Láser para Desbloquear Tu Potencial
 
