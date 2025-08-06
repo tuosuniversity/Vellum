@@ -1,67 +1,92 @@
 import os
 import re
+import shutil # For potential backup/moving if needed, not directly used in rename
 
-def remove_front_matter_before_h3(file_path):
+def sanitize_filename(title_text):
     """
-    Removes all text from the beginning of the file up to and including
-    the first H3 Markdown heading (### Heading).
-    This effectively removes YAML front matter and any preceding text.
-    Assumes the actual article content starts with an '###' heading.
+    Sanitizes a string to be used as a valid, human-readable filename.
+    Replaces common invalid characters with hyphens or removes them,
+    but keeps spaces.
+    """
+    # Replace colons with hyphens (as per your specific request)
+    sanitized_name = title_text.replace(':', ' -')
+    
+    # Remove other characters that are invalid in Windows/Linux filenames
+    # This regex matches any character that is NOT a letter, number, space, hyphen, or dot.
+    # We allow spaces because you want human-readable names.
+    sanitized_name = re.sub(r'[^\w\s\-\.]', '', sanitized_name)
+    
+    # Replace multiple spaces with a single space
+    sanitized_name = re.sub(r'\s+', ' ', sanitized_name).strip()
+    
+    return sanitized_name
+
+def rename_markdown_file_from_h3(file_path):
+    """
+    Reads a Markdown file, extracts the title from the first H3 heading,
+    sanitizes it, and renames the file.
     """
     print(f"Processing: {file_path}")
     
-    with open(file_path, 'r', encoding='utf-8') as f:
-        content = f.read()
-
-    # Regex to find the first H3 Markdown heading (### Heading).
-    # It captures everything *before* the first H3 heading in group(1)
-    # and the H3 heading and everything after it in group(2).
-    # We want to keep group(2).
-    h3_heading_pattern = re.compile(r'^(.*?)((?:^###\s.*$)(?:[\s\S]*))', re.DOTALL | re.MULTILINE)
-    
-    match = h3_heading_pattern.match(content)
-
-    if match:
-        # new_content starts from the first H3 heading found.
-        new_content = match.group(2)
-        print(f"  Content trimmed to start from the first '###' heading.")
-    else:
-        # If no H3 heading is found, it means the file might be just front matter
-        # or plain text without a clear H3 heading.
-        # In this case, we'll try to remove just the YAML block if it exists,
-        # otherwise, the file is unchanged.
-        yaml_only_match = re.match(r'---\s*\n(.*?)\n---\s*\n(.*)', content, re.DOTALL)
-        if yaml_only_match:
-            new_content = yaml_only_match.group(2) # Keep content after YAML block
-            print(f"  Only YAML front matter removed (no '###' heading found).")
-        else:
-            new_content = content # No front matter or heading found, keep original content
-            print(f"  No YAML front matter or '###' heading found. File unchanged.")
-
-    # Write the corrected content back to the file
     try:
-        with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(new_content.strip()) # .strip() removes leading/trailing whitespace
-        print(f"  Successfully updated {file_path}")
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        # Regex to find the first H3 Markdown heading (### Heading).
+        # It captures the text of the H3 heading in group(1).
+        h3_heading_pattern = re.compile(r'^###\s*(.*)$', re.MULTILINE)
+        
+        match = h3_heading_pattern.search(content)
+
+        if match:
+            extracted_title = match.group(1).strip()
+            
+            if not extracted_title:
+                print(f"  Warning: H3 heading found but is empty in {file_path}. Skipping rename.")
+                return
+
+            new_base_name = sanitize_filename(extracted_title)
+            
+            # Get the directory and current filename components
+            directory = os.path.dirname(file_path)
+            current_file_name = os.path.basename(file_path)
+            
+            new_file_name = f"{new_base_name}.md"
+            new_file_path = os.path.join(directory, new_file_name)
+
+            if current_file_name == new_file_name:
+                print(f"  Filename already matches H3 title: {current_file_name}. Skipping rename.")
+                return
+
+            if os.path.exists(new_file_path):
+                print(f"  Error: Target filename '{new_file_name}' already exists in {directory}. Skipping rename to prevent overwrite.")
+                return
+
+            os.rename(file_path, new_file_path)
+            print(f"  Renamed '{current_file_name}' to '{new_file_name}'")
+
+        else:
+            print(f"  No H3 heading found in {file_path}. Skipping rename.")
+
     except Exception as e:
-        print(f"  Error writing to file {file_path}: {e}. File might not be updated.")
+        print(f"  Error processing {file_path}: {e}. Skipping file.")
 
 
-def process_directory(directory_path):
+def process_directory_for_rename(directory_path):
     """
-    Walks through a directory and processes all Markdown files.
+    Walks through a directory and processes all Markdown files for renaming.
     """
     if not os.path.isdir(directory_path):
         print(f"Error: Directory not found: {directory_path}")
         return
 
-    print(f"\nStarting aggressive front matter removal for files in: {directory_path}")
+    print(f"\nStarting file renaming based on H3 headings in: {directory_path}")
     for root, _, files in os.walk(directory_path):
         for file_name in files:
             if file_name.endswith(('.md', '.markdown')):
                 file_path = os.path.join(root, file_name)
-                remove_front_matter_before_h3(file_path)
-    print("\nFinished processing all Markdown files.")
+                rename_markdown_file_from_h3(file_path)
+    print("\nFinished renaming all Markdown files.")
 
 # --- How to use the script ---
 if __name__ == "__main__":
@@ -81,7 +106,7 @@ if __name__ == "__main__":
 
     if markdown_files_directory: # Only proceed if the path is set
         if os.path.exists(markdown_files_directory):
-            process_directory(markdown_files_directory)
+            process_directory_for_rename(markdown_files_directory)
         else:
             print(f"Error: The specified directory '{markdown_files_directory}' does not exist.")
             print("Please ensure the 'markdown_files_directory' variable in the script is set to your actual folder path.")
