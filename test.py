@@ -2,6 +2,8 @@ import os
 import traceback
 import vertexai
 from vertexai.generative_models import GenerativeModel, GenerationConfig, Part
+import yaml # Import PyYAML for parsing YAML front matter
+import re # Ensure re is imported for sanitize_filename
 
 # --- CRITICAL AUTHENTICATION NOTE ---
 # Your authentication for local development is handled by running:
@@ -11,29 +13,70 @@ from vertexai.generative_models import GenerativeModel, GenerationConfig, Part
 # ------------------------------------
 
 # --- Configuration ---
-PROJECT_ID = "arched-curve-464100-c9"  # Ensure this is your correct Google Cloud Project ID
-LOCATION = "us-central1"               # Ensure this is the correct region for your model
-MODEL_NAME = "gemini-2.5-flash"        # Recommended for larger contexts, or "gemini-pro" for smaller.
+PROJECT_ID = "arched-curve-464100-c9"    # Ensure this is your correct Google Cloud Project ID
+LOCATION = "us-central1"                # Ensure this is the correct region for your model
+MODEL_NAME = "gemini-2.5-flash"         # Recommended for larger contexts, or "gemini-pro" for smaller.
 
-INPUT_ROOT_FOLDER = "Output/EN/output_articles"  # TODO: SET THIS, e.g., "input_documents"
-OUTPUT_ROOT_FOLDER = "Output/Articles/EN/"    # TODO: SET THIS, e.g., "processed_documents"
-PROMPT_FILENAME = "prompt.txt"                         # File containing your main instructions template
+INPUT_ROOT_FOLDER = "Output/EN/output_articles"  # Folder containing your original article markdown files (can have subfolders)
+OUTPUT_ROOT_FOLDER = "wordpress/"       # NEW: All rewritten articles will be flattened into this single root folder
+PROMPT_FILENAME = "prompt.txt"                  # File containing your main instructions template
+ONTOLOGY_FILENAME = "quantum_mindfulness.md"    # File containing your ontology content
 FILE_CONTENT_PLACEHOLDER = "{file_content_placeholder}" # Placeholder in prompt.txt for file content
+ONTOLOGY_CONTENT_PLACEHOLDER = "{ontology_content_placeholder}" # Placeholder in prompt.txt for ontology content
 
 print("[*] Script started.")
 print(f"[*] Using Project ID: {PROJECT_ID}, Location: {LOCATION}, Model: {MODEL_NAME}")
 print(f"[*] Input Folder: {INPUT_ROOT_FOLDER}")
 print(f"[*] Output Folder: {OUTPUT_ROOT_FOLDER}")
 print(f"[*] Instructions Template: {PROMPT_FILENAME}")
+print(f"[*] Ontology File: {ONTOLOGY_FILENAME}")
+
+# --- Utility Functions ---
+def sanitize_filename(title):
+    """
+    Sanitizes a string to be a valid filename.
+    Strips common article prefixes, removes invalid characters, and converts to lowercase.
+    """
+    # Strip the words "article" and "articulo" from the title, case-insensitively
+    filename = re.sub(r'\b(article|articulo)\b', '', title, flags=re.IGNORECASE)
+    # Strip any leading numbers and colons/periods/spaces (e.g., "1: ", "2. ", "3 ")
+    filename = re.sub(r'^\s*\d+[:.\s]+', '', filename)
+    # Replace spaces with hyphens and clean up extra spaces left by the replacement
+    filename = re.sub(r'\s+', '-', filename.strip())
+    # Remove any characters that are not alphanumeric, hyphens, or underscores
+    filename = re.sub(r'[^a-zA-Z0-9-]', '', filename)
+    # Ensure the filename isn't empty
+    if not filename:
+        return "untitled-article"
+    return filename.lower()
+
+# --- Load Ontology Content ---
+ontology_content = ""
+try:
+    with open(ONTOLOGY_FILENAME, "r", encoding="utf-8") as f_ontology:
+        ontology_content = f_ontology.read()
+    if not ontology_content.strip():
+        print(f"[ERROR] Ontology file '{ONTOLOGY_FILENAME}' is empty.")
+        exit()
+    print(f"[*] Ontology loaded successfully from '{ONTOLOGY_FILENAME}'.")
+except FileNotFoundError:
+    print(f"[ERROR] Ontology file not found: {ONTOLOGY_FILENAME}")
+    print(f"[*] Please ensure it's in the same directory as the script.")
+    exit()
+except IOError as e:
+    print(f"[ERROR] Failed to read ontology file '{ONTOLOGY_FILENAME}': {e}")
+    exit()
 
 # --- Load Main Prompt Instructions (Template) ---
 main_prompt_instructions = ""
 try:
     with open(PROMPT_FILENAME, "r", encoding="utf-8") as f_prompt_template:
         main_prompt_instructions = f_prompt_template.read()
-    if not main_prompt_instructions.strip() or FILE_CONTENT_PLACEHOLDER not in main_prompt_instructions:
-        print(f"[ERROR] Prompt instruction file '{PROMPT_FILENAME}' is empty or does not contain the placeholder '{FILE_CONTENT_PLACEHOLDER}'.")
-        print(f"[*] Please ensure '{PROMPT_FILENAME}' contains instructions and the exact string '{FILE_CONTENT_PLACEHOLDER}'.")
+    if not main_prompt_instructions.strip() or \
+       FILE_CONTENT_PLACEHOLDER not in main_prompt_instructions or \
+       ONTOLOGY_CONTENT_PLACEHOLDER not in main_prompt_instructions:
+        print(f"[ERROR] Prompt instruction file '{PROMPT_FILENAME}' is empty or does not contain all required placeholders.")
+        print(f"[*] Please ensure '{PROMPT_FILENAME}' contains instructions and the exact strings '{FILE_CONTENT_PLACEHOLDER}' and '{ONTOLOGY_CONTENT_PLACEHOLDER}'.")
         exit()
 
     print(f"[*] Prompt instructions loaded successfully from '{PROMPT_FILENAME}'.")
@@ -57,7 +100,7 @@ try:
         temperature=0.7,
         top_p=1.0,
         top_k=32.0,
-        # max_output_tokens=4096 # Potentially needed for longer responses
+        max_output_tokens=4096 # Important for longer responses
     )
 
     # 3. Initialize the Generative Model (once)
@@ -101,8 +144,9 @@ try:
                     print(f"[INFO] File '{input_filepath}' is empty. Skipping.")
                     continue
 
-                # Prepare the current prompt by injecting the file content
+                # Prepare the current prompt by injecting the file content and ontology
                 current_prompt_text = main_prompt_instructions.replace(FILE_CONTENT_PLACEHOLDER, current_file_content)
+                current_prompt_text = current_prompt_text.replace(ONTOLOGY_CONTENT_PLACEHOLDER, ontology_content)
 
                 print(f"[*] Calling model.generate_content() for '{filename}'...")
                 response = model.generate_content(
@@ -123,13 +167,34 @@ try:
                         if all_text_parts:
                             generated_text_to_save = "".join(all_text_parts)
 
-                            relative_path_from_input_root = os.path.relpath(input_filepath, INPUT_ROOT_FOLDER)
-                            output_filepath = os.path.join(OUTPUT_ROOT_FOLDER, relative_path_from_input_root)
+                            # --- Extract new title from AI response for filename ---
+                            # Look for YAML front matter first, then H3 heading
+                            new_filename_base = sanitize_filename(filename.replace('.md', '')) # Fallback to original
+                            
+                            yaml_match = re.match(r'---\s*(.*?)\s*---', generated_text_to_save, re.DOTALL)
+                            if yaml_match:
+                                try:
+                                    front_matter_str = yaml_match.group(1)
+                                    front_matter_data = yaml.safe_load(front_matter_str)
+                                    if front_matter_data and 'title' in front_matter_data:
+                                        new_filename_base = sanitize_filename(front_matter_data['title'])
+                                        print(f"[*] Extracted title from YAML for filename: {front_matter_data['title']}")
+                                except yaml.YAMLError as e:
+                                    print(f"[WARNING] Could not parse YAML front matter for filename: {e}")
+                                except Exception as e:
+                                    print(f"[WARNING] Unexpected error extracting title from YAML: {e}")
+                            
+                            # If no title from YAML, try to get from H3 in the body
+                            if new_filename_base == sanitize_filename(filename.replace('.md', '')): # Still using fallback
+                                h3_title_match = re.search(r'^(### .*)', generated_text_to_save, flags=re.MULTILINE)
+                                if h3_title_match:
+                                    new_filename_base = sanitize_filename(h3_title_match.group(1).replace('### ', ''))
+                                    print(f"[*] Extracted title from H3 heading for filename: {h3_title_match.group(1).replace('### ', '')}")
+                                else:
+                                    print(f"[WARNING] Could not extract new title from H3 heading. Using original filename base.")
 
-                            output_file_dir = os.path.dirname(output_filepath)
-                            if not os.path.exists(output_file_dir):
-                                os.makedirs(output_file_dir)
-                                print(f"[*] Created output subdirectory: {output_file_dir}")
+                            # Output path is now directly into the OUTPUT_ROOT_FOLDER (flat structure)
+                            output_filepath = os.path.join(OUTPUT_ROOT_FOLDER, new_filename_base + ".md")
 
                             try:
                                 with open(output_filepath, "w", encoding="utf-8") as f_out:
