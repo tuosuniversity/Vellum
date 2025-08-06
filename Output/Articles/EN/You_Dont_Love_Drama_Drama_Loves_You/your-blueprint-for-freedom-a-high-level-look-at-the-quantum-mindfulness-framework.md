@@ -1,22 +1,3 @@
----
-title: Your Blueprint for Freedom A High-Level Look at the Quantum Mindfulness Framework
-post_excerpt: Discover the revolutionary Quantum Mindfulness Framework, designed to liberate you from unseen "Inherited Scripts" that shape your reality. This multi-phase approach guides you to recognize, trace, and decouple from limiting patterns, empowering you to build a sovereign self and consciously author your own experience.
-taxonomy:
-    category:
-        - ["Therapeutic Strategies"
-        - "Advanced Practices"
-        - "Core Concepts"]
-    post_tag:
-        - ["Quantum Mindfulness"
-        - "Inherited Scripts"
-        - "Personal Transformation"
-        - "Self-Mastery"
-        - "Psychodynamic Dimensions"
-        - "Perceptual Freedom"
-        - "Conscious Choice"
-        - "Cognitive Agency"
-        - "Sovereign Architecture"]
----
 ### Your Blueprint for Freedom: A High-Level Look at the Quantum Mindfulness Framework
 
 Do you ever feel a subtle, persistent unease, a sense that something isn't quite right, even when life seems outwardly successful? Many people experience a profound disconnection, a feeling that they are somehow "broken." But what if you aren't broken at all, but merely "programmed" by unseen forces? The Quantum Mindfulness (QM) framework offers a revolutionary lens through which to understand and transcend these limiting patterns, guiding you back to your authentic self.

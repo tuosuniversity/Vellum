@@ -1,24 +1,3 @@
----
-title: "La Detención" - The Ancient Art of Pausing Reactivity and Reclaiming Mental Control
-post_excerpt: "Discover 'La Detención,' a foundational Quantum Mindfulness practice for interrupting automatic mental patterns and reclaiming conscious control. This article explores how pausing reactivity, informed by ancient wisdom and modern psychological insights, allows us to transcend habitual responses and actively shape our inner and outer realities, moving from a reactive existence to one of deliberate creation."
-taxonomy:
-    category:
-        - ["Practices"
-        - "Core Concepts"
-        - "Human Capacities"]
-    post_tag:
-        - ["Quantum Mindfulness"
-        - "La Detención"
-        - "Psychodynamic Collapse"
-        - "Conscious Attention"
-        - "Perceptual Freedom"
-        - "Cognitive Superposition"
-        - "Psycho-Volitional Dimension"
-        - "Mindfulness Practices"
-        - "Self-Mastery"
-        - "Cognitive Agency"
-        - "Emotional Regulation"]
----
 ### "La Detención": The Ancient Art of Pausing Reactivity and Reclaiming Mental Control
 
 Our minds are an intricate tapestry woven from an incessant flow of thoughts, sensations, and emotions. From the moment we awaken until we drift into sleep, we are immersed in a dynamic stream of experience. Yet, how often do we find ourselves swept away by immediate impulses, ingrained reactions, and the compelling force of external circumstances? It often feels as though we operate on an unconscious "autopilot," merely responding to life rather than consciously directing its course.

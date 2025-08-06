@@ -1,21 +1,3 @@
----
-title: Más Allá de la Percepción - Cómo tu Consciencia Crea tu Realidad y Reduce el Estrés
-post_excerpt: In a world often perceived as overwhelming, Quantum Mindfulness offers a revolutionary perspective: stress isn't inherent to external situations, but rather a product of our internal interpretation. This post explores how our consciousness actively shapes our reality, providing a framework to transform perceived threats into opportunities and cultivate profound well-being through active engagement with our inner experience.
-taxonomy:
-    category:
-        - ["Perception"
-        - "Mindfulness Approaches"
-        - "Core Concepts"]
-    post_tag:
-        - ["Quantum Mindfulness"
-        - "Perception"
-        - "Stress Reduction"
-        - "Cognitive Appraisal"
-        - "Psychodynamic Dimensions"
-        - "Conscious Attention"
-        - "Reality Creation"
-        - "Active Mastery"]
----
 ### Más Allá de la Percepción: Cómo tu Consciencia Crea tu Realidad y Reduce el Estrés
 
 In a world that often feels overwhelmingly complex and uncertain, the way we perceive reality plays an absolutely fundamental role in our overall well-being. Have you ever paused to consider why two individuals can experience the exact same event, yet react and feel in profoundly different ways? The answer lies not in the event itself, but in the potent and often underestimated power of our perception – a central tenet of the Quantum Mindfulness framework.

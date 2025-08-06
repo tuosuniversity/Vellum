@@ -1,26 +1,3 @@
----
-title: Desbloquea Tu Realidad - Una Mirada al Marco de Trabajo de la Conciencia Cuántica
-post_excerpt: >
-Dive into the transformative Quantum Mindfulness framework, which posits that you are not merely a passive observer but an active architect of your reality. This post explores the foundational principles, intricate mechanisms, and practical strategies for consciously shaping your experience, emphasizing the power and responsibility that come with this profound understanding.
-taxonomy:
-    category:
-        - Core Concepts
-        - Perception
-        - Mindfulness Approaches
-    post_tag:
-        - Quantum Mindfulness
-        - Reality Construction
-        - Conscious Awareness
-        - Psychodynamic Dimensions
-        - Perception
-        - Intention
-        - Cognitive Agency
-        - Self-Mastery
-        - Personal Growth
-        - Spiritual Psychology
-        - Observer-Participant
-        - Cognitive Superposition
----
 ### Desbloquea Tu Realidad: Una Mirada al Marco de Trabajo de la Conciencia Cuántica
 
 What if the reality you inhabit isn't a fixed, immutable truth you simply observe, but rather a dynamic, ever-unfolding canvas that your mind is constantly painting? The Quantum Mindfulness (QM) framework invites you on a profound, transformative journey to understand and actively participate in the very construction of reality, both at a personal and collective level. This isn't a flight of fancy or New Age mysticism; it's a deep, rigorous exploration of how your mind and consciousness truly operate, grounded in a sophisticated understanding of psychodynamics.

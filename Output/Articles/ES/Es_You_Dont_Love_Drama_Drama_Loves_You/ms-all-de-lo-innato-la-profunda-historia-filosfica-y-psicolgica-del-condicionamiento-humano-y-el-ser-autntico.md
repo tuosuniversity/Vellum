@@ -1,21 +1,3 @@
----
-title: "Más Allá de lo Innato - La Profunda Historia Filosófica y Psicológica del Condicionamiento Humano y el Ser Auténtico"
-post_excerpt: "Este artículo explora la evolución del entendimiento humano sobre el condicionamiento, desde la filosofía antigua hasta la psicología moderna. Profundiza en cómo los 'Guiones Heredados' y las influencias externas moldean nuestra realidad, y cómo el Marco de Quantum Mindfulness ofrece estrategias activas para la liberación y el cultivo del Ser Auténtico, reconociendo el papel dinámico del observador en la construcción de la experiencia."
-taxonomy:
-    category:
-        - ["Core Concepts"
-        - "Framework Principles"
-        - "Practices"]
-    post_tag:
-        - ["human conditioning"
-        - "authentic self"
-        - "inherited scripts"
-        - "psychodynamic dimensions"
-        - "quantum mindfulness"
-        - "self-liberation"
-        - "perceptual freedom"
-        - "ontological misalignment"]
----
 ### Más Allá de lo Innato: La Profunda Historia Filosófica y Psicológica del Condicionamiento Humano y el Ser Auténtico
 
 Desde tiempos inmemoriales, la humanidad se ha debatido con una pregunta fundamental: ¿Quiénes somos realmente? ¿Estamos predeterminados por nuestra biología, o somos moldeados por nuestro entorno y las experiencias que nos acontecen? La poderosa idea de que "no estás roto, solo programado" no es una noción reciente; es la culminación de siglos de pensamiento filosófico y descubrimientos psicológicos que han desvelado las intrincadas capas de cómo somos condicionados, forjando nuestra percepción y nuestra propia realidad experimentada (`Experienced Reality`).

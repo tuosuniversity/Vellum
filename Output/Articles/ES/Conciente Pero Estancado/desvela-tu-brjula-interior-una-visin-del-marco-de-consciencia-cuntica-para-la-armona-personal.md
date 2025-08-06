@@ -1,26 +1,3 @@
----
-title: Desvela Tu Brújula Interior - Una Visión del Marco de Consciencia Cuántica para la Armonía Personal
-post_excerpt: "Discover the Quantum Mindfulness framework's 'Internal Coherence Compass,' a precise diagnostic tool for navigating your inner world. This article explores a three-stage process, guiding you from internal fragmentation to profound self-understanding and strategic action, ultimately fostering psychological harmony and perceptual freedom."
-taxonomy:
-    category:
-        - ["Framework Principles"
-        - "Therapeutic Strategies"
-        - "Practices"]
-    post_tag:
-        - ["Quantum Mindfulness"
-        - "Internal Coherence Compass"
-        - "Psychodynamic Dimensions"
-        - "Self-awareness"
-        - "Personal Growth"
-        - "Psychological Harmony"
-        - "Consciousness"
-        - "Cognitive Superposition"
-        - "Observer-Participant"
-        - "Inner Wisdom"
-        - "Mental Well-being"
-        - "Emotional Intelligence"
-        - "Intentional Collapse"]
----
 ### Desvela Tu Brújula Interior: Una Visión del Marco de Consciencia Cuántica para la Armonía Personal
 
 David’s struggle—the pervasive feeling of being caught in a loop of noble intentions leading to disappointing outcomes—resonates deeply with the universal human experience. Many of us yearn for clarity and efficacy, yet find ourselves grappling with a persistent disconnect between our thoughts, emotions, and actions. This internal fragmentation, often manifesting as a subtle yet debilitating "Psychological Disharmony," is a core challenge that the Quantum Mindfulness (QM) framework addresses with a uniquely structured and precise approach, designed to guide you toward profound **Psychological Harmony**.

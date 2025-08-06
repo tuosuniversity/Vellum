@@ -1,24 +1,3 @@
----
-title: Consciencia Cuántica - Desvelando el Marco de Tres Fases para Transformar Tu Mundo Interior
-post_excerpt: "Discover the Quantum Mindfulness framework: a powerful three-phase methodology to actively sculpt your inner world. Learn to move beyond reactive patterns, consciously choose your experienced reality, and integrate lasting change for true self-mastery."
-taxonomy:
-    category:
-        - ["Framework Principles"
-        - "Practices"]
-    post_tag:
-        - ["Quantum Mindfulness"
-        - "Inner Transformation"
-        - "Psychodynamic Dimensions"
-        - "Cognitive Superposition"
-        - "Psychodynamic Collapse"
-        - "Conscious Attention"
-        - "Self-Mastery"
-        - "Mental Freedom"
-        - "Intentional Living"
-        - "Belief Formation"
-        - "Perceptual Freedom"
-        - "Active Mastery"]
----
 ### Consciencia Cuántica: Desvelando el Marco de Tres Fases para Transformar Tu Mundo Interior
 
 ¿Te has sentido alguna vez atrapado en patrones recurrentes de pensamiento o emoción, deseando tener una forma de salir de ellos? La historia de Sarah, la diseñadora gráfica, resuena con muchos de nosotros: el deseo de superar la inseguridad, el miedo al juicio o la procrastinación. Estas no son meras debilidades de carácter, sino manifestaciones de `Psicodisarmonía` o `Patrones Disfuncionales` que surgen de la interacción de nuestras `Dimensiones Psicodinámicas` internas. El marco de Consciencia Cuántica ofrece una hoja de ruta clara y accionable para precisamente eso: convertirte en el arquitecto activo de tu paisaje interno, trascendiendo el rol de mero receptor de tus estados mentales.

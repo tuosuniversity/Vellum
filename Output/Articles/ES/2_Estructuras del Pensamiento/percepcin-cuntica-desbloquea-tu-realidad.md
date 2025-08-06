@@ -1,21 +1,3 @@
----
-title: Percepción Cuántica - Desbloquea Tu Realidad
-post_excerpt: "¿Y si tu percepción no fuera un acto pasivo, sino una fuerza creativa que moldea activamente tu realidad? El Mindfulness Cuántico desafía las nociones tradicionales, revelando que somos participantes activos en la construcción de nuestra experiencia. Descubre cómo tu atención consciente colapsa un campo de potencialidades en la realidad que vives, ofreciéndote una agencia profunda sobre tu mundo interno y externo."
-taxonomy:
-    category:
-        - ["Perception"
-        - "Core Concepts"
-        - "Framework Principles"]
-    post_tag:
-        - ["Quantum Mindfulness"
-        - "Observer-Participant Dynamic"
-        - "Cognitive Superposition"
-        - "Psychodynamic Collapse"
-        - "Conscious Attention"
-        - "Reality Construction"
-        - "Mindfulness"
-        - "Internal Map"]
----
 ### Percepción Cuántica: Desbloquea Tu Realidad
 
 ¿Alguna vez te has detenido a pensar en la naturaleza fundamental de cómo experimentas el mundo? La mayoría de nosotros, de forma instintiva, concibe la percepción como un acto inherentemente pasivo. Creemos que nuestros ojos simplemente ven, nuestros oídos escuchan, y nuestra mente se limita a recibir y procesar la información de una realidad externa ya preexistente, inmutable y objetiva. Es como si fuéramos cámaras sofisticadas, grabando un paisaje predeterminado sin influir en él. Sin embargo, ¿y si esta comprensión fuera incompleta? ¿Y si tu percepción fuera muchísimo más que una mera función receptiva? ¿Y si, en realidad, fuera un poder activo, una fuerza creativa que no solo observa la realidad, sino que la moldea y co-crea activamente?

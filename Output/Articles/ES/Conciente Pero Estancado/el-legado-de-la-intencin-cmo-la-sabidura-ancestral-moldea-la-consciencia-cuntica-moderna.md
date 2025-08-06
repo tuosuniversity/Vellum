@@ -1,21 +1,3 @@
----
-title: El Legado de la Intención - Cómo la Sabiduría Ancestral Moldea la Consciencia Cuántica Moderna
-post_excerpt: This article explores how timeless wisdom about intention, from ancient philosophies to traditional mindfulness, forms the bedrock of Quantum Mindfulness. It delves into how this modern framework expands upon these foundations, enabling precise self-mastery and conscious reality creation by harmonizing the psyche's deepest volitional forces.
-taxonomy:
-    category:
-        - ["Core Concepts"
-        - "Framework Principles"
-        - "Mindfulness Approaches"]
-    post_tag:
-        - ["Quantum Mindfulness"
-        - "Intention"
-        - "Ancient Wisdom"
-        - "Conscious Creation"
-        - "Mindfulness"
-        - "Psychodynamic Dimensions"
-        - "Perceptual Freedom"
-        - "Psycho-Volitional Dimension"]
----
 ### El Legado de la Intención: Cómo la Sabiduría Ancestral Moldea la Consciencia Cuántica Moderna
 
 Throughout human history, from the ancient Greek philosophers to the spiritual masters of the East, the concept of *intention* has stood as a fundamental pillar in the pursuit of wisdom and personal mastery. It was never merely about wishing for something; rather, it encompassed the very quality of will, the purity of purpose, and the profound alignment of mind and spirit before undertaking any significant action. This deep understanding of intention as a driving force resonates more powerfully today than ever before, forming the very bedrock of transformative frameworks like Quantum Mindfulness.

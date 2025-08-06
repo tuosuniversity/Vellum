@@ -1,21 +1,3 @@
----
-title: Are You Living Your Life or Someone Else's Script? The Philosophical Roots of Existential Inauthenticity
-post_excerpt: "Discover the profound philosophical roots of feeling unauthentic, exploring how existential concepts of 'bad faith' intertwine with the Quantum Mindfulness framework's 'Inherited Scripts.' This post delves into how external conditioning shapes our perceived reality and offers practical methodologies to reclaim personal sovereignty and live a life truly aligned with your authentic self."
-taxonomy:
-    category:
-        - ["Core Concepts"
-        - "Challenges and Limitations"
-        - "Mindfulness Approaches"]
-    post_tag:
-        - ["Existentialism"
-        - "Inauthenticity"
-        - "Inherited Scripts"
-        - "Quantum Mindfulness"
-        - "Psychodynamic Dimensions"
-        - "Self-Actualization"
-        - "Conscious Reality Construction"
-        - "Perceptual Freedom"]
----
 ### Are You Living Your Life or Someone Else's Script? The Philosophical Roots of Existential Inauthenticity
 
 At the core of the human experience, a disquieting question often resides: Am I truly living *my* life, or am I merely performing a script I didn't write? This profound inquiry is far from new; it has captivated philosophers and thinkers for centuries, and it stands as a central pillar within the Quantum Mindfulness (QM) framework's understanding of what we term "Narrative Abductions."

@@ -1,20 +1,3 @@
----
-title: Are You Truly Free? The Philosophical Roots of Your 'Programmed' Self
-post_excerpt: "Explore the profound human experience of 'existential inauthenticity' and the philosophical debate between determinism and free will. This post delves into how our lives are often shaped by 'Inherited Scripts' and the resulting 'ontological misalignment,' as understood within the Quantum Mindfulness framework. Discover how recognizing these external influences is the crucial first step toward reclaiming authentic freedom."
-taxonomy:
-    category:
-        - ["Core Concepts"
-        - "Challenges and Limitations"
-        - "Perception"]
-    post_tag:
-        - ["inherited scripts"
-        - "ontological misalignment"
-        - "free will"
-        - "consciousness"
-        - "self-mastery"
-        - "existentialism"
-        - "quantum mindfulness"]
----
 ### Are You Truly Free? The Philosophical Roots of Your 'Programmed' Self
 
 Have you ever felt a nagging sense that you're not living your own life, but rather acting out a role dictated by unseen forces? This feeling of "existential inauthenticity," where your actions and beliefs don't quite align with your deepest sense of self, is a profound human experience. It's a whisper from within, suggesting that your reality might be less a product of conscious choice and more a consequence of deeply ingrained, often invisible, programming. While modern psychology offers various explanations, the roots of this profound inquiry stretch back centuries, woven into the very fabric of philosophical thought.

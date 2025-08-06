@@ -1,20 +1,3 @@
----
-title: Autoconocimiento a Través del Tiempo - La Filosofía Ancestral Detrás de la Consciencia Cuántica
-post_excerpt: "Explore the timeless quest for self-knowledge, from ancient Greek philosophers to Eastern contemplative traditions. This article delves into how the Quantum Mindfulness framework synthesizes this wisdom, offering a structured, active approach—like Cognitive Autopsy—to understand and shape your inner world, ultimately leading to perceptual freedom."
-taxonomy:
-    category:
-        - ["Core Concepts"
-        - "Mindfulness Approaches"
-        - "Framework Principles"]
-    post_tag:
-        - ["Self-Knowledge"
-        - "Quantum Mindfulness"
-        - "Psychodynamic Dimensions"
-        - "Cognitive Appraisal"
-        - "Perception"
-        - "Conscious Observation"
-        - "Ancient Wisdom"]
----
 ### Autoconocimiento a Través del Tiempo: La Filosofía Ancestral Detrás de la Consciencia Cuántica
 
 La búsqueda de la autoconciencia no es una invención moderna; es una constante que resuena a través de milenios de historia humana. Desde los albores de la civilización, filósofos, sabios y pensadores han insistido en la imperativa importancia de "conocerse a uno mismo". Esta antigua sabiduría, inmortalizada en máximas como la del Oráculo de Delfos, no es una reliquia del pasado, sino el fértil suelo sobre el que se asientan prácticas contemporáneas y profundamente transformadoras, como la **Autopsia Cognitiva** dentro del innovador marco de la Consciencia Cuántica.

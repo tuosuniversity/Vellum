@@ -1,24 +1,3 @@
----
-title: The Quantum Mindfulness Framework - A High-Level Guide to Mastering Your Mind's Creative Power
-post_excerpt: Discover the revolutionary Quantum Mindfulness framework, which posits that your mind actively shapes your reality. This guide explores how to prepare your consciousness for deep self-discovery and engage in active exploration to understand and master your internal processes, transforming you from a passive observer into a conscious co-creator of your experience.
-taxonomy:
-    category:
-        - ["Framework Principles"
-        - "Perception"
-        - "Practices"]
-    post_tag:
-        - ["Quantum Mindfulness"
-        - "Consciousness"
-        - "Mindfulness"
-        - "Perception"
-        - "Self-Transformation"
-        - "Psychodynamic Dimensions"
-        - "Cognitive Superposition"
-        - "Observer-Participant Dynamic"
-        - "Personal Growth"
-        - "Active Mastery"
-        - "Intentional Collapse"]
----
 ### The Quantum Mindfulness Framework: A High-Level Guide to Mastering Your Mind's Creative Power
 
 Imagine moving through life not as a passive observer, but as an active co-creator of your reality. This isn't a flight of fancy; it's the profound promise of the Quantum Mindfulness framework. Built on the revolutionary insight that your mind plays an active, rather than merely reactive, role in shaping every experience – a concept central to the `Active Constitutive Force View` of perception – this framework offers a structured path to greater self-awareness, agency, and profound personal transformation.

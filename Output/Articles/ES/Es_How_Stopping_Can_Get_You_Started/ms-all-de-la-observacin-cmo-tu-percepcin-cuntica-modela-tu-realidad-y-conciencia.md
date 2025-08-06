@@ -1,23 +1,3 @@
----
-title: Más Allá de la Observación - Cómo Tu Percepción Cuántica Modela Tu Realidad y Conciencia
-post_excerpt: "Descubre cómo el marco de la Consciencia Cuántica redefine nuestra relación con la realidad. Este artículo explora el concepto del 'Observador-Participante', revelando que nuestra atención no es un mero registro, sino una fuerza activa que moldea nuestras experiencias mentales y emocionales, transformando el potencial en realidad vivida."
-taxonomy:
-    category:
-        - ["Perception"
-        - "Core Concepts"
-        - "Mindfulness Approaches"]
-    post_tag:
-        - ["Quantum Mindfulness"
-        - "Perception"
-        - "Reality Construction"
-        - "Observer Effect"
-        - "Conscious Attention"
-        - "Psychodynamic Dimensions"
-        - "Mindfulness"
-        - "Self-Mastery"
-        - "Cognitive Superposition"
-        - "Psychodynamic Wave Collapse"]
----
 ### Más Allá de la Observación: Cómo Tu Percepción Cuántica Modela Tu Realidad y Conciencia
 
 ¿Alguna vez te has preguntado si tu mente es más que un simple receptor de información? En un mundo donde los estímulos nos bombardean constantemente, a menudo operamos en piloto automático, reaccionando a lo que percibimos. Pero, ¿y si te dijera que tu percepción no es solo una ventana a la realidad, sino una fuerza activa que la moldea? Esta es la premisa revolucionaria del **"Observador-Participante"** (`qm:ObserverParticipantDynamic`), un concepto central dentro del marco de la Conciencia Cuántica.

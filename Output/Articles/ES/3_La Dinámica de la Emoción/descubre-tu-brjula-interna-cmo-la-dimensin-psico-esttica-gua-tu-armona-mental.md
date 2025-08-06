@@ -1,24 +1,3 @@
----
-title: Descubre tu Brújula Interna - ¿Cómo la Dimensión Psico-Estética Guía tu Armonía Mental?
-post_excerpt: >
-Explora la Dimensión Psico-Estética (Pd6), el "corazón psicológico" del marco Quantum Mindfulness. Este artículo revela cómo este sistema de retroalimentación interna innato nos guía hacia la armonía mental y la auténtica autoexpresión, funcionando como un sutil afinador para tu psique. Descubre cómo sintonizarte con esta dimensión puede transformar tu percepción y fomentar una profunda alineación interna, permitiéndote navegar la vida con mayor coherencia y bienestar.
-taxonomy:
-    category:
-        - ["Psychodynamic Dimensions"
-        - "Emergent Properties"
-        - "Human Capacities"]
-    post_tag:
-        - ["Quantum Mindfulness"
-        - "Psycho-Aesthetic Dimension"
-        - "Pd6"
-        - "Mental Harmony"
-        - "Internal Feedback"
-        - "Psychodynamic Dimensions"
-        - "Consciousness"
-        - "Well-being"
-        - "Self-Integration"
-        - "Perceptual Freedom"]
----
 ### Descubre tu Brújula Interna: ¿Cómo la Dimensión Psico-Estética Guía tu Armonía Mental?
 
 ¿Alguna vez te has sentido completamente en sintonía con el mundo, como si tus pensamientos, emociones y acciones fluyeran sin esfuerzo en una sinfonía perfecta? O, por el contrario, ¿has experimentado momentos de profunda disonancia, donde algo fundamentalmente se siente "fuera de lugar," a pesar de que la lógica podría sugerir lo contrario? Este profundo sentido de coherencia o discordia no es una mera coincidencia emocional; es una señal directa de una de las capacidades más sofisticadas y vitales de tu mente, un concepto central en el modelo de la Consciencia Cuántica: la **Dimensión Psico-Estética (Pd6)**.

@@ -1,20 +1,3 @@
----
-title: Más Allá de la Calma - Una Visión del Marco de Consciencia para Niños y Padres
-post_excerpt: "Explora el marco de Consciencia Cuántica como una guía transformadora para familias, enseñando a niños y padres a cultivar la presencia y el bienestar. Descubre cómo esta filosofía empodera a los niños para acceder a su sabiduría interna y capacita a los padres para ser modelos de consciencia, co-creando una realidad familiar armoniosa y resiliente. Un viaje hacia la comprensión profunda de las experiencias internas y la capacidad de dar forma a la propia realidad."
-taxonomy:
-    category:
-        - ["Mindfulness Approaches"
-        - "Framework Principles"
-        - "Practices"]
-    post_tag:
-        - ["Quantum Mindfulness"
-        - "Conscious Parenting"
-        - "Psychodynamic Dimensions"
-        - "Perceptual Freedom"
-        - "Family Well-being"
-        - "Inner Wisdom"
-        - "Mindfulness Practices"]
----
 ### Más Allá de la Calma: Una Visión del Marco de Consciencia para Niños y Padres
 
 En un mundo que a menudo parece acelerarse sin cesar, encontrar la calma y fomentar conexiones profundas se ha convertido en un desafío apremiante. El marco de Consciencia Cuántica (Quantum Mindfulness, QM) emerge como una brújula esencial, ofreciendo una estructura clara y profunda para padres y educadores que aspiran a cultivar una mayor presencia y bienestar, tanto en sus hijos como en sí mismos. Este enfoque holístico trasciende la noción convencional de que la consciencia plena es meramente una habilidad a enseñar; en su lugar, la concibe como una forma de vida que se **co-crea** dinámicamente dentro del entorno familiar.

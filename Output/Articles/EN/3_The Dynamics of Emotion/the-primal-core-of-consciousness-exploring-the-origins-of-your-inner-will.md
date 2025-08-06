@@ -1,20 +1,3 @@
----
-title: The Primal Core of Consciousness - Exploring the Origins of Your Inner Will
-post_excerpt: Delve into the Psycho-Volitional Dimension (Pd1), the foundational core of consciousness within the Quantum Mindfulness framework. Discover how this primal will acts as the ultimate source of intention, creative thought, and the power to dissolve perceived limitations, enabling profound self-mastery and the conscious shaping of your reality.
-taxonomy:
-    category:
-        - ["Core Concepts"
-        - "Framework Principles"
-        - "Human Capacities"]
-    post_tag:
-        - ["Quantum Mindfulness"
-        - "Psycho-Volitional Dimension"
-        - "Consciousness"
-        - "Willpower"
-        - "Intentionality"
-        - "Self-Mastery"
-        - "Perceptual Freedom"]
----
 ### The Primal Core of Consciousness: Exploring the Origins of Your Inner Will
 
 For millennia, humanity has pondered the profound questions of existence: What is the essence of consciousness? From where do our intentions spring? And how do we truly shape our reality? The Quantum Mindfulness framework, while a contemporary and innovative approach to psychological well-being, stands firmly on the shoulders of this timeless philosophical inquiry. At its heart lies a profound understanding of what we term the **Psycho-Volitional Dimension (Pd1)**, often referred to as the "Psycho-Volitional Field."

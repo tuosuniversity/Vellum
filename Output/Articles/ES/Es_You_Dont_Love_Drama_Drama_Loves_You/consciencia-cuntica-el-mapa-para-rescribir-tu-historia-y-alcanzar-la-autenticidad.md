@@ -1,21 +1,3 @@
----
-title: Consciencia Cuántica - El Mapa para Rescribir Tu Historia y Alcanzar la Autenticidad
-post_excerpt: ¿Alguna vez te has sentido atrapado en una historia que no te pertenece? El Marco de Consciencia Cuántica ofrece un camino revolucionario para liberarte de los "Guiones Heredados" y convertirte en el autor de tu propia vida, transformando la percepción de una ventana pasiva a una fuerza activa y creativa. Descubre cómo este enfoque multifásico te guía hacia la autenticidad y el autodominio.
-taxonomy:
-    category:
-        - ["Framework Principles"
-        - "Therapeutic Strategies"
-        - "Practices"]
-    post_tag:
-        - ["Quantum Mindfulness"
-        - "Inherited Scripts"
-        - "Perceptual Freedom"
-        - "Self-Mastery"
-        - "Conscious Reality Construction"
-        - "Psychodynamic Dimensions"
-        - "Cognitive Agency"
-        - "Ontological Reassignment"]
----
 ### Consciencia Cuántica: El Mapa para Rescribir Tu Historia y Alcanzar la Autenticidad
 
 ¿Te has sentido alguna vez atrapado en una narrativa que no te pertenece? ¿Como si tus acciones y reacciones estuvieran dictadas por un guion invisible, alejándote de tu verdadero potencial y de una profunda sensación de propósito? Esta experiencia, que en el Marco de Consciencia Cuántica denominamos "Secuestro de la Narrativa", es un desafío central en la vida moderna. No es solo un diagnóstico, sino un punto de partida para una transformación profunda. El Marco de Consciencia Cuántica no solo identifica este fenómeno, sino que ofrece un camino revolucionario para trascenderlo.

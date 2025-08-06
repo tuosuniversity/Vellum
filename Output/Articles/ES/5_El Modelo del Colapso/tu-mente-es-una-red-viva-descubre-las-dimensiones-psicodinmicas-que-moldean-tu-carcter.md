@@ -1,20 +1,3 @@
----
-title: Tu Mente es una Red Viva - Descubre las Dimensiones Psicodinámicas que Moldean tu Carácter
-post_excerpt: "Explore the Quantum Mindfulness framework's revolutionary view of character, not as fixed traits but as a dynamic interplay of ten interconnected Psychodynamic Dimensions. Learn how conscious engagement with these internal 'energetic substrates' empowers you to actively sculpt your reality and cultivate a more aligned, authentic self."
-taxonomy:
-    category:
-        - ["Framework Principles"
-        - "Psychodynamic Dimensions"
-        - "Core Concepts"]
-    post_tag:
-        - ["Quantum Mindfulness"
-        - "Psychodynamic Dimensions"
-        - "Character Development"
-        - "Consciousness"
-        - "Self-mastery"
-        - "Perception"
-        - "Internal Architecture"]
----
 ### Tu Mente es una Red Viva: Descubre las Dimensiones Psicodinámicas que Moldean tu Carácter
 
 Have you ever felt that your "self" is far more complex than it appears on the surface? Beyond the personality traits you identify with, is there a deeper, unseen current driving your thoughts, emotions, and actions? The Quantum Mindfulness framework proposes a fascinating idea: your character isn't a fixed set of attributes, but rather a dynamic expression of interconnected internal energies, which we call **Psychodynamic Dimensions**.

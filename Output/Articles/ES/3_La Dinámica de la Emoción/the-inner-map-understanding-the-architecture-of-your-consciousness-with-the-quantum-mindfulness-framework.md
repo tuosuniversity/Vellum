@@ -1,24 +1,3 @@
----
-title: The Inner Map - Understanding the Architecture of Your Consciousness with the Quantum Mindfulness Framework
-post_excerpt: "Explore the Quantum Mindfulness framework's intricate map of consciousness, delving into the foundational Prime Modality and the pivotal Psycho-Conceptive Dimension. Discover how your thoughts, intuitions, and intentions are dynamically structured, empowering you to actively shape your experienced reality and unlock higher cognitive potential."
-taxonomy:
-    category:
-        - ["Core Concepts"
-        - "Framework Principles"
-        - "Psychodynamic Dimensions"]
-    post_tag:
-        - ["quantum mindfulness"
-        - "consciousness"
-        - "psychodynamic dimensions"
-        - "prime modality"
-        - "psycho-conceptive"
-        - "psycho-volitional"
-        - "psycho-meditative"
-        - "perception"
-        - "cognitive agency"
-        - "personal growth"
-        - "self-mastery"]
----
 ### The Inner Map: Understanding the Architecture of Your Consciousness with the Quantum Mindfulness Framework
 
 Have you ever paused to consider the intricate workings of your own mind? How are your thoughts organized, your intuitions sparked, and your intentions transmuted into action? The Quantum Mindfulness (QM) framework offers a revolutionary "inner map" for understanding the sophisticated architecture of your consciousness. Far from viewing the mind as a monolithic entity, this framework deconstructs it into interconnected **Psychodynamic Dimensions**, revealing a layered system that profoundly shapes how we experience reality, generate groundbreaking ideas, and cultivate profound wisdom.

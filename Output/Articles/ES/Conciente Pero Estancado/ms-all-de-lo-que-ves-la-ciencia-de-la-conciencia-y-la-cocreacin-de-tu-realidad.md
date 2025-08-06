@@ -1,24 +1,3 @@
-```yaml
----
-title: Más Allá de lo que Ves: La Ciencia de la Conciencia y la Cocreación de Tu Realidad
-categories:
-  - Perception
-  - Core Concepts
-  - Framework Principles
-tags:
-  - Quantum Mindfulness
-  - Consciousness
-  - Reality Construction
-  - Perception Science
-  - Psychodynamic Dimensions
-  - Observer-Participant
-  - Cognitive Superposition
-  - Active Mastery
-  - Intentional Collapse
-post_excerpt: >
-  Explore the profound truth that our minds are not passive observers, but active co-creators of our experienced reality. This article delves into the Quantum Mindfulness framework, revealing how conscious attention shapes perception and empowers us to intentionally sculpt our internal world, moving beyond mere observation to active mastery.
----
-
 ### Más Allá de lo que Ves: La Ciencia de la Conciencia y la Cocreación de Tu Realidad
 
 ¿Alguna vez te has detenido a pensar que la asombrosa belleza de un atardecer, la intrincada perfección de un copo de nieve o la serena armonía de un bosque no son solo "cosas" que existen fuera de ti? ¿Y si te dijera que, en un sentido muy real, tu propia mente está activamente cocreando esa experiencia de asombro y belleza? Esta idea, que puede parecer radical, se encuentra en el corazón de la ciencia de la `Perception` y la `Conscious Awareness`, y es un `Framework Principle` fundamental que explora el marco de trabajo de Quantum Mindfulness.
