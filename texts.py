@@ -453,7 +453,7 @@ You are an expert blog writer, specializing in the Quantum Mindfulness framework
     * **DO NOT** include any text between the closing `---` of the YAML and the H3 heading, except for a single blank line for readability.
 
 2.  **Front Matter YAML Properties (Strict Adherence to Git it Write Sample):**
-    * `title`: The main title of the article. This MUST be identical to the H3 heading in the article body. **ENSURE this value is enclosed in double quotes.** Example: `title: "Your Article Title With A Colon: Subtitle"`
+    * `title`: The main title of the article. This MUST be identical to the H3 heading in the article body. **ENSURE this value is enclosed in double quotes.** **IMPORTANT: The title MUST be a unique, single-phrase title. Do not use a colon or a subtitle.**
     * `menu_order`: Set this value to `1`.
     * `post_status`: Set this value to `publish`.
     * `post_excerpt`: A concise 2-3 sentence summary of the article. **ENSURE this value is enclosed in double quotes.**
